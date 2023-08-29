@@ -413,6 +413,12 @@ A collection of live projects within the TON ecosystem.
 | Prophecy Pulse   | [Telegram](https://t.me/prophecypulse_bot)   |                                       | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/)   |
 | Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [Github](https://github.com/wagmi11)  | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)         |
 
+## Utilities
+
+| Name          | Telegram                              | Github                                 | Twitter                                     | Website                           |
+| ------------- | ------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
+| Connecton VPN | [Telegram](https://t.me/ConnectonBot) | [Github](https://github.com/Connecton) | [Twitter](https://twitter.com/ConnectonVPN) | [Website](https://connecton.surf) |
+
 ---
 
 # Contribution Guidelines
