@@ -14,7 +14,6 @@ A collection of live projects within the TON ecosystem.
     - [Lending and Borrowing](#lending-and-borrowing)
     - [Staking](#staking)
     - [Stablecoins](#stablecoins)
-  - [Gambling](#gambling)
   - [Launchpad](#launchpad)
   - [On-Ramp](#on-ramp)
   - [Explorers](#explorers)
@@ -43,6 +42,7 @@ A collection of live projects within the TON ecosystem.
     - [Custodial Wallets](#custodial-wallets)
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
+  - [Gambling](#gambling) 
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating your PR](#updating-your-pr)
 
@@ -98,23 +98,6 @@ A collection of live projects within the TON ecosystem.
 | Name          | Telegram                                 | Github | Twitter                                        | Website                              |
 | ------------- | ---------------------------------------- | ------ | ---------------------------------------------- | ------------------------------------ |
 | Aqua Protocol | [Telegram](https://t.me/aquaprotocolxyz) |        | [Twitter](https://twitter.com/aquaprotocolxyz) | [Website](https://aquaprotocol.xyz/) |
-
-## Gambling
-
-| Name             | Telegram                                     | Github                                | Twitter                                      | Website                                     |
-| ---------------- | -------------------------------------------- | ------------------------------------- | -------------------------------------------- | ------------------------------------------- |
-| @Whale           | [Telegram](https://t.me/Whalegames_bot)      |                                       |                                              | [Website](https://t.me/Whalegames_bot)      |
-| JetTon Games     | [Telegram](https://t.me/JetTon)              |                                       | [Twitter](https://twitter.com/kanalabs)      | [Website](https://t.me/JetTon)              |
-| Classic TON      |                                              |                                       |                                              | [Website](https://classic.ton-game.com/)    |
-| Gambling Bot     | [Telegram](https://t.me/ton_games_and_more)  |                                       |                                              | [Website](https://t.me/ton_games_and_more)  |
-| TON Lottery      | [Telegram](https://t.me/TonProject_bot)      |                                       |                                              | [Website](https://t.me/TonProject_bot)      |
-| Grand Casino TON | [Telegram](https://t.me/TG_grand_casino_bot) |                                       |                                              | [Website](https://t.me/TG_grand_casino_bot) |
-| TON Casino       |                                              |                                       |                                              | [Website](https://toncasino.io/)            |
-| Bitsler          | [Telegram](https://t.me/bitsler_casino)      | [Github](https://twitter.com/Bitsler) |                                              | [Website](https://www.bitsler.com/)         |
-| TON Games        | [Telegram](https://t.me/ton_games_and_more)  |                                       |                                              | [Website](https://ton-game.com/)            |
-| FAN TON          | [Telegram](https://t.me/FanTonGameBot)       |                                       | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)             |
-| Prophecy Pulse   | [Telegram](https://t.me/prophecypulse_bot)   |                                       | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/)   |
-| Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [Github](https://github.com/wagmi11)  | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)         |
 
 ## Launchpad
 
@@ -294,7 +277,7 @@ A collection of live projects within the TON ecosystem.
 | Ever SDK                  | [Telegram](https://t.me/ever_sdk)                           | [Github](https://github.com/tonlabs/ever-sdk)             |                                            | [Website](https://docs.everos.dev/ever-sdk/)                         |
 | TON Game.fi SDK           |                                                             |                                                           |                                            | [Website](https://ton.org/gamefi)                                    |
 
-## TWA (Telegram Web Apps)
+## Telegram Web Apps Tooling
 
 | Name                           | Telegram                         | Github                                                                               | Twitter | Website                                            |
 | ------------------------------ | -------------------------------- | ------------------------------------------------------------------------------------ | ------- | -------------------------------------------------- |
@@ -325,8 +308,6 @@ A collection of live projects within the TON ecosystem.
 | Anton.tools    | [Telegram](https://t.me/tonindexer)         | [Github](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)         |
 | TON Radar      | [Telegram](https://t.me/tonradarapp)        | [Github](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)        |
 | TON Validators | [Telegram](https://t.me/ton_validators_bot) |                                               |                                               | [Website](https://tonvalidators.org/)   |
-
-whales
 
 ## API Providers
 
@@ -414,6 +395,23 @@ whales
 | Ledger  |                                           | [Github](https://github.com/LedgerHQ)      | [Twitter](https://twitter.com/Ledger)   | [Website](https://www.ledger.com/)     |
 | Safepal | [Telegram](https://t.me/SafePal_official) | [Github](https://github.com/SafePalWallet) | [Twitter](https://twitter.com/iSafePal) | [Website](https://www.safepal.com/en/) |
 | Tangem  | [Telegram](https://t.me/tangem)           | [Github](https://github.com/tangem)        | [Twitter](https://twitter.com/tangem)   | [Website](https://tangem.com/en/)      |
+
+## Gambling
+
+| Name             | Telegram                                     | Github                                | Twitter                                      | Website                                     |
+| ---------------- | -------------------------------------------- | ------------------------------------- | -------------------------------------------- | ------------------------------------------- |
+| @Whale           | [Telegram](https://t.me/Whalegames_bot)      |                                       |                                              | [Website](https://t.me/Whalegames_bot)      |
+| JetTon Games     | [Telegram](https://t.me/JetTon)              |                                       | [Twitter](https://twitter.com/kanalabs)      | [Website](https://t.me/JetTon)              |
+| Classic TON      |                                              |                                       |                                              | [Website](https://classic.ton-game.com/)    |
+| Gambling Bot     | [Telegram](https://t.me/ton_games_and_more)  |                                       |                                              | [Website](https://t.me/ton_games_and_more)  |
+| TON Lottery      | [Telegram](https://t.me/TonProject_bot)      |                                       |                                              | [Website](https://t.me/TonProject_bot)      |
+| Grand Casino TON | [Telegram](https://t.me/TG_grand_casino_bot) |                                       |                                              | [Website](https://t.me/TG_grand_casino_bot) |
+| TON Casino       |                                              |                                       |                                              | [Website](https://toncasino.io/)            |
+| Bitsler          | [Telegram](https://t.me/bitsler_casino)      | [Github](https://twitter.com/Bitsler) |                                              | [Website](https://www.bitsler.com/)         |
+| TON Games        | [Telegram](https://t.me/ton_games_and_more)  |                                       |                                              | [Website](https://ton-game.com/)            |
+| FAN TON          | [Telegram](https://t.me/FanTonGameBot)       |                                       | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)             |
+| Prophecy Pulse   | [Telegram](https://t.me/prophecypulse_bot)   |                                       | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/)   |
+| Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [Github](https://github.com/wagmi11)  | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)         |
 
 ---
 
