@@ -1,5 +1,5 @@
 <a href="https://ton.org/">
-	<img width="100%" src="./assets/images/ton-banner.jpg" alt="TON Ecosystem Banner" />
+	<img width="100%" src="./assets/images/ecosystem.png" alt="TON Ecosystem" />
 </a>
 
 # **TON Ecosystem**
