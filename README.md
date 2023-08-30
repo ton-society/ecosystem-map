@@ -42,7 +42,8 @@ A collection of live projects within the TON ecosystem.
     - [Custodial Wallets](#custodial-wallets)
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
-  - [Gambling](#gambling) 
+  - [Gambling](#gambling)
+  - [Utilities](#utilities)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating your PR](#updating-your-pr)
 
