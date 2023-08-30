@@ -344,7 +344,6 @@
 
 | Name                    | Telegram                                        | Github                                             | Twitter                                      | Website                             |
 | ----------------------- | ----------------------------------------------- | -------------------------------------------------- | -------------------------------------------- | ----------------------------------- |
-| TON Contests            | [Telegram](https://t.me/toncontests_chat)       |                                                    |                                              | [Website](https://t.me/toncontests) |
 | TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [Github](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)        |
 | NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                     |
 | Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)         |
