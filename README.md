@@ -152,6 +152,7 @@
 | BIOM Play2Earn   | [Telegram](https://t.me/Biom_play2earn_bot)             |                                                              |                                              | [Website](https://t.me/Biom_play2earn_bot)     |
 | Zernosklad       | [Telegram](http://t.me/tonRocketBot?start=i_wHQqJ86uKJ) | [Github](https://github.com/AsetPay)                         | [Twitter](https://twitter.com/AsetPay)       | [Website](https://zernosklad.com/)             |
 | TON Chess        | [Telegram](https://tonplay.io/games/RDKcT26bNo)         | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
+| TON Punks    | [Telegram](https://t.co/TtQsHkp7Wj)     | [Github](https://github.com/TON-Punks/punk-city-hack-a-tonx) | [Twitter](https://twitter.com/TonPunks)            | [Website](https://getgems.io/collection/EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN) |
 
 ## Infra
 
@@ -258,7 +259,6 @@
 | TON Diamonds | [Telegram](https://t.me/tondiamonds)    |                                                              | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)                                                          |
 | Disintar     | [Telegram](https://t.me/disintar)       |                                                              | [Twitter](https://twitter.com/disintar_io?lang=en) | [Website](https://beta.disintar.io/)                                                      |
 | TON Play     | [Telegram](https://t.me/tonplayinsider) | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)                                                            |
-| TON Punks    | [Telegram](https://t.co/TtQsHkp7Wj)     | [Github](https://github.com/TON-Punks/punk-city-hack-a-tonx) | [Twitter](https://twitter.com/TonPunks)            | [Website](https://getgems.io/collection/EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN) |
 
 ## NFT Tooling
 
