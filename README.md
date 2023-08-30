@@ -4,7 +4,6 @@
 
 ## A collection of live projects within the TON ecosystem
 
-- [**TON Ecosystem**](#ton-ecosystem)
 - [Project Categories](#project-categories)
   - [Bridges](#bridges)
   - [DeFi](#defi)
