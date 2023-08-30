@@ -191,12 +191,16 @@
 
 ### Nodes
 
-| Name                   | Telegram                                  | Github                                                | Twitter                                      | Website                                               |
-| ---------------------- | ----------------------------------------- | ----------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------- |
-| TON Admin              |                                           |                                                       |                                              | [Website](https://tonadmin.org/)                      |
-| MyTonCtrl              |                                           | [Github](https://github.com/ton-blockchain/mytonctrl) |                                              |
-| AWS Managed Blockchain |                                           |                                                       |                                              | [Website](https://aws.amazon.com/managed-blockchain/) |
-| Redstone Oracle        | [Telegram](https://t.me/redstonefinance/) | [Github](https://github.com/redstone-finance)         | [Twitter](https://twitter.com/redstone_defi) | [Website](https://redstone.finance/)                  |
+| Name      | Telegram | Github                                                | Twitter | Website                          |
+| --------- | -------- | ----------------------------------------------------- | ------- | -------------------------------- |
+| TON Admin |          |                                                       |         | [Website](https://tonadmin.org/) |
+| MyTonCtrl |          | [Github](https://github.com/ton-blockchain/mytonctrl) |         |
+
+### Oracles
+
+| Name            | Telegram                                  | Github                                        | Twitter                                      | Website                              |
+| --------------- | ----------------------------------------- | --------------------------------------------- | -------------------------------------------- | ------------------------------------ |
+| Redstone Oracle | [Telegram](https://t.me/redstonefinance/) | [Github](https://github.com/redstone-finance) | [Twitter](https://twitter.com/redstone_defi) | [Website](https://redstone.finance/) |
 
 ### Zk on TON
 
@@ -216,10 +220,10 @@
 
 ### Decentralized Identity
 
-| Name        | Telegram                           | Github                                             | Twitter | Website                                                              |
-| ----------- | ---------------------------------- | -------------------------------------------------- | ------- | -------------------------------------------------------------------- |
-| TON Connect | [Telegram](https://t.me/tonkeeper) | [Github](https://github.com/tonkeeper/ton-connect) |         | [Website](https://docs.ton.org/develop/dapps/ton-connect/developers) |
-| TON Guard   |                                    |                                                    |         | [Website](https://tonguard.org/)                                     |
+| Name        | Telegram                              | Github                                             | Twitter | Website                                                              |
+| ----------- | ------------------------------------- | -------------------------------------------------- | ------- | -------------------------------------------------------------------- |
+| TON Connect | [Telegram](https://t.me/tonkeeper)    | [Github](https://github.com/tonkeeper/ton-connect) |         | [Website](https://docs.ton.org/develop/dapps/ton-connect/developers) |
+| TON Guard   | [Telegram](https://t.me/tonguard_bot) |                                                    |         | [Website](https://tonguard.org/)                                     |
 
 ## Education
 
@@ -247,14 +251,14 @@
 
 ## Marketplaces
 
-| Name         | Telegram                                | Github                                  | Twitter                                            | Website                                                                                   |
-| ------------ | --------------------------------------- | --------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Getgems      | [Telegram](https://t.me/getgems)        | [Github](https://github.com/getgems-io) | [Twitter](https://twitter.com/getgemsdotio)        | [Website](https://getgems.io/)                                                            |
-| Fragment     |                                         |                                         |                                                    | [Website](https://fragment.com/)                                                          |
-| TON Diamonds | [Telegram](https://t.me/tondiamonds)    |                                         | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)                                                          |
-| Disintar     | [Telegram](https://t.me/disintar)       |                                         | [Twitter](https://twitter.com/disintar_io?lang=en) | [Website](https://beta.disintar.io/)                                                      |
-| TON Play     | [Telegram](https://t.me/tonplayinsider) |                                         | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)                                                            |
-| TON Punks    | [Telegram](https://t.co/TtQsHkp7Wj)     |                                         | [Twitter](https://twitter.com/TonPunks)            | [Website](https://getgems.io/collection/EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN) |
+| Name         | Telegram                                | Github                                                       | Twitter                                            | Website                                                                                   |
+| ------------ | --------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Getgems      | [Telegram](https://t.me/getgems)        | [Github](https://github.com/getgems-io)                      | [Twitter](https://twitter.com/getgemsdotio)        | [Website](https://getgems.io/)                                                            |
+| Fragment     |                                         |                                                              |                                                    | [Website](https://fragment.com/)                                                          |
+| TON Diamonds | [Telegram](https://t.me/tondiamonds)    |                                                              | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)                                                          |
+| Disintar     | [Telegram](https://t.me/disintar)       |                                                              | [Twitter](https://twitter.com/disintar_io?lang=en) | [Website](https://beta.disintar.io/)                                                      |
+| TON Play     | [Telegram](https://t.me/tonplayinsider) | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)                                                            |
+| TON Punks    | [Telegram](https://t.co/TtQsHkp7Wj)     | [Github](https://github.com/TON-Punks/punk-city-hack-a-tonx) | [Twitter](https://twitter.com/TonPunks)            | [Website](https://getgems.io/collection/EQAo92DYMokxghKcq-CkCGSk_MgXY5Fo1SPW20gkvZl75iCN) |
 
 ## NFT Tooling
 
@@ -266,7 +270,7 @@
 | Ton Diamonds NFT Deployer | [Telegram](https://t.me/TONDiamondsBot?start=joinCommunity) | [Github](https://github.com/tondiamonds/ton-nft-deployer) | [Twitter](https://twitter.com/TonDiamonds) | [Website](https://tondiamonds.github.io/ton-nft-deployer/)           |
 | TON NFT Catalog           | [Telegram](https://t.me/investkingyru)                      |                                                           |                                            | [Website](https://ton.org.in/catalog/)                               |
 | DAOLama                   | [Telegram](https://t.me/daolama_en)                         |                                                           | [Twitter](https://twitter.com/daolama_ton) | [Website](https://daolama.co/)                                       |
-| TON SDK                   |                                                             |                                                           |                                            | [Website](https://github.com/tonfactory/tonsdk)                      |
+| TON SDK                   |                                                             | [Github](https://github.com/tonfactory/tonsdk)            |                                            | [Website](https://pypi.org/project/tonsdk/)                          |
 | TON Connect SDKs          |                                                             | [Github](https://github.com/ton-connect/)                 |                                            | [Website](https://docs.ton.org/develop/dapps/ton-connect/developers) |
 | TON Play Unity SDK        |                                                             | [Github](https://github.com/ton-play/tonplay-unity-sdk)   |                                            | [Website](https://docs.tonplay.io/sdk/unity-sdk)                     |
 | 8XR                       | [Telegram](https://twitter.com/8xr_engine)                  |                                                           | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)                                           |
@@ -331,10 +335,10 @@
 
 ## App Store
 
-| Name      | Telegram                        | Github | Twitter                                 | Website                     |
-| --------- | ------------------------------- | ------ | --------------------------------------- | --------------------------- |
-| ton.app   | [Telegram](https://t.me/tonapp) |        | [Twitter](https://twitter.com/apps_ton) | [Website](https://ton.app/) |
-| TWA Store |                                 |        |                                         |                             |
+| Name      | Telegram                              | Github | Twitter                                 | Website                          |
+| --------- | ------------------------------------- | ------ | --------------------------------------- | -------------------------------- |
+| TON App   | [Telegram](https://t.me/tonapp)       |        | [Twitter](https://twitter.com/apps_ton) | [Website](https://ton.app/)      |
+| TWA Store | [Telegram](https://t.me/trendingApps) |        |                                         | [Website](https://tapps.center/) |
 
 ## SocialFi
 
