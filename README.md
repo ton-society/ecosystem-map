@@ -285,7 +285,6 @@
 | TWA Boilerplate                |                                  | [Github](https://github.com/twa-dev/Boilerplate)                                     |         | [Website](https://boilerplate-twa-dev.vercel.app/) |
 | TWA React SDK                  |                                  | [Github](https://github.com/Telegram-Web-Apps/twa.js/blob/master/packages/sdk-react) |         |                                                    |
 | twa.js                         |                                  | [Github](https://github.com/Telegram-Web-Apps/twa.js)                                |         |                                                    |
-| Tact Boilerplate Template      |                                  | [Github](https://github.com/ton-community/tact-template)                             |         |                                                    |
 
 ## Compliance
 
