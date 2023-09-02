@@ -426,11 +426,11 @@ This list is a grouped collection of live projects built on [TON](https://ton.or
 Ensure your pull request adheres to the following:
 
 - `|` Project Name in _Title Case_ followed by `|`
-- Accepted Links - _Github_, _Twitter_, _Website URL_ each separated by `|`
-- Ensure the project is suggested within the correct category, no more than _2_ allowed
-- Entries should be arranged in alphabetical order sorted by Project Name
+- Accepted Links - _Telegram_, _Github_, _Twitter_, _Website URL_ each separated by `|`
+- Ensure the project is suggested within the correct category. No more than _2_ allowed
+- Entries should be arranged in alphabetical order, sorted by Project Name
 
-Example: `| Project Name | [Github](url) | [Twitter](url) | [Website](url)`
+Example: `| Project Name | [Telegram](url) | [Github](url) | [Twitter](url) | [Website](url)`
 
 ## Updating your PR
 
