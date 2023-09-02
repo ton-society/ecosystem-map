@@ -40,7 +40,8 @@
     - [Custodial Wallets](#custodial-wallets)
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
-  - [Gambling](#gambling)
+  - [Utilities](#utilities)
+  - [Gambling](#gambling)  
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating your PR](#updating-your-pr)
 
@@ -392,6 +393,12 @@
 | Ledger  |                                           | [Github](https://github.com/LedgerHQ)      | [Twitter](https://twitter.com/Ledger)   | [Website](https://www.ledger.com/)     |
 | Safepal | [Telegram](https://t.me/SafePal_official) | [Github](https://github.com/SafePalWallet) | [Twitter](https://twitter.com/iSafePal) | [Website](https://www.safepal.com/en/) |
 | Tangem  | [Telegram](https://t.me/tangem)           | [Github](https://github.com/tangem)        | [Twitter](https://twitter.com/tangem)   | [Website](https://tangem.com/en/)      |
+
+## Utilities
+
+| Name          | Telegram                              | Github                                 | Twitter                                     | Website                           |
+| ------------- | ------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
+| Connecton VPN | [Telegram](https://t.me/ConnectonBot) | [Github](https://github.com/Connecton) | [Twitter](https://twitter.com/ConnectonVPN) | [Website](https://connecton.surf) |
 
 ## Gambling
 
