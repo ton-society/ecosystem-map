@@ -41,7 +41,7 @@
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [Utilities](#utilities)
-  - [Gambling](#gambling)  
+  - [Gambling](#gambling)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating your PR](#updating-your-pr)
 
@@ -98,11 +98,11 @@
 
 ## Launchpad
 
-| Name              | Telegram                                        | Github                                                           | Twitter                                      | Website                                |
-| ----------------- | ----------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------- | -------------------------------------- |
-| Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      | [Github](https://github.com/Elements-Studio/starswap-core-aptos) | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)     |
-| TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |                                                                  | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
-| TONUP             | [Telegram](https://t.me/TonUP_io)               |                                                                  | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
+| Name              | Telegram                                        | Github | Twitter                                      | Website                                |
+| ----------------- | ----------------------------------------------- | ------ | -------------------------------------------- | -------------------------------------- |
+| Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)     |
+| TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
+| TONUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
 
 ## On-Ramp
 
@@ -138,21 +138,21 @@
 
 ## Gaming
 
-| Name             | Telegram                                                | Github                                                       | Twitter                                      | Website                                        |
-| ---------------- | ------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
-| Tonarchy         | [Telegram](https://t.me/Tonarchy)                       |                                                              | [Twitter](https://twitter.com/tonarchy)      | [Website](https://tonarchy.online/)            |
-| TON Planets Mars | [Telegram](https://t.me/TONPlanets)                     |                                                              | [Twitter](https://twitter.com/TonPlanets)    | [Website](https://mars.tonplanets.com/en/)     |
-| TON Play         | [Telegram](https://t.me/tonplayinsider)                 | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/DZmrVk1mJ5) |
-| Lifeblood        |                                                         |                                                              |                                              | [Website](https://lifeblood.ru/)               |
-| Tonrare          | [Telegram](https://t.me/tonrare_games)                  |                                                              |                                              | [Website](https://tonrare.com/explore)         |
-| Stepogram        |                                                         | [Twitter](https://twitter.com/stepogram)                     | [Website](https://stepogram.com/)            |
-| PunkCity         | [Telegram](https://t.me/PunkCity2094bot)                | [Github](https://github.com/TON-Punks/punk-city-hack-a-tonx) | [Twitter](https://twitter.com/TonPunks)      | [Website](https://t.me/PunkCity2094bot)        |
-| Tongochi Game    | [Telegram](https://t.me/TonGochi_bot)                   | [Github](https://github.com/tongochi/DEX)                    | [Twitter](https://twitter.com/tongochi)      | [Website](https://t.me/TonGochi_bot)           |
-| Toncaps          | [Telegram](https://t.me/toncapsio)                      |                                                              |                                              | [Website](https://toncaps.io/)                 |
-| Fanton           | [Telegram](https://t.me/fantongamebot)                  |                                                              | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)                |
-| BIOM Play2Earn   | [Telegram](https://t.me/Biom_play2earn_bot)             |                                                              |                                              | [Website](https://t.me/Biom_play2earn_bot)     |
-| Zernosklad       | [Telegram](http://t.me/tonRocketBot?start=i_wHQqJ86uKJ) | [Github](https://github.com/AsetPay)                         | [Twitter](https://twitter.com/AsetPay)       | [Website](https://zernosklad.com/)             |
-| TON Chess        | [Telegram](https://tonplay.io/games/RDKcT26bNo)         | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
+| Name             | Telegram                                        | Github                                                       | Twitter                                      | Website                                        |
+| ---------------- | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
+| Tonarchy         | [Telegram](https://t.me/Tonarchy)               |                                                              | [Twitter](https://twitter.com/tonarchy)      | [Website](https://tonarchy.online/)            |
+| TON Planets Mars | [Telegram](https://t.me/TONPlanets)             |                                                              | [Twitter](https://twitter.com/TonPlanets)    | [Website](https://mars.tonplanets.com/en/)     |
+| TON Play         | [Telegram](https://t.me/tonplayinsider)         | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/DZmrVk1mJ5) |
+| Lifeblood        |                                                 |                                                              |                                              | [Website](https://lifeblood.ru/)               |
+| Tonrare          | [Telegram](https://t.me/tonrare_games)          |                                                              |                                              | [Website](https://tonrare.com/explore)         |
+| Stepogram        |                                                 |                                                              | [Twitter](https://twitter.com/stepogram)     | [Website](https://stepogram.com/)              |
+| PunkCity         | [Telegram](https://t.me/PunkCity2094bot)        | [Github](https://github.com/TON-Punks/punk-city-hack-a-tonx) | [Twitter](https://twitter.com/TonPunks)      | [Website](https://t.me/PunkCity2094bot)        |
+| Tongochi Game    | [Telegram](https://t.me/TonGochi_bot)           | [Github](https://github.com/tongochi/DEX)                    | [Twitter](https://twitter.com/tongochi)      | [Website](https://t.me/TonGochi_bot)           |
+| Toncaps          | [Telegram](https://t.me/toncapsio)              |                                                              |                                              | [Website](https://toncaps.io/)                 |
+| Fanton           | [Telegram](https://t.me/fantongamebot)          |                                                              | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)                |
+| BIOM Play2Earn   | [Telegram](https://t.me/Biom_play2earn_bot)     |                                                              |                                              | [Website](https://t.me/Biom_play2earn_bot)     |
+| Zernosklad       | [Telegram](http://t.me/TonTake)                 |                                                              | [Twitter](https://twitter.com/TonTakeGame)   | [Website](https://zernosklad.com/)             |
+| TON Chess        | [Telegram](https://tonplay.io/games/RDKcT26bNo) | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
 
 ## Infra
 
@@ -252,13 +252,14 @@
 
 ## Marketplaces
 
-| Name         | Telegram                                | Github                                                       | Twitter                                            | Website                                                                                   |
-| ------------ | --------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Getgems      | [Telegram](https://t.me/getgems)        | [Github](https://github.com/getgems-io)                      | [Twitter](https://twitter.com/getgemsdotio)        | [Website](https://getgems.io/)                                                            |
-| Fragment     |                                         |                                                              |                                                    | [Website](https://fragment.com/)                                                          |
-| TON Diamonds | [Telegram](https://t.me/tondiamonds)    |                                                              | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)                                                          |
-| Disintar     | [Telegram](https://t.me/disintar)       |                                                              | [Twitter](https://twitter.com/disintar_io?lang=en) | [Website](https://beta.disintar.io/)                                                      |
-| TON Play     | [Telegram](https://t.me/tonplayinsider) | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)                                                            |
+| Name         | Telegram                                | Github                                  | Twitter                                            | Website                              |
+| ------------ | --------------------------------------- | --------------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| Getgems      | [Telegram](https://t.me/getgems)        | [Github](https://github.com/getgems-io) | [Twitter](https://twitter.com/getgemsdotio)        | [Website](https://getgems.io/)       |
+| Fragment     |                                         |                                         |                                                    | [Website](https://fragment.com/)     |
+| TON Diamonds | [Telegram](https://t.me/tondiamonds)    |                                         | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)     |
+| Disintar     | [Telegram](https://t.me/disintar)       |                                         | [Twitter](https://twitter.com/disintar_io?lang=en) | [Website](https://beta.disintar.io/) |
+| TON Play     | [Telegram](https://t.me/tonplayinsider) | [Github](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)       |
+| PlayMuse     | [Telegram](https://t.me/playmuseton)    |                                         | [Twitter](https://twitter.com/playmuseton)         | [Website](https://playmuse.org/)     |
 
 ## NFT Tooling
 
@@ -341,13 +342,13 @@
 
 ## SocialFi
 
-| Name                    | Telegram                                        | Github                                             | Twitter                                      | Website                             |
-| ----------------------- | ----------------------------------------------- | -------------------------------------------------- | -------------------------------------------- | ----------------------------------- |
-| TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [Github](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)        |
-| NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                     |
-| Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)         |
-| Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/)   |
-| Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/)   |
+| Name                    | Telegram                                        | Github                                             | Twitter                                      | Website                           |
+| ----------------------- | ----------------------------------------------- | -------------------------------------------------- | -------------------------------------------- | --------------------------------- |
+| TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [Github](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)      |
+| NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                   |
+| Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)       |
+| Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/) |
+| Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/) |
 
 ## Wallets
 
@@ -381,10 +382,11 @@
 
 ### Multisig Wallets
 
-| Name    | Telegram | Github                                              | Twitter | Website                                              |
-| ------- | -------- | --------------------------------------------------- | ------- | ---------------------------------------------------- |
-| Dapp    |          | [Github](https://github.com/Gusarich/multisig-dapp) |         | [Website](https://gusarich.github.io/multisig-dapp/) |
-| Ton key |          |                                                     |         | [Website](https://tonkey.app/)                       |
+| Name             | Telegram | Github                                              | Twitter | Website                                              |
+| ---------------- | -------- | --------------------------------------------------- | ------- | ---------------------------------------------------- |
+| Dapp             |          | [Github](https://github.com/Gusarich/multisig-dapp) |         | [Website](https://gusarich.github.io/multisig-dapp/) |
+| Ton key          |          |                                                     |         | [Website](https://tonkey.app/)                       |
+| TON CLI Multisig |          | [Github](https://github.com/akifoq/multisig)        |         |                                                      |
 
 ### Hardware Wallets
 
