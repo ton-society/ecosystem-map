@@ -317,8 +317,8 @@
 | Toncenter    | [Telegram](https://t.me/tonapibot)        | [Github](https://github.com/toncenter/ton-http-api) |                                             | [Website](https://toncenter.com/)                       |
 | TON Hub API  | [Telegram](https://t.me/WhalesSupportBot) | [Github](https://github.com/tonwhales)              | [Twitter](https://twitter.com/whalescorp)   | [Website](https://sandbox.tonhubapi.com/)               |
 | TON Console  | [Telegram](https://t.me/tonrostislav)     | [Github](https://github.com/tonkeeper)              |                                             | [Website](https://tonconsole.com/)                      |
-| Get Block    | [Telegram](https://t.me/getblockio_eng)   |                                                     | [Twitter](https://twitter.com/getblockio)   | [Website](https://getblock.io/nodes/ton/)               |
-| Now Nodes    | [Telegram](https://t.me/nownodes)         | [Github](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
+| GetBlock    | [Telegram](https://t.me/getblockio_eng)   |                                                     | [Twitter](https://twitter.com/getblockio)   | [Website](https://getblock.io/nodes/ton/)               |
+| NOWNodes    | [Telegram](https://t.me/nownodes)         | [Github](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
 | TON SDKs     |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/sdk)  |
 | TON ADNL API |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/adnl) |
 
