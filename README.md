@@ -384,7 +384,7 @@
 
 | Name             | Telegram | Github                                              | Twitter | Website                                              |
 | ---------------- | -------- | --------------------------------------------------- | ------- | ---------------------------------------------------- |
-| Dapp             |          | [Github](https://github.com/Gusarich/multisig-dapp) |         | [Website](https://gusarich.github.io/multisig-dapp/) |
+| dApp             |          | [Github](https://github.com/ton-blockchain/multisig-dapp) |         | [Website](https://ton-blockchain.github.io/multisig-dapp/) |
 | Tonkey           | [Telegram](https://t.me/tonkeyapp)          |[Github](https://github.com/tonkey-app)                  | [Twitter](https://twitter.com/TonkeyApp)         | [Website](https://tonkey.app/)                       |
 | TON CLI Multisig |          | [Github](https://github.com/akifoq/multisig)        |         |                                                      |
 
