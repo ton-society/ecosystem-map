@@ -401,6 +401,7 @@
 | Name          | Telegram                              | Github                                 | Twitter                                     | Website                           |
 | ------------- | ------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
 | Connecton VPN | [Telegram](https://t.me/ConnectonBot) | [Github](https://github.com/Connecton) | [Twitter](https://twitter.com/ConnectonVPN) | [Website](https://connecton.surf) |
+| TON Timer     |                | [Github](https://github.com/ProgramCrafter/ton-stable-timer/) |                                             | [Website](https://programcrafter.github.io/ton-stable-timer) |
 
 ## Gambling
 
