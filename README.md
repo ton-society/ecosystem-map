@@ -61,14 +61,15 @@
 
 ### Decentralized Exchanges
 
-| Name            | Telegram                                 | Github                                   | Twitter                                        | Website                                          |
-| --------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
-| Ston.fi         | [Telegram](https://t.me/stonfidex)       | [Github](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
-| DeDust.io       | [Telegram](https://t.me/dedust)          | [Github](https://github.com/dedust-io)   | [Twitter](https://twitter.com/dedust_io)       | [Website](https://dedust.io/swap)                |
-| Optus.fi        | [Telegram](https://t.me/optus_fi)        | [Github](https://github.com/optus-fi/)   | [Twitter](https://twitter.com/OPTUS_dex)       | [Website](https://optus.fi/)                     |
-| Megaton Finance | [Telegram](https://megaton.fi/)          | [Github](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
-| Storm           | [Telegram](https://t.me/storm_trade_fam) |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
-| Flex            | [Telegram](https://t.me/tonfactorychat)  | [Github](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)                   |
+| Name            | Telegram                                     | Github                                   | Twitter                                        | Website                                          |
+| --------------- | -------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
+| Ston.fi         | [Telegram](https://t.me/stonfidex)           | [Github](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
+| DeDust.io       | [Telegram](https://t.me/dedust)              | [Github](https://github.com/dedust-io)   | [Twitter](https://twitter.com/dedust_io)       | [Website](https://dedust.io/swap)                |
+| Optus.fi        | [Telegram](https://t.me/optus_fi)            | [Github](https://github.com/optus-fi/)   | [Twitter](https://twitter.com/OPTUS_dex)       | [Website](https://optus.fi/)                     |
+| Megaton Finance | [Telegram](https://megaton.fi/)              | [Github](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
+| Storm           | [Telegram](https://t.me/storm_trade_fam)     |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
+| Flex            | [Telegram](https://t.me/tonfactorychat)      | [Github](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)                   |
+| ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL) | [Github](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
 
 ### Lending and Borrowing
 
