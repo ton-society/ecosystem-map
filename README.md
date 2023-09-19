@@ -2,7 +2,7 @@
 	<img width="100%" src="./assets/images/ecosystem.png" alt="TON Ecosystem" />
 </a>
 
-## A collection of live projects within the TON ecosystem
+## A collection of live projects within the TON Ecosystem
 
 - [Project Categories](#project-categories)
   - [Bridges](#bridges)
