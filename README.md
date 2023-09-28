@@ -14,9 +14,10 @@
   - [Launchpad](#launchpad)
   - [On-Ramp](#on-ramp)
   - [Explorers](#explorers)
-  - [Gaming](#gaming)
+  - [Games](#games)
   - [Infra](#infra)
     - [Web3 Internet](#web3-internet)
+    - [Gaming](#gaming)
     - [Storage](#storage)
     - [Development Environment](#development-environment)
     - [Nodes](#nodes)
@@ -137,13 +138,13 @@
 | TON.sh           |                                           |                                                  |                                               | [Website](https://ton.sh/)                                      |
 | Tenere Explorer  | [Telegram](https://t.me/teneretoken)      |                                                  |                                               | [Website](https://www.teneretoken.com/tenere-explorer)          |
 
-## Gaming
+## Games
 
 | Name             | Telegram                                        | Github                                                       | Twitter                                      | Website                                        |
 | ---------------- | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
 | Tonarchy         | [Telegram](https://t.me/Tonarchy)               |                                                              | [Twitter](https://twitter.com/tonarchy)      | [Website](https://tonarchy.online/)            |
 | TON Planets Mars | [Telegram](https://t.me/TONPlanets)             |                                                              | [Twitter](https://twitter.com/TonPlanets)    | [Website](https://mars.tonplanets.com/en/)     |
-| TON Play         | [Telegram](https://t.me/tonplayinsider)         | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/DZmrVk1mJ5) |
+| PlayDeck         | [Telegram](https://t.me/playdeckbot)            | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/DZmrVk1mJ5) |
 | Lifeblood        |                                                 |                                                              |                                              | [Website](https://lifeblood.ru/)               |
 | Tonrare          | [Telegram](https://t.me/tonrare_games)          |                                                              |                                              | [Website](https://tonrare.com/explore)         |
 | Stepogram        |                                                 |                                                              | [Twitter](https://twitter.com/stepogram)     | [Website](https://stepogram.com/)              |
@@ -154,6 +155,7 @@
 | BIOM Play2Earn   | [Telegram](https://t.me/Biom_play2earn_bot)     |                                                              |                                              | [Website](https://t.me/Biom_play2earn_bot)     |
 | Zernosklad       | [Telegram](http://t.me/TonTake)                 |                                                              | [Twitter](https://twitter.com/TonTakeGame)   | [Website](https://zernosklad.com/)             |
 | TON Chess        | [Telegram](https://tonplay.io/games/RDKcT26bNo) | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
+| Instant Games    | [Telegram]([https://t.me/InstantGames_bot)      |                                                              |                                              | [Website](https://8xr.io/)                     |
 
 ## Infra
 
@@ -168,6 +170,14 @@
 | TON Proxy         | [Telegram](https://t.me/WhalesSupportBot) | [Github](https://github.com/tonwhales/ton-proxy)            | [Twitter](https://twitter.com/whalescorp)      | [Website](https://chrome.google.com/webstore/detail/ton-proxy/pmgpnamlibffaaigdcohddlnokolfgnc) |
 | TON DNS           | [Telegram](https://t.me/toncoin)          | [Github](https://github.com/ton-blockchain)                 | [Twitter](https://twitter.com/ton_blockchain)  | [Website](https://dns.ton.org/)                                                                 |
 
+### Gaming
+
+| Name             | Telegram                                        | Github                                                       | Twitter                                      | Website                                        |
+| ---------------- | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
+| TON Play         | [Telegram](https://t.me/tonplayinsider)         | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io)                  |
+| 8xr              | [Telegram](https://t.me/gam8s)                  |                                                              | [Twitter](https://twitter.com/8xr_engine)    | [Website](https://8xr.io/)                     |
+| Cosmoton.xyz     |                                                 |                                                              |                                              | [Website](https://cosmoton.xyz)                     |
+
 ### Storage
 
 | Name              | Telegram                              | Github                                                | Twitter                                   | Website                         |
@@ -181,15 +191,11 @@
 
 | Name                       | Telegram                                   | Github                                                         | Twitter                                     | Website                                                                              |
 | -------------------------- | ------------------------------------------ | -------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------ |
-| TON Blueprint              | [Telegram](https://t.me/toncoin)           | [Github](https://github.com/ton-org/blueprint)                 |                                             | [Website](https://docs.ton.org/develop/smart-contracts/sdk/javascript)               |
-| TON Sandbox                | [Telegram](https://t.me/tondev_eng)        | [Github](https://github.com/ton-org/sandbox)                   | [Twitter](https://twitter.com/CrustNetwork) | [Website](https://tondev.org/sandbox)                                                |
 | TON IntelliJ Plugin        |                                            | [Github](https://github.com/ton-blockchain/intellij-ton)       |                                             | [Website](https://plugins.jetbrains.com/plugin/18541-ton)                            |
 | TON VS Code Plugin         |                                            | [Github](https://github.com/ton-foundation/vscode-func)        |                                             | [Website](https://marketplace.visualstudio.com/items?itemName=tonwhales.func-vscode) |
 | Neovim Plugin              |                                            | [Github](https://github.com/cryshado/neovim-ton-dev)           |                                             |
 | Sublime Text Editor Plugin |                                            | [Github](https://github.com/savva425/func_plugin_sublimetext3) |                                             |
 | Nujan IDE                  | [Telegram](https://t.me/Nujan_io)          | [Github](https://github.com/nujan-io/nujan-ide)                | [Twitter](https://twitter.com/nujan_io)     | [Website](https://nujan.io/)                                                         |
-| TON Faucet                 | [Telegram](https://t.me/testgiver_ton_bot) |                                                                |                                             | [Website](https://t.me/testgiver_ton_bot)                                            |
-| TON Local Blockchain       |                                            | [Github](https://github.com/neodiX42/MyLocalTon)               |                                             |
 
 ### Nodes
 
@@ -275,11 +281,10 @@
 | TON SDK                   |                                                             | [Github](https://github.com/tonfactory/tonsdk)            |                                            | [Website](https://pypi.org/project/tonsdk/)                          |
 | TON Connect SDKs          |                                                             | [Github](https://github.com/ton-connect/)                 |                                            | [Website](https://docs.ton.org/develop/dapps/ton-connect/developers) |
 | TON Play Unity SDK        |                                                             | [Github](https://github.com/ton-play/tonplay-unity-sdk)   |                                            | [Website](https://docs.tonplay.io/sdk/unity-sdk)                     |
-| 8XR                       | [Telegram](https://twitter.com/8xr_engine)                  |                                                           | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)                                           |
 | Ever SDK                  | [Telegram](https://t.me/ever_sdk)                           | [Github](https://github.com/tonlabs/ever-sdk)             |                                            | [Website](https://docs.everos.dev/ever-sdk/)                         |
-| TON Game.fi SDK           |                                                             |                                                           |                                            | [Website](https://ton.org/gamefi)                                    |
+| GameFi SDK           |                                                             | [Github](https://github.com/ton-community/gamefi-sdk)     |                                            | [Website](https://ton.org/gamefi)                                    |
 
-## Telegram Web Apps Tooling
+## Telegram Mini Apps Tooling
 
 | Name                           | Telegram                         | Github                                                                               | Twitter | Website                                            |
 | ------------------------------ | -------------------------------- | ------------------------------------------------------------------------------------ | ------- | -------------------------------------------------- |
@@ -358,6 +363,7 @@
 
 | Name          | Telegram                                     | Github                                                      | Twitter                                        | Website                                                                                        |
 | ------------- | -------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| @wallet       | [Telegram](https://t.me/wallet)              |                                                             | [Twitter](https://twitter.com/wallet_tg)       | [Website](https://t.me/wallet)                                                                 |
 | Coin98 Wallet | [Telegram](https://t.me/coin98wallet)        | [Github](https://github.com/coin98)                         | [Twitter](https://twitter.com/coin98_wallet)   | [Website](https://coin98.com/wallet)                                                           |
 | iMe Wallet    | [Telegram](https://t.me/ime_en)              | [Github](https://github.com/imemessenger/)                  | [Twitter](https://twitter.com/ImePlatform)     | [Website](https://play.google.com/store/apps/details?id=com.iMe.android&pcampaignid=web_share) |
 | KaiOS Wallet  | [Telegram](https://t.me/Vinayakkalra)        | [Github](https://github.com/kaifoundry/ton-kaios-wallet)    |                                                |
