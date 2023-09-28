@@ -427,6 +427,7 @@
 | FAN TON          | [Telegram](https://t.me/FanTonGameBot)       |                                       | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)             |
 | Prophecy Pulse   | [Telegram](https://t.me/prophecypulse_bot)   |                                       | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/)   |
 | Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [Github](https://github.com/wagmi11)  | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)         |
+| Panda Loto       | [Telegram](https://t.me/PandaLotteryBot) |                                                              |                                                      |  |
 
 ---
 
