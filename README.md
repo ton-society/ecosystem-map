@@ -155,7 +155,7 @@
 | BIOM Play2Earn   | [Telegram](https://t.me/Biom_play2earn_bot)     |                                                              |                                              | [Website](https://t.me/Biom_play2earn_bot)     |
 | Zernosklad       | [Telegram](http://t.me/TonTake)                 |                                                              | [Twitter](https://twitter.com/TonTakeGame)   | [Website](https://zernosklad.com/)             |
 | TON Chess        | [Telegram](https://tonplay.io/games/RDKcT26bNo) | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
-| Instant Games    | [Telegram]([https://t.me/InstantGames_bot)      |                                                              |                                              | [Website](https://8xr.io/)                     |
+| Instant Games    | [Telegram](https://t.me/InstantGames_bot)       |                                                              |                                              | [Website](https://8xr.io/)                     |
 
 ## Infra
 
