@@ -288,10 +288,10 @@
 
 | Name                           | Telegram                         | Github                                                                               | Twitter | Website                                            |
 | ------------------------------ | -------------------------------- | ------------------------------------------------------------------------------------ | ------- | -------------------------------------------------- |
-| TWA Dev                        | [Telegram](https://t.me/twa_dev) | [Github](https://github.com/twa-dev)                                                 |         | [Website](https://core.telegram.org/bots/webapps)  |
+| TMA Dev                        | [Telegram](https://t.me/twa_dev) | [Github](https://github.com/twa-dev)                                                 |         | [Website](https://core.telegram.org/bots/webapps)  |
 | Figma Design component Library |                                  |                                                                                      |         | [Website](https://www.figma.com/@firststagelabs)   |
-| TWA Boilerplate                |                                  | [Github](https://github.com/twa-dev/Boilerplate)                                     |         | [Website](https://boilerplate-twa-dev.vercel.app/) |
-| TWA React SDK                  |                                  | [Github](https://github.com/Telegram-Web-Apps/twa.js/blob/master/packages/sdk-react) |         |                                                    |
+| TMA Boilerplate                |                                  | [Github](https://github.com/twa-dev/Boilerplate)                                     |         | [Website](https://boilerplate-twa-dev.vercel.app/) |
+| TMA React SDK                  |                                  | [Github](https://github.com/Telegram-Web-Apps/twa.js/blob/master/packages/sdk-react) |         |                                                    |
 | twa.js                         |                                  | [Github](https://github.com/Telegram-Web-Apps/twa.js)                                |         |                                                    |
 
 ## Compliance
@@ -345,7 +345,7 @@
 | Name      | Telegram                              | Github | Twitter                                 | Website                          |
 | --------- | ------------------------------------- | ------ | --------------------------------------- | -------------------------------- |
 | TON App   | [Telegram](https://t.me/tonapp)       |        | [Twitter](https://twitter.com/apps_ton) | [Website](https://ton.app/)      |
-| TWA Store | [Telegram](https://t.me/trendingApps) |        |                                         | [Website](https://tapps.center/) |
+| Telegram Apps Center | [Telegram](https://t.me/trendingApps) |        |                                         | [Website](https://tapps.center/) |
 
 ## SocialFi
 
