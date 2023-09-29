@@ -27,7 +27,8 @@
     - [Decentralized Identity](#decentralized-identity)
   - [Education](#education)
   - [Youtube Tutorials](#youtube-tutorials)
-  - [Marketplaces](#marketplaces)
+  - [Shopping](#shopping)
+    - [Marketplaces](#marketplaces)
   - [NFT Tooling](#nft-tooling)
   - [Telegram Web Apps Tooling](#twa-telegram-web-apps)
   - [Compliance](#compliance)
@@ -257,6 +258,16 @@
 | Tact Development[ru] | [Telegram](https://t.me/nonam3e)       | [Youtube](https://www.youtube.com/watch?v=S6wlNsKUHpE&list=PLyDBPwv9EPsAJpR7R0cC4kgo7BjiMmUy7&index=1) |
 | Mark Ohman           | [Telegram](https://t.me/markokhmandev) | [Youtube](https://www.youtube.com/@markokhman)                                                         |
 
+# Shopping
+
+## TON payments
+
+| Name         | Telegram                                | Github                                  | Twitter                                            | Website                              |
+| ------------ | --------------------------------------- | --------------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| Moneton      | [Telegram](https://t.me/moneton_bot)    |                                         |                                                    |                                      |
+| TonoGram     | [Telegram](https://t.me/tonogrampremiumbot)    |                                         |                                                    |                                      |
+| monomenu      | [Telegram](https://t.me/monodashboardbot)    |                                         |                                                    |                                      |
+
 ## Marketplaces
 
 | Name         | Telegram                                | Github                                  | Twitter                                            | Website                              |
@@ -324,8 +335,8 @@
 | TON Hub API  | [Telegram](https://t.me/WhalesSupportBot) | [Github](https://github.com/tonwhales)              | [Twitter](https://twitter.com/whalescorp)   | [Website](https://sandbox.tonhubapi.com/)               |
 | TON Console  | [Telegram](https://t.me/tonrostislav)     | [Github](https://github.com/tonkeeper)              |                                             | [Website](https://tonconsole.com/)                      |
 | DTON Graphql | [Telegram](https://t.me/tvorogme)         | [Github](https://github.com/disintar)               |                                             | [Website](https://dton.io/graphql)                      |
-| GetBlock    | [Telegram](https://t.me/getblockio_eng)   |                                                     | [Twitter](https://twitter.com/getblockio)   | [Website](https://getblock.io/nodes/ton/)               |
-| NOWNodes    | [Telegram](https://t.me/nownodes)         | [Github](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
+| GetBlock    | [Telegram](https://t.me/getblockio_eng)    |                                                     | [Twitter](https://twitter.com/getblockio)   | [Website](https://getblock.io/nodes/ton/)               |
+| NOWNodes    | [Telegram](https://t.me/nownodes)          | [Github](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
 | TON SDKs     |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/sdk)  |
 | TON ADNL API |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/adnl) |
 
