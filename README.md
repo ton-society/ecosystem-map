@@ -422,7 +422,7 @@
 | TON Lottery      | [Telegram](https://t.me/TonProject_bot)      |                                       |                                              | [Website](https://t.me/TonProject_bot)      |
 | Grand Casino TON | [Telegram](https://t.me/TG_grand_casino_bot) |                                       |                                              | [Website](https://t.me/TG_grand_casino_bot) |
 | TON Casino       |                                              |                                       |                                              | [Website](https://toncasino.io/)            |
-| Bitsler          | [Telegram](https://t.me/bitsler_casino)      | [Github](https://twitter.com/Bitsler) |                                              | [Website](https://www.bitsler.com/)         |
+| Bitsler          | [Telegram](https://t.me/bitsler_casino)      |  | [Twitter](https://twitter.com/Bitsler)                                             | [Website](https://www.bitsler.com/)         |
 | TON Games        | [Telegram](https://t.me/ton_games_and_more)  |                                       |                                              | [Website](https://ton-game.com/)            |
 | FAN TON          | [Telegram](https://t.me/FanTonGameBot)       |                                       | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)             |
 | Prophecy Pulse   | [Telegram](https://t.me/prophecypulse_bot)   |                                       | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/)   |
