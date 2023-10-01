@@ -20,6 +20,7 @@
     - [Gaming](#gaming)
     - [Storage](#storage)
     - [Development Environment](#development-environment)
+    - [Dev Tools](#dev-tools)
     - [Nodes](#nodes)
     - [Oracles](#oracles)
     - [Zk on TON](#zk-on-ton)
@@ -197,6 +198,17 @@
 | Neovim Plugin              |                                            | [Github](https://github.com/cryshado/neovim-ton-dev)           |                                             |
 | Sublime Text Editor Plugin |                                            | [Github](https://github.com/savva425/func_plugin_sublimetext3) |                                             |
 | Nujan IDE                  | [Telegram](https://t.me/Nujan_io)          | [Github](https://github.com/nujan-io/nujan-ide)                | [Twitter](https://twitter.com/nujan_io)     | [Website](https://nujan.io/)                                                         |
+
+### Dev Tools
+
+| Name              | Telegram                              | Github                                                | Twitter                                   | Website                         |
+| ----------------- | ------------------------------------- | ----------------------------------------------------- | ----------------------------------------- | ------------------------------- |
+| IntelliJ Idea plugin |                                    | [Github](https://github.com/ton-blockchain/intellij-ton) |                                        | [Website](https://plugins.jetbrains.com/plugin/18541-ton) |
+| Tonana            | [Telegram](https://t.me/tonanadao)    | [Github](https://github.com/tonanadao)                | [Twitter](https://twitter.com/Tonanadao)  | [Website](https://tonana.org)                                |
+| WebDeployer       |                                       | [Github](https://github.com/ProgramCrafter/ton-qr-deployer)|                                      | [Website](https://ratingers.pythonanywhere.com/deployer/)                               |
+| TON Verifier      | [Telegram](https://t.me/tonverifier)  | [Github](https://github.com/ton-blockchain/verifier)  |                                           | [Website](https://verifier.ton.org)                |  
+| Rift              |                                       |                                                       | [Website](https://rift.skyring.io)        |  
+| TON NoCode SDK    |                                       |                                                       | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440)    |  
 
 ### Nodes
 
