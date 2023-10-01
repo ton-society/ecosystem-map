@@ -8,6 +8,7 @@
   - [Bridges](#bridges)
   - [DeFi](#defi)
     - [Decentralized Exchanges](#decentralized-exchanges)
+    - [Decentralized exchanges for wTON](#decentralized-exchanges-for-wton)
     - [Lending and Borrowing](#lending-and-borrowing)
     - [Staking](#staking)
     - [Stablecoins](#stablecoins)
@@ -69,10 +70,19 @@
 | Ston.fi         | [Telegram](https://t.me/stonfidex)           | [Github](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
 | DeDust.io       | [Telegram](https://t.me/dedust)              | [Github](https://github.com/dedust-io)   | [Twitter](https://twitter.com/dedust_io)       | [Website](https://dedust.io/swap)                |
 | Optus.fi        | [Telegram](https://t.me/optus_fi)            | [Github](https://github.com/optus-fi/)   | [Twitter](https://twitter.com/OPTUS_dex)       | [Website](https://optus.fi/)                     |
-| Megaton Finance | [Telegram](https://megaton.fi/)              | [Github](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
+| Megaton Finance | [Telegram](https://t.me/MegatonFinanceChannel)| [Github](https://github.com/megaton-fi) | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
 | Storm           | [Telegram](https://t.me/storm_trade_fam)     |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
 | Flex            | [Telegram](https://t.me/tonfactorychat)      | [Github](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)                   |
 | ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL) | [Github](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
+
+### Decentralized exchanges for wTON
+
+| Name            | Telegram                                     | Github                                   | Twitter                                        | Website                                          |
+| --------------- | -------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
+| Dodo            | [Telegram](https://t.me/dodoex_official)     | [Github](https://github.com/DODOEX)      | [Twitter](https://twitter.com/BreederDodo)     | [Website](https://app.dodoex.io/swap/network/mainnet/ton/USDC) |
+| Uniswap         |                                              | [Github](https://github.com/Uniswap)     | [Twitter](https://twitter.com/uniswap)         | [Website](https://app.uniswap.org/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1) |
+| PancakeSwap     | [Telegram](https://t.me/pancakeswap)         | [Github](https://github.com/pancakeswap) | [Twitter](https://twitter.com/pancakeswap)     | [Website](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) |
+| Nomiswap        | [Telegram](https://t.me/nominex_news_ru)     | [Github](https://github.com/nominex)     | [Twitter](https://twitter.com/Nomiswap)        | [Website](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f) |
 
 ### Lending and Borrowing
 
