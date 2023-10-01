@@ -158,6 +158,11 @@
 | Zernosklad       | [Telegram](http://t.me/TonTake)                 |                                                              | [Twitter](https://twitter.com/TonTakeGame)   | [Website](https://zernosklad.com/)             |
 | TON Chess        | [Telegram](https://tonplay.io/games/RDKcT26bNo) | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
 | Instant Games    | [Telegram](https://t.me/InstantGames_bot)       |                                                              |                                              | [Website](https://8xr.io/)                     |
+| Tonlanders       | [Telegram](https://t.me/tonlanders)             |                                                              |                                              |                                                |
+| Escape from Zeya | [Telegram](https://t.me/tonplayinsider)         | [Twitter](https://twitter.com/insider_ton)                   |                                              | [Website](https://tonplay.io/games/DZmrVk1mJ5) |
+| Batte Planes     | [Telegram](https://t.me/battleplanes)           |                                                              |                                              |                                                |
+| Fanton Fantasy Football | [Telegram](https://t.me/FanTonGameBot)   |                                                              |                                              |                                                |
+| Tongochi Game    | [Telegram](https://t.me/TonGochi_bot)           |                                                              |                                              |                                                |
 
 ## Infra
 
