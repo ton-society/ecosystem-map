@@ -37,7 +37,7 @@
   - [App Store](#app-store)
   - [SocialFi](#socialfi)
   - [Wallets](#wallets)
-    - [Auth Protocols](#auth-potocols) 
+    - [Auth Protocols](#auth-protocols) 
     - [Non-Custodial Wallets](#non-custodial-wallets)
     - [Custodial Wallets](#custodial-wallets)
     - [Multisig Wallets](#multisig-wallets)
