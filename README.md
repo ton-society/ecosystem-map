@@ -69,14 +69,14 @@
 | Optus.fi        | [Telegram](https://t.me/optus_fi)              | [GitHub](https://github.com/optus-fi/)   | [Twitter](https://twitter.com/OPTUS_dex)       | [Website](https://optus.fi/)      |
 | Megaton Finance | [Telegram](https://t.me/MegatonFinanceChannel) | [GitHub](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)    |
 | Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev) |
-| Flex            | [Telegram](https://t.me/tonfactorychat)        | [GitHub](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)    |
+| Flex            | [Telegram](https://t.me/tonfactorychat)        | [GitHub](https://github.com/tonfactory)  |                                                | [Website](https://tonflex.fi/)    |
 | ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [GitHub](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)     |
 
 ### Lending and Borrowing
 
-| Name          | Telegram                              | GitHub                               | Twitter                                     | Website                              |
-|---------------|---------------------------------------|--------------------------------------|---------------------------------------------|--------------------------------------|
-| Evaa Protocol | [Telegram](https://app.evaa.finance/) | [GitHub](https://github.com/evaafi/) | [Twitter](https://twitter.com/evaaprotocol) | [Website](https://app.evaa.finance/) |
+| Name          | Telegram | GitHub                              | Twitter                                     | Website                              |
+|---------------|----------|-------------------------------------|---------------------------------------------|--------------------------------------|
+| Evaa Protocol |          | [GitHub](https://github.com/evaafi) | [Twitter](https://twitter.com/evaaprotocol) | [Website](https://app.evaa.finance/) |
 
 ### Staking
 
@@ -151,7 +151,7 @@
 | Toncaps          | [Telegram](https://t.me/toncapsio)              |                                                              |                                              | [Website](https://toncaps.io/)                 |
 | Fanton           | [Telegram](https://t.me/fantongamebot)          |                                                              | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)                |
 | BIOM Play2Earn   | [Telegram](https://t.me/Biom_play2earn_bot)     |                                                              |                                              |                                                |
-| Zernosklad       | [Telegram](http://t.me/TonTake)                 |                                                              | [Twitter](https://twitter.com/TonTakeGame)   | [Website](https://zernosklad.com/)             |
+| Zernosklad       | [Telegram](https://t.me/TonTake)                |                                                              | [Twitter](https://twitter.com/TonTakeGame)   | [Website](https://zernosklad.com/)             |
 | TON Chess        | [Telegram](https://tonplay.io/games/RDKcT26bNo) | [GitHub](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
 | Instant Games    | [Telegram](https://t.me/InstantGames_bot)       |                                                              |                                              | [Website](https://8xr.io/)                     |
 
@@ -211,9 +211,9 @@
 
 ### Oracles
 
-| Name            | Telegram                                  | GitHub                                        | Twitter                                      | Website                              |
-|-----------------|-------------------------------------------|-----------------------------------------------|----------------------------------------------|--------------------------------------|
-| Redstone Oracle | [Telegram](https://t.me/redstonefinance/) | [GitHub](https://github.com/redstone-finance) | [Twitter](https://twitter.com/redstone_defi) | [Website](https://redstone.finance/) |
+| Name            | Telegram                                 | GitHub                                        | Twitter                                      | Website                              |
+|-----------------|------------------------------------------|-----------------------------------------------|----------------------------------------------|--------------------------------------|
+| Redstone Oracle | [Telegram](https://t.me/redstonefinance) | [GitHub](https://github.com/redstone-finance) | [Twitter](https://twitter.com/redstone_defi) | [Website](https://redstone.finance/) |
 
 ### Zk on TON
 
@@ -289,13 +289,13 @@
 
 ## Compliance
 
-| Name        | Telegram                                | GitHub                                                                 | Twitter                                    | Website                                 |
-|-------------|-----------------------------------------|------------------------------------------------------------------------|--------------------------------------------|-----------------------------------------|
-| BitOK       | [Telegram](https://t.me/BitOK_support)  | [GitHub](https://github.com/telegram-bots/BitOk/blob/master/README.md) | [Twitter](https://twitter.com/Bitok_org)   | [Website](https://bitok.org/)           |
-| Elliptic    |                                         |                                                                        | [Twitter](http://www.twitter.com/elliptic) | [Website](https://www.elliptic.co/)     |
-| Chainalysis | [Telegram](https://t.me/chainalysisinc) | [GitHub](https://github.com/chainalysis)                               | [Twitter](https://twitter.com/chainalysis) | [Website](https://www.chainalysis.com/) |
-| Sumsub      |                                         | [GitHub](https://github.com/SumSubstance)                              | [Twitter](https://twitter.com/Sumsubcom)   | [Website](https://sumsub.com/)          |
-| TON Guard   | [Telegram](https://t.me/tonguard_bot)   |                                                                        |                                            | [Website](https://tonguard.org/)        |
+| Name        | Telegram                                | GitHub                                           | Twitter                                    | Website                                 |
+|-------------|-----------------------------------------|--------------------------------------------------|--------------------------------------------|-----------------------------------------|
+| BitOK       | [Telegram](https://t.me/BitOK_support)  | [GitHub](https://github.com/telegram-bots/BitOk) | [Twitter](https://twitter.com/Bitok_org)   | [Website](https://bitok.org/)           |
+| Elliptic    |                                         |                                                  | [Twitter](http://www.twitter.com/elliptic) | [Website](https://www.elliptic.co/)     |
+| Chainalysis | [Telegram](https://t.me/chainalysisinc) | [GitHub](https://github.com/chainalysis)         | [Twitter](https://twitter.com/chainalysis) | [Website](https://www.chainalysis.com/) |
+| Sumsub      |                                         | [GitHub](https://github.com/SumSubstance)        | [Twitter](https://twitter.com/Sumsubcom)   | [Website](https://sumsub.com/)          |
+| TON Guard   | [Telegram](https://t.me/tonguard_bot)   |                                                  |                                            | [Website](https://tonguard.org/)        |
 
 ## Analytics
 
