@@ -37,12 +37,13 @@
   - [App Store](#app-store)
   - [SocialFi](#socialfi)
   - [Wallets](#wallets)
+    - [Auth Protocols](#auth-potocols) 
     - [Non-Custodial Wallets](#non-custodial-wallets)
     - [Custodial Wallets](#custodial-wallets)
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [Utilities](#utilities)
-  - [Gambling](#gambling)
+  - [Gambling & Skill-based Games](#gambling)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating your PR](#updating-your-pr)
 
@@ -354,7 +355,7 @@
 
 ## Wallets
 
-## Auth protocols
+## Auth Protocols
 | Name                      | Telegram                                     | Github                                                      | Twitter                                        | Website                                                                                        |
 | -------------             | -------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | TON Connect SDKs          |                                              | [Github](https://github.com/ton-connect/)                   |                                                | [Website](https://docs.ton.org/develop/dapps/ton-connect/developers)                           |
@@ -412,7 +413,7 @@
 | Connecton VPN | [Telegram](https://t.me/ConnectonBot) | [Github](https://github.com/Connecton) | [Twitter](https://twitter.com/ConnectonVPN) | [Website](https://connecton.surf) |
 | TON Timer     |                | [Github](https://github.com/ProgramCrafter/ton-stable-timer/) |                                             | [Website](https://programcrafter.github.io/ton-stable-timer) |
 
-## Gambling
+## Gambling and Skill-based games
 
 | Name             | Telegram                                     | Github                                | Twitter                                      | Website                                     |
 | ---------------- | -------------------------------------------- | ------------------------------------- | -------------------------------------------- | ------------------------------------------- |
