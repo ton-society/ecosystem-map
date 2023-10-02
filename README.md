@@ -90,7 +90,7 @@
 | Bemo Finance      | [Telegram](https://t.me/bemofinance)        |                                                             | [Twitter](https://twitter.com/bemo_finance)   | [Website](https://www.bemo.finance/)    |
 | Tonstakers       | [Telegram](https://t.me/thetonstakers)      |                                                             | [Twitter](https://twitter.com/tonstakers)     | [Website](https://tonstakers.com/)      |
 | TON Minter        | [Telegram](https://t.me/+YDnoBue1Dz81ZTMy)  | [Github](https://github.com/ton-blockchain/minter-contract) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://minter.ton.org/)      |
-| TON Locker        | [Telegram](https://t.me/s/toncoin)          | [Github](https://github.com/ton-blockchain/locker-contract) | [Twitter](https://twitter.com/ton_blockchain) |                                         |
+| TON Locker        |           | [Github](https://github.com/ton-blockchain/locker-contract) |  |                                         |
 
 ### Stablecoins
 
