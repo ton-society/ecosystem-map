@@ -156,7 +156,6 @@
 | Zernosklad         | [Telegram](http://t.me/TonTake)                 |                                                               | [Twitter](https://twitter.com/TonTakeGame)   | [Website](https://zernosklad.com/)             |
 | TON Chess          | [Telegram](https://tonplay.io/games/RDKcT26bNo) | [Github](https://github.com/ton-play)                         | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io/games/RDKcT26bNo) |
 | Instant Games      | [Telegram](https://t.me/InstantGames_bot)       |                                                               |                                              | [Website](https://8xr.io/)                     |
-| Flappy Bird Phaser |                                                 | [Github](https://github.com/ton-community/flappy-bird-phaser) |                                              |                                                |
 
 ## Infra
 
@@ -176,7 +175,7 @@
 | Name             | Telegram                                        | Github                                                       | Twitter                                      | Website                                        |
 | ---------------- | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ---------------------------------------------- |
 | TON Play         | [Telegram](https://t.me/tonplayinsider)         | [Github](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)   | [Website](https://tonplay.io)                  |
-| 8xr              | [Telegram](https://t.me/gam8s)                  |                                                              | [Twitter](https://twitter.com/8xr_engine)    | [Website](https://8xr.io/)                     |
+| 8XR              | [Telegram](https://t.me/gam8s)                  |                                                              | [Twitter](https://twitter.com/8xr_engine)    | [Website](https://8xr.io/)                     |
 | Cosmoton.xyz     |                                                 |                                                              |                                              | [Website](https://cosmoton.xyz)                     |
 
 ### Storage
