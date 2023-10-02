@@ -43,7 +43,7 @@
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [Utilities](#utilities)
-  - [Gambling & Skill-based Games](#gambling)
+  - [Gambling & Skill-based Games](#gambling-and-skill-based-games)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating your PR](#updating-your-pr)
 
