@@ -315,7 +315,7 @@
 
 | Name              | Telegram                                   | Github                                                 | Twitter                                    | Website                              |
 | ----------------- | ------------------------------------------ | ------------------------------------------------------ | ------------------------------------------ | ------------------------------------ |
-| Ton Raffles       | [Telegram](https://t.me/tonraffles)        | [Github](https://tonraffless-organization.gitbook.io/) | [Twitter](https://twitter.com/TonRaffles)  | [Website](https://tonraffles.org/en) |
+| Ton Raffles       | [Telegram](https://t.me/tonraffles)        |  | [Twitter](https://twitter.com/TonRaffles)  | [Website](https://tonraffles.org/en) |
 | DAOLama           | [Telegram](https://t.me/daolama_en)        |                                                        | [Twitter](https://twitter.com/daolama_ton) | [Website](https://daolama.co)        |
 | Playmuse          | [Telegram](https://t.me/playmuseton)       |                                                        | [Twitter](https://twitter.com/playmuseton) | [Website](https://playmuse.org)      |
 | NFT TONificaror   | [Telegram](https://t.me/nfttonificatorbot) |                                                        |                                            |                                      |
