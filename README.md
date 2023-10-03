@@ -59,9 +59,12 @@
 
 | Name         | Telegram                             | Github                                                  | Twitter                                       | Website                                  |
 | ------------ | ------------------------------------ | ------------------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
+| TON ↔ ETH    | [Telegram](https://t.me/ton_help_bot)| [Github](https://github.com/ton-blockchain/bridge-func) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://bridge.ton.org)        |
+| TON ↔ BSC    | [Telegram](https://t.me/ton_help_bot)| [Github](https://github.com/ton-blockchain/bridge-func) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://bridge.ton.org)        |
 | Orbit Bridge | [Telegram](https://t.me/Orbit_Chain) | [Github](https://github.com/orbit-chain)                | [Twitter](https://twitter.com/Orbit_Chain)    | [Website](https://bridge.orbitchain.io/) |
-| TON Bridge   | [Telegram](https://t.me/toncoin)     | [Github](https://github.com/ton-blockchain/bridge-func) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://bridge.ton.org/)       |
 | XP.Network   | [Telegram](https://t.me/xp_network)  | [Github](https://github.com/XP-NETWORK)                 | [Twitter](https://twitter.com/xpnetwork_)     | [Website](https://bridge.xp.network/)    |
+| TonTake Bridge | [Telegram](https://t.me/tontakebridgebot) |                                                  |                                               |                                          |
+| Wallet Bridge | [Telegram](https://t.me/walletbridgebot) |                                                    |                                               |                                          |
 
 ## DeFi
 
