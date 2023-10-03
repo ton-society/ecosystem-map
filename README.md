@@ -46,7 +46,7 @@
     - [Custodial Wallets](#custodial-wallets)
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
-  - [Utilities](#utilities)
+  - [VPN](#vpn)
   - [Gambling](#gambling)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating your PR](#updating-your-pr)
@@ -224,6 +224,7 @@
 | Tonana            | [Telegram](https://t.me/tonanadao)    | [Github](https://github.com/tonanadao)                | [Twitter](https://twitter.com/Tonanadao)  | [Website](https://tonana.org)                                |
 | WebDeployer       |                                       | [Github](https://github.com/ProgramCrafter/ton-qr-deployer)|                                      | [Website](https://ratingers.pythonanywhere.com/deployer/)                               |
 | TON Verifier      | [Telegram](https://t.me/tonverifier)  | [Github](https://github.com/ton-blockchain/verifier)  |                                           | [Website](https://verifier.ton.org)                |  
+| TON Timer         |                                       | [Github](https://github.com/ProgramCrafter/ton-stable-timer/) |                                   | [Website](https://programcrafter.github.io/ton-stable-timer) |
 | Rift              |                                       |                                                       | [Website](https://rift.skyring.io)        |  
 | TON NoCode SDK    |                                       |                                                       | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440)    |  
 
@@ -456,12 +457,16 @@
 | Safepal | [Telegram](https://t.me/SafePal_official) | [Github](https://github.com/SafePalWallet) | [Twitter](https://twitter.com/iSafePal) | [Website](https://www.safepal.com/en/) |
 | Tangem  | [Telegram](https://t.me/tangem)           | [Github](https://github.com/tangem)        | [Twitter](https://twitter.com/tangem)   | [Website](https://tangem.com/en/)      |
 
-## Utilities
+## VPN
 
 | Name          | Telegram                              | Github                                 | Twitter                                     | Website                           |
 | ------------- | ------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
 | Connecton VPN | [Telegram](https://t.me/ConnectonBot) | [Github](https://github.com/Connecton) | [Twitter](https://twitter.com/ConnectonVPN) | [Website](https://connecton.surf) |
-| TON Timer     |                | [Github](https://github.com/ProgramCrafter/ton-stable-timer/) |                                             | [Website](https://programcrafter.github.io/ton-stable-timer) |
+| VPN4TON       | [Telegram](https://t.me/vpn4ton_bot)  |                                        |                                             |                                   |
+| hitvpnbot     | [Telegram](https://t.me/hitvpnbot)    |                                        |                                             |                                   |
+| Plume Proxy   | [Telegram](https://t.me/plumeproxy_bot) |                                      |                                             |                                   |
+| NETZ.RUN VPN  | [Telegram](https://t.me/netzrun_bot)  |                                        |                                             |                                   |
+| Tako VPN      | [Telegram](https://ton.app/vpn/takovpn-bot) |                                  |                                             |                                   |
 
 ## Gambling
 
