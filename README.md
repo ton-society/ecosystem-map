@@ -20,14 +20,14 @@
     - [Web3 Internet](#web3-internet)
     - [Gaming](#gaming)
     - [Storage](#storage)
-    - [Development Environment](#development-environment)
+    - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)
     - [Dev Tools](#dev-tools)
     - [Nodes](#nodes)
     - [Oracles](#oracles)
     - [Zk on TON](#zk-on-ton)
     - [Security Solutions](#security-solutions)
   - [Education](#education)
-  - [Youtube Tutorials](#youtube-tutorials)
+  - [YouTube Tutorials](#youtube-tutorials)
   - [Shopping](#shopping)
     - [Marketplaces](#marketplaces)
   - [NFT](#nft)
@@ -213,7 +213,7 @@
 | TON Utils Storage | [Telegram](https://t.me/tonrh)        | [GitHub](https://github.com/xssnick/tonutils-storage) |                                           |                                 |
 | Ton.ski           | [Telegram](https://t.me/searchington) | [GitHub](https://gitea.ennucore.com/agorata)          | [Twitter](https://twitter.com/tonski_ton) | [Website](https://ton.ski/)     |
 
-### Development Environment
+### Integrated Development Environment (IDE)
 
 | Name                       | Telegram                          | GitHub                                                         | Twitter                                 | Website                                                                              |
 | -------------------------- | --------------------------------- | -------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -290,7 +290,7 @@
 
 # Shopping
 
-## TON payments
+## TON Payments
 
 | Name     | Telegram                                    | Github | Twitter | Website |
 | -------- | ------------------------------------------- | ------ | ------- | ------- |
