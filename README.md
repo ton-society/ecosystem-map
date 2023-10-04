@@ -8,7 +8,7 @@
   - [Bridges](#bridges)
   - [DeFi](#defi)
     - [Decentralized Exchanges](#decentralized-exchanges)
-    - [Decentralized exchanges for wTON](#decentralized-exchanges-for-wton)
+    - [Decentralized Exchanges for wTON](#decentralized-exchanges-for-wton)
     - [Lending and Borrowing](#lending-and-borrowing)
     - [Staking](#staking)
     - [Stablecoins](#stablecoins)
@@ -49,7 +49,7 @@
   - [VPN](#vpn)
   - [Gambling & Skill-based Games](#gambling-and-skill-based-games)
 - [Contribution Guidelines](#contribution-guidelines)
-  - [Updating your PR](#updating-your-pr)
+  - [Updating Your PR](#updating-your-pr)
 
 ---
 
@@ -79,7 +79,7 @@
 | Flex            | [Telegram](https://t.me/tonfactorychat)        | [Github](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)                   |
 | ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [Github](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
 
-### Decentralized exchanges for wTON
+### Decentralized Exchanges for wTON
 
 | Name        | Telegram                                 | Github                                   | Twitter                                    | Website                                                                                               |
 | ----------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
@@ -501,7 +501,7 @@ Ensure your pull request adheres to the following:
 
 Example: `| Project Name | [Telegram](url) | [GitHub](url) | [Twitter](url) | [Website](url)`
 
-## Updating your PR
+## Updating Your PR
 
 If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that,
 [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
