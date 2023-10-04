@@ -57,11 +57,11 @@
 
 ## Bridges
 
-| Name           | Telegram                                  | Github                                                  | Twitter                                       | Website                                  |
+| Name           | Telegram                                  | GitHub                                                  | Twitter                                       | Website                                  |
 | -------------- | ----------------------------------------- | ------------------------------------------------------- | --------------------------------------------- | ---------------------------------------- |
 | TON Bridge     | [Telegram](https://t.me/toncoin)          | [GitHub](https://github.com/ton-blockchain/bridge-func) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://bridge.ton.org/)       |
-| Orbit Bridge   | [Telegram](https://t.me/Orbit_Chain)      | [Github](https://github.com/orbit-chain)                | [Twitter](https://twitter.com/Orbit_Chain)    | [Website](https://bridge.orbitchain.io/) |
-| XP.Network     | [Telegram](https://t.me/xp_network)       | [Github](https://github.com/XP-NETWORK)                 | [Twitter](https://twitter.com/xpnetwork_)     | [Website](https://bridge.xp.network/)    |
+| Orbit Bridge   | [Telegram](https://t.me/Orbit_Chain)      | [GitHub](https://github.com/orbit-chain)                | [Twitter](https://twitter.com/Orbit_Chain)    | [Website](https://bridge.orbitchain.io/) |
+| XP.Network     | [Telegram](https://t.me/xp_network)       | [GitHub](https://github.com/XP-NETWORK)                 | [Twitter](https://twitter.com/xpnetwork_)     | [Website](https://bridge.xp.network/)    |
 | TonTake Bridge | [Telegram](https://t.me/tontakebridgebot) |                                                         |                                               |                                          |
 | Wallet Bridge  | [Telegram](https://t.me/walletbridgebot)  |                                                         |                                               |                                          |
 
@@ -69,24 +69,24 @@
 
 ### Decentralized Exchanges
 
-| Name            | Telegram                                       | Github                                   | Twitter                                        | Website                                          |
+| Name            | Telegram                                       | GitHub                                   | Twitter                                        | Website                                          |
 | --------------- | ---------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
-| Ston.fi         | [Telegram](https://t.me/stonfidex)             | [Github](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
-| DeDust.io       | [Telegram](https://t.me/dedust)                | [Github](https://github.com/dedust-io)   | [Twitter](https://twitter.com/dedust_io)       | [Website](https://dedust.io/swap)                |
-| Optus.fi        | [Telegram](https://t.me/optus_fi)              | [Github](https://github.com/optus-fi/)   | [Twitter](https://twitter.com/OPTUS_dex)       | [Website](https://optus.fi/)                     |
-| Megaton Finance | [Telegram](https://t.me/MegatonFinanceChannel) | [Github](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
+| Ston.fi         | [Telegram](https://t.me/stonfidex)             | [GitHub](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
+| DeDust.io       | [Telegram](https://t.me/dedust)                | [GitHub](https://github.com/dedust-io)   | [Twitter](https://twitter.com/dedust_io)       | [Website](https://dedust.io/swap)                |
+| Optus.fi        | [Telegram](https://t.me/optus_fi)              | [GitHub](https://github.com/optus-fi/)   | [Twitter](https://twitter.com/OPTUS_dex)       | [Website](https://optus.fi/)                     |
+| Megaton Finance | [Telegram](https://t.me/MegatonFinanceChannel) | [GitHub](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
 | Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
-| Flex            | [Telegram](https://t.me/tonfactorychat)        | [Github](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)                   |
-| ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [Github](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
+| Flex            | [Telegram](https://t.me/tonfactorychat)        | [GitHub](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)                   |
+| ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [GitHub](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
 
 ### Decentralized Exchanges for wTON
 
-| Name        | Telegram                                 | Github                                   | Twitter                                    | Website                                                                                               |
+| Name        | Telegram                                 | GitHub                                   | Twitter                                    | Website                                                                                               |
 | ----------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Dodo        | [Telegram](https://t.me/dodoex_official) | [Github](https://github.com/DODOEX)      | [Twitter](https://twitter.com/BreederDodo) | [Website](https://app.dodoex.io/swap/network/mainnet/ton/USDC)                                        |
-| Uniswap     |                                          | [Github](https://github.com/Uniswap)     | [Twitter](https://twitter.com/uniswap)     | [Website](https://app.uniswap.org/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1)     |
-| PancakeSwap | [Telegram](https://t.me/pancakeswap)     | [Github](https://github.com/pancakeswap) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) |
-| Nomiswap    | [Telegram](https://t.me/nominex_news_ru) | [Github](https://github.com/nominex)     | [Twitter](https://twitter.com/Nomiswap)    | [Website](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f)         |
+| Dodo        | [Telegram](https://t.me/dodoex_official) | [GitHub](https://github.com/DODOEX)      | [Twitter](https://twitter.com/BreederDodo) | [Website](https://app.dodoex.io/swap/network/mainnet/ton/USDC)                                        |
+| Uniswap     |                                          | [GitHub](https://github.com/Uniswap)     | [Twitter](https://twitter.com/uniswap)     | [Website](https://app.uniswap.org/swap?outputcurrency=0x582d872a1b094fc48f5de31d3b73f2d9be47def1)     |
+| PancakeSwap | [Telegram](https://t.me/pancakeswap)     | [GitHub](https://github.com/pancakeswap) | [Twitter](https://twitter.com/pancakeswap) | [Website](https://pancakeswap.finance/swap?outputcurrency=0x76a797a59ba2c17726896976b7b3747bfd1d220f) |
+| Nomiswap    | [Telegram](https://t.me/nominex_news_ru) | [GitHub](https://github.com/nominex)     | [Twitter](https://twitter.com/Nomiswap)    | [Website](https://nomiswap.io/swap?outputCurrency=0x76A797A59Ba2C17726896976B7B3747BfD1d220f)         |
 
 ### Lending and Borrowing
 
@@ -225,13 +225,13 @@
 
 ### Dev Tools
 
-| Name                 | Telegram                             | Github                                                        | Twitter                                                                                        | Website                                                      |
+| Name                 | Telegram                             | GitHub                                                        | Twitter                                                                                        | Website                                                      |
 | -------------------- | ------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| IntelliJ Idea plugin |                                      | [Github](https://github.com/ton-blockchain/intellij-ton)      |                                                                                                | [Website](https://plugins.jetbrains.com/plugin/18541-ton)    |
-| Tonana               | [Telegram](https://t.me/tonanadao)   | [Github](https://github.com/tonanadao)                        | [Twitter](https://twitter.com/Tonanadao)                                                       | [Website](https://tonana.org)                                |
-| WebDeployer          |                                      | [Github](https://github.com/ProgramCrafter/ton-qr-deployer)   |                                                                                                | [Website](https://ratingers.pythonanywhere.com/deployer/)    |
-| TON Verifier         | [Telegram](https://t.me/tonverifier) | [Github](https://github.com/ton-blockchain/verifier)          |                                                                                                | [Website](https://verifier.ton.org)                          |
-| TON Timer            |                                      | [Github](https://github.com/ProgramCrafter/ton-stable-timer/) |                                                                                                | [Website](https://programcrafter.github.io/ton-stable-timer) |
+| IntelliJ Idea plugin |                                      | [GitHub](https://github.com/ton-blockchain/intellij-ton)      |                                                                                                | [Website](https://plugins.jetbrains.com/plugin/18541-ton)    |
+| Tonana               | [Telegram](https://t.me/tonanadao)   | [GitHub](https://github.com/tonanadao)                        | [Twitter](https://twitter.com/Tonanadao)                                                       | [Website](https://tonana.org)                                |
+| WebDeployer          |                                      | [GitHub](https://github.com/ProgramCrafter/ton-qr-deployer)   |                                                                                                | [Website](https://ratingers.pythonanywhere.com/deployer/)    |
+| TON Verifier         | [Telegram](https://t.me/tonverifier) | [GitHub](https://github.com/ton-blockchain/verifier)          |                                                                                                | [Website](https://verifier.ton.org)                          |
+| TON Timer            |                                      | [GitHub](https://github.com/ProgramCrafter/ton-stable-timer/) |                                                                                                | [Website](https://programcrafter.github.io/ton-stable-timer) |
 | Rift                 |                                      |                                                               | [Website](https://rift.skyring.io)                                                             |
 | TON NoCode SDK       |                                      |                                                               | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
 
@@ -292,7 +292,7 @@
 
 ## TON Payments
 
-| Name     | Telegram                                    | Github | Twitter | Website |
+| Name     | Telegram                                    | GitHub | Twitter | Website |
 | -------- | ------------------------------------------- | ------ | ------- | ------- |
 | Moneton  | [Telegram](https://t.me/moneton_bot)        |        |         |         |
 | TonoGram | [Telegram](https://t.me/tonogrampremiumbot) |        |         |         |
@@ -313,7 +313,7 @@
 
 ## NFT Services
 
-| Name              | Telegram                                   | Github                                                 | Twitter                                    | Website                              |
+| Name              | Telegram                                   | GitHub                                                 | Twitter                                    | Website                              |
 | ----------------- | ------------------------------------------ | ------------------------------------------------------ | ------------------------------------------ | ------------------------------------ |
 | Ton Raffles       | [Telegram](https://t.me/tonraffles)        |  | [Twitter](https://twitter.com/TonRaffles)  | [Website](https://tonraffles.org/en) |
 | DAOLama           | [Telegram](https://t.me/daolama_en)        |                                                        | [Twitter](https://twitter.com/daolama_ton) | [Website](https://daolama.co)        |
@@ -365,17 +365,17 @@
 
 ## API Providers
 
-| Name         | Telegram                                  | Github                                              | Twitter                                     | Website                                                 |
-| ------------ | ----------------------------------------- | --------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
-| TON Access   | [Telegram](https://t.me/OrbsNetwork)      | [Github](https://github.com/orbs-network/)          | [Twitter](https://twitter.com/orbs_network) | [Website](https://www.orbs.com/ton-access/)             |
-| Toncenter    | [Telegram](https://t.me/tonapibot)        | [Github](https://github.com/toncenter/ton-http-api) |                                             | [Website](https://toncenter.com/)                       |
-| TON Hub API  | [Telegram](https://t.me/WhalesSupportBot) | [Github](https://github.com/tonwhales)              | [Twitter](https://twitter.com/whalescorp)   | [Website](https://sandbox.tonhubapi.com/)               |
-| TON Console  | [Telegram](https://t.me/tonrostislav)     | [Github](https://github.com/tonkeeper)              |                                             | [Website](https://tonconsole.com/)                      |
-| DTON Graphql | [Telegram](https://t.me/tvorogme)         | [Github](https://github.com/disintar)               |                                             | [Website](https://dton.io/graphql)                      |
-| GetBlock     | [Telegram](https://t.me/getblockio_eng)   |                                                     | [Twitter](https://twitter.com/getblockio)   | [Website](https://getblock.io/nodes/ton/)               |
-| NOWNodes     | [Telegram](https://t.me/nownodes)         | [Github](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
-| TON SDKs     |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/sdk)  |
-| TON ADNL API |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/adnl) |
+| Name                 | Telegram                                  | GitHub                                              | Twitter                                     | Website                                                 |
+|----------------------|-------------------------------------------|-----------------------------------------------------|---------------------------------------------|---------------------------------------------------------|
+| TON Access           | [Telegram](https://t.me/OrbsNetwork)      | [GitHub](https://github.com/orbs-network/)          | [Twitter](https://twitter.com/orbs_network) | [Website](https://www.orbs.com/ton-access/)             |
+| Toncenter            | [Telegram](https://t.me/tonapibot)        | [GitHub](https://github.com/toncenter/ton-http-api) |                                             | [Website](https://toncenter.com/)                       |
+| TON Hub API          | [Telegram](https://t.me/WhalesSupportBot) | [GitHub](https://github.com/tonwhales)              | [Twitter](https://twitter.com/whalescorp)   | [Website](https://sandbox.tonhubapi.com/)               |
+| TON Console (TonAPI) | [Telegram](https://t.me/tonrostislav)     | [GitHub](https://github.com/tonkeeper/tonapi)       |                                             | [Website](https://tonconsole.com/)                      |
+| DTON GraphQL         | [Telegram](https://t.me/tvorogme)         | [GitHub](https://github.com/disintar)               |                                             | [Website](https://dton.io/graphql)                      |
+| GetBlock             | [Telegram](https://t.me/getblockio_eng)   |                                                     | [Twitter](https://twitter.com/getblockio)   | [Website](https://getblock.io/nodes/ton/)               |
+| NOWNodes             | [Telegram](https://t.me/nownodes)         | [GitHub](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
+| TON SDKs             |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/sdk)  |
+| TON ADNL API         |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/adnl) |
 
 ## Payments
 
@@ -459,9 +459,9 @@
 
 ## VPN
 
-| Name          | Telegram                                    | Github                                 | Twitter                                     | Website                           |
+| Name          | Telegram                                    | GitHub                                 | Twitter                                     | Website                           |
 | ------------- | ------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
-| Connecton VPN | [Telegram](https://t.me/ConnectonBot)       | [Github](https://github.com/Connecton) | [Twitter](https://twitter.com/ConnectonVPN) | [Website](https://connecton.surf) |
+| Connecton VPN | [Telegram](https://t.me/ConnectonBot)       | [GitHub](https://github.com/Connecton) | [Twitter](https://twitter.com/ConnectonVPN) | [Website](https://connecton.surf) |
 | VPN4TON       | [Telegram](https://t.me/vpn4ton_bot)        |                                        |                                             |                                   |
 | hitvpnbot     | [Telegram](https://t.me/hitvpnbot)          |                                        |                                             |                                   |
 | Plume Proxy   | [Telegram](https://t.me/plumeproxy_bot)     |                                        |                                             |                                   |
@@ -495,7 +495,7 @@ This list is a grouped collection of live projects built on [TON](https://ton.or
 Ensure your pull request adheres to the following:
 
 - `|` Project Name in _Title Case_ followed by `|`
-- Accepted Links - _Telegram_, _Github_, _Twitter_, _Website URL_ each separated by `|`
+- Accepted Links - _Telegram_, _GitHub_, _Twitter_, _Website URL_ each separated by `|`
 - Ensure the project is suggested within the correct category. No more than _2_ allowed
 - Entries should be arranged in alphabetical order, sorted by Project Name
 
