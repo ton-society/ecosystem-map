@@ -175,6 +175,7 @@
 | Batte Planes            | [Telegram](https://t.me/battleplanes)           |                                                              |                                              |                                                |
 | Fanton Fantasy Football | [Telegram](https://t.me/FanTonGameBot)          |                                                              |                                              |                                                |
 | Tongochi Game           | [Telegram](https://t.me/TonGochi_bot)           |                                                              |                                              |                                                |
+| CockFights Game         | [Telegram](https://t.me/TonCocks)               |  										                       | [Twitter](https://twitter.com/Cock_Fights)   | [Website](https://cock-fights.com)			   |
 
 ## Infra
 
