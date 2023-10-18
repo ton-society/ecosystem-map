@@ -264,6 +264,7 @@
 | Trail of Bits |                                          | [GitHub](https://github.com/trailofbits)   | [Twitter](https://twitter.com/trailofbits) | [Website](https://www.trailofbits.com/) |
 | Hexens.io     |                                          | [GitHub](https://github.com/Hexens)        | [Twitter](https://twitter.com/hexensio)    | [Website](https://hexens.io/)           |
 | Quantstamp    |                                          | [GitHub](https://github.com/quantstamp)    | [Twitter](https://twitter.com/Quantstamp)  | [Website](https://quantstamp.com/)      |
+| ScaleBit      |                                          | [GitHub](https://github.com/ScaleBit)      | [Twitter](https://twitter.com/scalebit_)   | [Website](https://www.scalebit.xyz/)
 
 ## Education
 
