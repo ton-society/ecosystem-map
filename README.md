@@ -363,6 +363,7 @@
 | Tonscan Stats |                                      | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats) |
 | Anton.tools   | [Telegram](https://t.me/tonindexer)  | [GitHub](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)      |
 | TON Radar     | [Telegram](https://t.me/tonradarapp) | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)     |
+| Kattana       | [Telegram](https://t.me/kattana_trade) | [GitHub](https://github.com/kattana-io)                | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)   |
 
 ## API Providers
 
