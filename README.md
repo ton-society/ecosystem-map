@@ -279,6 +279,7 @@
 | FunC Contracts Collection |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/examples#func-smart-contracts) |
 | FunC SDK and Libraries    |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/libraries)                     |
 | TON Virtual Machine       |                                    | [GitHub](https://github.com/ton-blockchain/ton/tree/master/crypto/vm) |                                             | [Website](https://docs.ton.org/learn/tvm-instructions/tvm-overview)                   |
+| FunC Basic Contracts       |                                    | [GitHub](https://github.com/kushagra2jindal/TonTutorial) |                                             |                    |
 
 ## YouTube Tutorials
 
