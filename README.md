@@ -355,15 +355,16 @@
 
 ## Analytics
 
-| Name          | Telegram                             | GitHub                                        | Twitter                                       | Website                              |
-| ------------- | ------------------------------------ | --------------------------------------------- | --------------------------------------------- | ------------------------------------ |
-| DefiLlama     |                                      | [GitHub](https://github.com/DefiLlama)        | [Twitter](https://twitter.com/DefiLlama)      | [Website](https://defillama.com/)    |
-| re:doubt      | [Telegram](https://t.me/re_doubt)    | [GitHub](https://github.com/re-doubt)         | [Twitter](https://twitter.com/redoubt_web3)   | [Website](https://redoubt.online/)   |
-| TonStat       | [Telegram](https://t.me/tonstatcom)  |                                               |                                               | [Website](https://www.tonstat.com/)  |
-| Tonscan Stats |                                      | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats) |
-| Anton.tools   | [Telegram](https://t.me/tonindexer)  | [GitHub](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)      |
-| TON Radar     | [Telegram](https://t.me/tonradarapp) | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)     |
-| Kattana       | [Telegram](https://t.me/kattana_trade) | [GitHub](https://github.com/kattana-io)                | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)   |
+| Name                 | Telegram                               | GitHub                                        | Twitter                                       | Website                              |
+| -------------------- | -------------------------------------- | --------------------------------------------- | --------------------------------------------- | ------------------------------------ |
+| DefiLlama            |                                        | [GitHub](https://github.com/DefiLlama)        | [Twitter](https://twitter.com/DefiLlama)      | [Website](https://defillama.com/)    |
+| re:doubt             | [Telegram](https://t.me/re_doubt)      | [GitHub](https://github.com/re-doubt)         | [Twitter](https://twitter.com/redoubt_web3)   | [Website](https://redoubt.online/)   |
+| TonStat              | [Telegram](https://t.me/tonstatcom)    |                                               |                                               | [Website](https://www.tonstat.com/)  |
+| Tonscan Stats        |                                        | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats) |
+| Anton.tools          | [Telegram](https://t.me/tonindexer)    | [GitHub](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)      |
+| TON Radar            | [Telegram](https://t.me/tonradarapp)   | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)     |
+| TON DEX PnL Analyzer | [Telegram](https://t.me/ton_learn)     |                                               | [Twitter](https://twitter.com/roma_i_m)       | [Website](https://tonlearn.tools/)   |
+| Kattana              | [Telegram](https://t.me/kattana_trade) | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)   |
 
 ## API Providers
 
