@@ -139,18 +139,18 @@
 
 ## Explorers
 
-| Name             | Telegram                                | GitHub                                           | Twitter                                       | Website                                                         |
-| ---------------- | --------------------------------------- | ------------------------------------------------ | --------------------------------------------- | --------------------------------------------------------------- |
-| Tonscan          |                                         | [GitHub](https://github.com/catchain/tonscan)    |                                               | [Website](https://tonscan.org/)                                 |
-| Tonviewer        |                                         | [GitHub](https://github.com/aptos-labs/explorer) | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonviewer.com/)                               |
-| TONAPI           | [Telegram](https://t.me/tonkeeper)      | [GitHub](https://github.com/tonkeeper/tonapi)    | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonapi.io/)                                   |
-| Whales Explorer  |                                         | [GitHub](https://github.com/tonwhales)           | [Twitter](https://twitter.com/whalescorp)     | [Website](https://tonwhales.com/explorer)                       |
-| M3TA             | [Telegram](https://t.me/M3TA_Analytics) |                                                  | [Twitter](https://twitter.com/M3TA_Analytics) | [Website](https://m3talab.io/reports/ton-telegram-open-network) |
-| TON NFT Explorer | [Telegram](https://t.me/this_is_TON)    |                                                  |                                               | [Website](https://explorer.tonnft.tools/)                       |
-| DTON             | [Telegram](https://t.me/disintar)       |                                                  | [Twitter](https://twitter.com/disintar_io/)   | [Website](https://dton.io/)                                     |
-| 3xpl             |                                         | [GitHub](https://github.com/3xplcom)             | [Twitter](https://twitter.com/3xplcom)        | [Website](https://3xpl.com/ton)                                 |
-| TON.sh           |                                         |                                                  |                                               | [Website](https://ton.sh/)                                      |
-| Tenere Explorer  | [Telegram](https://t.me/teneretoken)    |                                                  |                                               | [Website](https://www.teneretoken.com/tenere-explorer)          |
+| Name             | Telegram                                | GitHub                                            | Twitter                                       | Website                                                         |
+| ---------------- | --------------------------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
+| Tonscan          |                                         | [GitHub](https://github.com/catchain/tonscan)     |                                               | [Website](https://tonscan.org/)                                 |
+| Tonviewer        |                                         |                                                   | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonviewer.com/)                               |
+| TONAPI           | [Telegram](https://t.me/tonkeeper)      | [GitHub](https://github.com/tonkeeper/opentonapi) | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonapi.io/)                                   |
+| Whales Explorer  |                                         | [GitHub](https://github.com/tonwhales)            | [Twitter](https://twitter.com/whalescorp)     | [Website](https://tonwhales.com/explorer)                       |
+| M3TA             | [Telegram](https://t.me/M3TA_Analytics) |                                                   | [Twitter](https://twitter.com/M3TA_Analytics) | [Website](https://m3talab.io/reports/ton-telegram-open-network) |
+| TON NFT Explorer | [Telegram](https://t.me/this_is_TON)    |                                                   |                                               | [Website](https://explorer.tonnft.tools/)                       |
+| DTON             | [Telegram](https://t.me/disintar)       |                                                   | [Twitter](https://twitter.com/disintar_io/)   | [Website](https://dton.io/)                                     |
+| 3xpl             |                                         | [GitHub](https://github.com/3xplcom)              | [Twitter](https://twitter.com/3xplcom)        | [Website](https://3xpl.com/ton)                                 |
+| TON.sh           |                                         |                                                   |                                               | [Website](https://ton.sh/)                                      |
+| Tenere Explorer  | [Telegram](https://t.me/teneretoken)    |                                                   |                                               | [Website](https://www.teneretoken.com/tenere-explorer)          |
 
 ## Games
 
