@@ -366,6 +366,7 @@
 | TON Radar            | [Telegram](https://t.me/tonradarapp)   | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)     |
 | TON DEX PnL Analyzer | [Telegram](https://t.me/ton_learn)     |                                               | [Twitter](https://twitter.com/roma_i_m)       | [Website](https://tonlearn.tools/)   |
 | Kattana              | [Telegram](https://t.me/kattana_trade) | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)   |
+| dTON Forum           | [Telegram](https://t.me/dtonforum)     |                                               |                                               |                                      |
 
 ## API Providers
 
