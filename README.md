@@ -13,6 +13,7 @@
     - [Staking](#staking)
     - [Stablecoins](#stablecoins)
   - [Launchpad](#launchpad)
+  - [Centralized Exchanges](#centralized-exchanges)
   - [On-Ramp](#on-ramp)
   - [Explorers](#explorers)
   - [Games](#games)
