@@ -120,6 +120,14 @@
 | TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
 | TONUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
 
+## Centralized Exchanges
+
+| Name         | Telegram                                 | GitHub                                    | Twitter                          | Website                                                        |
+| ------------ | ---------------------------------------- | ----------------------------------------- |----------------------------------| -------------------------------------------------------------- |
+| OKX          | [Telegram](https://t.me/OKXOfficial_English) |                                           | [Twitter](https://twitter.com/okx) | [Website](https://www.okx.com/)                               |
+| MEXC         | [Telegram](https://t.me/MEXCEnglish)     |                                           | [Twitter](https://twitter.com/MEXC_Official) | [Website](https://www.mexc.com/)                              |
+| HTX          | [Telegram](https://t.me/htxglobalofficial)     |                                           | [Twitter](https://twitter.com/HTX_Global) | [Website](https://www.htx.com/)                               |
+
 ## On-Ramp
 
 | Name         | Telegram                                   | GitHub                                    | Twitter                                       | Website                                                        |
@@ -357,8 +365,9 @@
 ## Analytics
 
 | Name                 | Telegram                               | GitHub                                        | Twitter                                       | Website                              |
-| -------------------- | -------------------------------------- | --------------------------------------------- | --------------------------------------------- | ------------------------------------ |
+|----------------------|----------------------------------------|-----------------------------------------------| --------------------------------------------- | ------------------------------------ |
 | DefiLlama            |                                        | [GitHub](https://github.com/DefiLlama)        | [Twitter](https://twitter.com/DefiLlama)      | [Website](https://defillama.com/)    |
+| GeckoTerminal        |    [Telegram](https://t.me/geckoterminal)                                     |                                               | [Twitter](https://twitter.com/GeckoTerminal)   | [Website](https://www.geckoterminal.com/ton/pools/)   |
 | re:doubt             | [Telegram](https://t.me/re_doubt)      | [GitHub](https://github.com/re-doubt)         | [Twitter](https://twitter.com/redoubt_web3)   | [Website](https://redoubt.online/)   |
 | TonStat              | [Telegram](https://t.me/tonstatcom)    |                                               |                                               | [Website](https://www.tonstat.com/)  |
 | Tonscan Stats        |                                        | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats) |
@@ -420,7 +429,7 @@
 ### Non-Custodial Wallets
 
 | Name          | Telegram                                     | GitHub                                                      | Twitter                                        | Website                                              |
-| ------------- | -------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+|---------------|----------------------------------------------|-------------------------------------------------------------| ---------------------------------------------- | ---------------------------------------------------- |
 | @wallet       | [Telegram](https://t.me/wallet)              |                                                             | [Twitter](https://twitter.com/wallet_tg)       | [Website](https://wallet.tg/)                        |
 | Coin98 Wallet | [Telegram](https://t.me/coin98wallet)        | [GitHub](https://github.com/coin98)                         | [Twitter](https://twitter.com/coin98_wallet)   | [Website](https://coin98.com/wallet)                 |
 | iMe Wallet    | [Telegram](https://t.me/ime_en)              | [GitHub](https://github.com/imemessenger/)                  | [Twitter](https://twitter.com/ImePlatform)     | [Website](https://www.imem.app/)                     |
@@ -458,7 +467,7 @@
 
 | Name    | Telegram                                  | GitHub                                     | Twitter                                 | Website                                |
 | ------- | ----------------------------------------- | ------------------------------------------ | --------------------------------------- | -------------------------------------- |
-| Ledger  |                                           | [GitHub](https://github.com/LedgerHQ)      | [Twitter](https://twitter.com/Ledger)   | [Website](https://www.ledger.com/)     |
+| Ledger  |                                           | [GitHub](https://github.com/LedgerHQ)      | [Twitter](https://twitter.com/Ledger)   | [Website](https://www.ledger.com/coin/wallet/the-open-network)     |
 | Safepal | [Telegram](https://t.me/SafePal_official) | [GitHub](https://github.com/SafePalWallet) | [Twitter](https://twitter.com/iSafePal) | [Website](https://www.safepal.com/en/) |
 | Tangem  | [Telegram](https://t.me/tangem)           | [GitHub](https://github.com/tangem)        | [Twitter](https://twitter.com/tangem)   | [Website](https://tangem.com/en/)      |
 
