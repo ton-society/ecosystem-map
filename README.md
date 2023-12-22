@@ -151,6 +151,7 @@
 
 | Name             | Telegram                                | GitHub                                            | Twitter                                       | Website                                                         |
 | ---------------- | --------------------------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
+| Tonscan by Bastion |                                       |                                                   |                                               | [Website](https://tonscan.com/)                                 |
 | Tonscan          |                                         | [GitHub](https://github.com/catchain/tonscan)     |                                               | [Website](https://tonscan.org/)                                 |
 | Tonviewer        |                                         |                                                   | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonviewer.com/)                               |
 | TONAPI           | [Telegram](https://t.me/tonkeeper)      | [GitHub](https://github.com/tonkeeper/opentonapi) | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonapi.io/)                                   |
