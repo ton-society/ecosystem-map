@@ -105,6 +105,7 @@
 | TON Stake Lottery | [Telegram](https://t.me/tonstakelottery)    |                                          |                                             | [Website](https://tonstakelottery.com/) |
 | Bemo Finance      | [Telegram](https://t.me/bemofinance)        |                                          | [Twitter](https://twitter.com/bemo_finance) | [Website](https://www.bemo.finance/)    |
 | Tonstakers        | [Telegram](https://t.me/thetonstakers)      |                                          | [Twitter](https://twitter.com/tonstakers)   | [Website](https://tonstakers.com/)      |
+| Stakee	    | [Telegram](https://t.me/stakee)    	  |                                          |                                             | [Website](https://t.me/StakeeBot/start) |
 
 ### Stablecoins
 
