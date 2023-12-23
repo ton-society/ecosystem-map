@@ -49,6 +49,7 @@
     - [Hardware Wallets](#hardware-wallets)
   - [VPN](#vpn)
   - [Gambling & Skill-based Games](#gambling-and-skill-based-games)
+  - [Inscriptions](#inscriptions)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating Your PR](#updating-your-pr)
 
@@ -502,6 +503,12 @@
 | Prophecy Pulse   | [Telegram](https://t.me/prophecypulse_bot)   |                                      | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/) |
 | Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [GitHub](https://github.com/wagmi11) | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)       |
 | Panda Loto       | [Telegram](https://t.me/PandaLotteryBot)     |                                      |                                              |                                           |
+
+## Inscriptions
+
+| Name          | Telegram                                    | GitHub                                 | Twitter                                     | Website                           |
+| ------------- | ------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
+| Tonano | [Telegram](https://t.me/tonanoOfficial)       |  | [Twitter](https://twitter.com/Ton_scription) | [Website](https://tonano.io) |
 
 ---
 
