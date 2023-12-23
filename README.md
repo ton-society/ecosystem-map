@@ -48,7 +48,7 @@
     - [Hardware Wallets](#hardware-wallets)
   - [VPN](#vpn)
   - [Gambling & Skill-based Games](#gambling-and-skill-based-games)
-  - [Inscription](#inscription)
+  - [Inscriptions](#inscriptions)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating Your PR](#updating-your-pr)
 
@@ -492,7 +492,7 @@
 | Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [GitHub](https://github.com/wagmi11) | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)       |
 | Panda Loto       | [Telegram](https://t.me/PandaLotteryBot)     |                                      |                                              |                                           |
 
-## Inscription
+## Inscriptions
 
 | Name          | Telegram                                    | GitHub                                 | Twitter                                     | Website                           |
 | ------------- | ------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
