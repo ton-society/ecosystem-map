@@ -188,6 +188,7 @@
 | Fanton Fantasy Football | [Telegram](https://t.me/FanTonGameBot)          |                                                              |                                              |                                                |
 | Tongochi Game           | [Telegram](https://t.me/TonGochi_bot)           |                                                              |                                              |                                                |
 | CockFights Game         | [Telegram](https://t.me/TonCocks)               |  										                       | [Twitter](https://twitter.com/Cock_Fights)   | [Website](https://cock-fights.com)			   |
+| Chess Zombies           | [Telegram](https://t.me/chesszombieseng)        | [GitHub](https://github.com/SHEDEVERstudio)                  | [Twitter](https://twitter.com/ShedEVERstudio)| [Website](https://chesszombies.fun)    |
 
 ## Infra
 
