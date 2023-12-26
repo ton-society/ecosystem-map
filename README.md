@@ -163,6 +163,7 @@
 | 3xpl             |                                         | [GitHub](https://github.com/3xplcom)              | [Twitter](https://twitter.com/3xplcom)        | [Website](https://3xpl.com/ton)                                 |
 | TON.sh           |                                         |                                                   |                                               | [Website](https://ton.sh/)                                      |
 | Tenere Explorer  | [Telegram](https://t.me/teneretoken)    |                                                   |                                               | [Website](https://www.teneretoken.com/tenere-explorer)          |
+| NFTScan     |                                                 |  [Github](https://github.com/nftscan-official)    | [Twitter](https://twitter.com/nftscan_com)      | [Website](https://ton.nftscan.com/)                               |
 
 ## Games
 
