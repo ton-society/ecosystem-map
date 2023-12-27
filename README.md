@@ -19,6 +19,7 @@
   - [Games](#games)
   - [Infra](#infra)
     - [Web3 Internet](#web3-internet)
+    - [DeFi](#defi-1)
     - [Gaming](#gaming)
     - [Storage](#storage)
     - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)
@@ -30,6 +31,7 @@
   - [Education](#education)
   - [YouTube Tutorials](#youtube-tutorials)
   - [Shopping](#shopping)
+    - [TON Payments](#ton-payments)
     - [Marketplaces](#marketplaces)
   - [NFT](#nft)
     - [NFT Services](#nft-services)
@@ -42,13 +44,13 @@
   - [App Store](#app-store)
   - [SocialFi](#socialfi)
   - [Wallets](#wallets)
-    - [Auth Protocols](#auth-protocols)
+  - [Auth Protocols](#auth-protocols)
     - [Non-Custodial Wallets](#non-custodial-wallets)
     - [Custodial Wallets](#custodial-wallets)
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [VPN](#vpn)
-  - [Gambling & Skill-based Games](#gambling-and-skill-based-games)
+  - [Gambling and Skill-based Games](#gambling-and-skill-based-games)
   - [Inscriptions](#inscriptions)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating Your PR](#updating-your-pr)
@@ -397,6 +399,7 @@
 | NOWNodes             | [Telegram](https://t.me/nownodes)         | [GitHub](https://github.com/NOWNodes)               | [Twitter](https://twitter.com/NowNodes)     | [Website](https://nownodes.io/nodes/toncoin)            |
 | TON SDKs             |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/sdk)  |
 | TON ADNL API         |                                           |                                                     |                                             | [Website](https://docs.ton.org/develop/dapps/apis/adnl) |
+| TonFura API          | [Telegram](https://t.me/tonfura_ann)      | [GitHub](https://github.com/tonfuraplatform)        |  [Twitter](https://twitter.com/ton_fura)    | [Website](https://tonfura.com/)                         |
 
 ## Payments
 
