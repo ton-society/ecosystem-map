@@ -279,6 +279,8 @@
 | ------------- | ---------------------------------------- | ------------------------------------------ | ------------------------------------------ | --------------------------------------- |
 | CertiK        | [Telegram](https://t.me/CertiKCommunity) | [GitHub](https://github.com/CertiKProject) | [Twitter](https://twitter.com/CertiK)      | [Website](https://www.certik.com/)      |
 | Trail of Bits |                                          | [GitHub](https://github.com/trailofbits)   | [Twitter](https://twitter.com/trailofbits) | [Website](https://www.trailofbits.com/) |
+| Hacken        | [Telegram](https://t.me/hackenai)        | [GitHub](https://github.com/hknio)         | [Twitter](https://twitter.com/hackenclub)  | [WebSite](https://hacken.io/)           |
+| HackenProof   | [Telegram](https://t.me/hackenproof)     | [GitHub](https://github.com/hackenproof)   | [Twitter](https://twitter.com/HackenProof) | [WebSite](https://hackenproof.com/)     |
 | Hexens.io     |                                          | [GitHub](https://github.com/Hexens)        | [Twitter](https://twitter.com/hexensio)    | [Website](https://hexens.io/)           |
 | Quantstamp    |                                          | [GitHub](https://github.com/quantstamp)    | [Twitter](https://twitter.com/Quantstamp)  | [Website](https://quantstamp.com/)      |
 | ScaleBit      |                                          | [GitHub](https://github.com/ScaleBit)      | [Twitter](https://twitter.com/scalebit_)   | [Website](https://www.scalebit.xyz/)
