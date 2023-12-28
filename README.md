@@ -445,7 +445,7 @@
 | @wallet       | [Telegram](https://t.me/wallet)              |                                                             | [Twitter](https://twitter.com/wallet_tg)       | [Website](https://wallet.tg/)                        |
 | Coin98 Wallet | [Telegram](https://t.me/coin98wallet)        | [GitHub](https://github.com/coin98)                         | [Twitter](https://twitter.com/coin98_wallet)   | [Website](https://coin98.com/wallet)                 |
 | iMe Wallet    | [Telegram](https://t.me/ime_en)              | [GitHub](https://github.com/imemessenger/)                  | [Twitter](https://twitter.com/ImePlatform)     | [Website](https://www.imem.app/)                     |
-| KaiOS Wallet  | [Telegram](https://t.me/Vinayakkalra)        | [GitHub](https://github.com/kaifoundry/ton-kaios-wallet)    |                                                |
+| KaiOS Wallet  | [Telegram](https://t.me/Vinayakkalra)        | [GitHub](https://github.com/kaifoundry/ton-kaios-wallet)    |                                                |                                                      |
 | MyTonWallet   | [Telegram](https://t.me/MyTonWalletRu)       | [GitHub](https://github.com/mytonwalletorg/mytonwallet)     |                                                | [Website](https://mytonwallet.io/)                   |
 | Tonkeeper     | [Telegram](https://t.me/tonkeeper)           | [GitHub](https://github.com/tonkeeper/wallet-api)           | [Twitter](https://twitter.com/tonkeeper)       | [Website](https://tonkeeper.com/)                    |
 | Tonhub        |                                              | [GitHub](https://github.com/tonwhales/wallet)               |                                                | [Website](https://tonhub.com/)                       |
@@ -454,6 +454,7 @@
 | OpenMask      | [Telegram](https://t.me/openproduct)         | [GitHub](https://github.com/OpenProduct/openmask-extension) | [Twitter](https://twitter.com/openmask_wallet) | [Website](https://www.openmask.app/)                 |
 | Gemwallet     | [Telegram](https://t.me/gemwallet)           | [GitHub](https://github.com/gemwalletcom)                   | [Twitter](https://twitter.com/GemWalletApp)    | [Website](https://gemwallet.com/)                    |
 | Top Wallets   | [Telegram](https://t.me/top_wallets)         | [GitHub](https://github.com/AlexGor-dev/Top-Wallets)        |                                                | [Website](https://complex-soft.com/top_wallets.html) |
+| XTON Wallet   | [Telegram](https://t.me/xtonwallet)          | [GitHub](https://github.com/xtonwallet/web-extension)       |                                                | [Website](https://xtonwallet.com/)                   |
 
 ### Custodial Wallets
 
