@@ -412,7 +412,7 @@
 | Cryptomus  |                                      |                                            | [Twitter](https://twitter.com/cryptomuscom) | [Website](https://cryptomus.com/)   |
 | iVendPay   | [Telegram](https://t.me/ivendpay)    |                                            | [Twitter](https://twitter.com/ivendpay)     | [Website](https://ivendpay.com/)    |
 | Cryptopay  | [Telegram](https://t.me/cryptopayme) | [GitHub](https://github.com/cryptopay-dev) | [Twitter](https://twitter.com/cryptopay)    | [Website](https://cryptopay.me/en/) |
-| @donate    | [Telegram](https://t.me/donate)      |                                            |                                             |                                     |
+| @Tribute   | [Telegram](https://t.me/tribute)     |                                            |                                             | [Website](https://tribute.tg)       |
 
 ## App Store
 
