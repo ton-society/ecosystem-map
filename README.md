@@ -417,10 +417,11 @@
 
 ## App Store
 
-| Name                 | Telegram                              | GitHub | Twitter                                 | Website                          |
-| -------------------- | ------------------------------------- | ------ | --------------------------------------- | -------------------------------- |
-| TON App              | [Telegram](https://t.me/tonapp)       |        | [Twitter](https://twitter.com/apps_ton) | [Website](https://ton.app/)      |
-| Telegram Apps Center | [Telegram](https://t.me/trendingApps) |        |                                         | [Website](https://tapps.center/) |
+| Name                 | Telegram                              | GitHub | Twitter                                 | Website                             |
+| -------------------- | ------------------------------------- | ------ | --------------------------------------- | ------------------------------------|
+| TON App              | [Telegram](https://t.me/tonapp)       |        | [Twitter](https://twitter.com/apps_ton) | [Website](https://ton.app/)         |
+| Telegram Apps Center | [Telegram](https://t.me/trendingApps) |        |                                         | [Website](https://tapps.center/)    |
+| Tonscan Apps         | [Telegram](https://t.me/catchain)     |        |					  | [Website](https://tonscan.org/apps) |
 
 ## SocialFi
 
