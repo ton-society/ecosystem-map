@@ -68,6 +68,7 @@
 | XP.Network     | [Telegram](https://t.me/xp_network)       | [GitHub](https://github.com/XP-NETWORK)                 | [Twitter](https://twitter.com/xpnetwork_)     | [Website](https://bridge.xp.network/)    |
 | TonTake Bridge | [Telegram](https://t.me/tontakebridgebot) |                                                         |                                               |                                          |
 | Wallet Bridge  | [Telegram](https://t.me/walletbridgebot)  |                                                         |                                               |                                          |
+| Layerswap      |                                           | [GitHub](https://github.com/layerswap/layerswapapp)     | [Twitter](https://twitter.com/layerswap)      | [Website](https://www.layerswap.io/)     |
 
 ## DeFi
 
