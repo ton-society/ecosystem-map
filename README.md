@@ -521,6 +521,7 @@
 | Name          | Telegram                                    | GitHub                                 | Twitter                                     | Website                           |
 | ------------- | ------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
 | Tonano | [Telegram](https://t.me/tonanoOfficial)       |  | [Twitter](https://twitter.com/Ton_scription) | [Website](https://tonano.io) |
+| Shard.Zone | [Telegram](https://t.me/TonShardZone) | | [Twitter](https://twitter.com/ShardMarket) | [Website](https://shard.zone)
 
 
 ## Utilities
