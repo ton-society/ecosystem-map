@@ -285,7 +285,7 @@
 | HackenProof   | [Telegram](https://t.me/hackenproof)     | [GitHub](https://github.com/hackenproof)   | [Twitter](https://twitter.com/HackenProof) | [WebSite](https://hackenproof.com/)     |
 | Hexens.io     |                                          | [GitHub](https://github.com/Hexens)        | [Twitter](https://twitter.com/hexensio)    | [Website](https://hexens.io/)           |
 | Quantstamp    |                                          | [GitHub](https://github.com/quantstamp)    | [Twitter](https://twitter.com/Quantstamp)  | [Website](https://quantstamp.com/)      |
-| ScaleBit      |                                          | [GitHub](https://github.com/ScaleBit)      | [Twitter](https://twitter.com/scalebit_)   | [Website](https://www.scalebit.xyz/)
+| ScaleBit      |                                          | [GitHub](https://github.com/ScaleBit)      | [Twitter](https://twitter.com/scalebit_)   | [Website](https://www.scalebit.xyz/)    |
 
 ## Education
 
@@ -521,7 +521,7 @@
 | Name          | Telegram                                    | GitHub                                 | Twitter                                     | Website                           |
 | ------------- | ------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
 | Tonano | [Telegram](https://t.me/tonanoOfficial)       |  | [Twitter](https://twitter.com/Ton_scription) | [Website](https://tonano.io) |
-| Shard.Zone | [Telegram](https://t.me/TonShardZone) | | [Twitter](https://twitter.com/ShardMarket) | [Website](https://shard.zone)
+| Shard.Zone | [Telegram](https://t.me/TonShardZone) | | [Twitter](https://twitter.com/ShardMarket) | [Website](https://shard.zone) |
 
 
 ## Utilities
@@ -532,6 +532,14 @@
 | Ton INU     | [Telegram](https://t.me/toninutools)  		|  | [Twitter](https://twitter.com/toninutools) | [Website](https://toninu.tech/)    |
 | Stonks      | [Telegram](https://t.me/stonksonton)  		|  | [Twitter](https://twitter.com/tonstonks) | [Website](https://stonksbots.com)    |
 ---
+
+# Disclaimer
+
+**No Investment Advice or Endorsement:**
+  The information provided is not investment advice, and listing on TON Ecosystem Map does not constitute an endorsement for any decentralized application. Users should independently verify project credibility before participating.
+
+**Information Accuracy:**
+  While we strive for accuracy, we disclaim responsibility for any missing or incorrect information. Use the information at your own risk.
 
 # Contribution Guidelines
 
