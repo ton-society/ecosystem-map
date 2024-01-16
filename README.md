@@ -52,7 +52,6 @@
   - [VPN](#vpn)
   - [Gambling and Skill-based Games](#gambling-and-skill-based-games)
   - [Inscriptions](#inscriptions)
-  - [Trading](#trading)
 - [Disclaimer](#disclaimer)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating Your PR](#updating-your-pr)
@@ -526,13 +525,6 @@
 | Tonano     | [Telegram](https://t.me/tonanoOfficial) |        | [Twitter](https://twitter.com/Ton_scription) | [Website](https://tonano.io)  |
 | Shard.Zone | [Telegram](https://t.me/TonShardZone)   |        | [Twitter](https://twitter.com/ShardMarket)   | [Website](https://shard.zone) |
 
-
-## Trading
-
-| Name        | Telegram                                    | GitHub                                 | Twitter                                     | Website                           |
-|-------------| ------------------------------------------- | -------------------------------------- | ------------------------------------------- | --------------------------------- |
-| Ton INU     | [Telegram](https://t.me/toninutools)  		|  | [Twitter](https://twitter.com/toninutools) | [Website](https://toninu.tech/)    |
-| Stonks      | [Telegram](https://t.me/stonksonton)  		|  | [Twitter](https://twitter.com/tonstonks) | [Website](https://stonksbots.com)    |
 ---
 
 # Disclaimer
