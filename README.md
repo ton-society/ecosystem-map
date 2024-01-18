@@ -215,6 +215,8 @@
 |------------|--------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|------------------------------------|
 | TON Minter | [Telegram](https://t.me/+YDnoBue1Dz81ZTMy) | [GitHub](https://github.com/ton-blockchain/minter-contract) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://minter.ton.org/) |
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
+| TON Telegram Buy Bot | [Telegram](https://t.me/TONBuyBot_bot) |  |  |  |
+| TON Telegram Live Trending Bot | [Telegram](https://t.me/TONTrendingChannel) |  |  |  |
 
 ### Gaming
 
