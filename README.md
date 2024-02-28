@@ -5,6 +5,7 @@
 ## A collection of live projects within the TON Ecosystem
 
 - [Project Categories](#project-categories)
+  - [Forums](#forums)
   - [Bridges](#bridges)
   - [DeFi](#defi)
     - [Decentralized Exchanges](#decentralized-exchanges)
@@ -59,6 +60,14 @@
 ---
 
 # Project Categories
+
+## Forums
+| Name           | Telegram                                  | GitHub                                                  | Twitter                                       | Website                                  |
+|----------------|-------------------------------------------|---------------------------------------------------------|-----------------------------------------------|------------------------------------------|
+| Ton Research   | [Telegram](https://t.me/tonresear_ch)     |                                                         | [Twitter](https://twitter.com/ton_research)   | [Website](https://tonresear.ch)          |
+| TON Overflow   |                                           |                                                         |                                               | [Website](https://answers.ton.org)       |
+| Stack Overflow |                                           |                                                         |                                               | [Website](https://stackoverflow.com/questions/tagged/ton)    |
+
 
 ## Bridges
 
