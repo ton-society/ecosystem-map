@@ -232,6 +232,7 @@
 | TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play) | [Twitter](https://twitter.com/insider_ton) | [Website](https://tonplay.io)   |
 | 8XR          | [Telegram](https://t.me/gam8s)          |                                       | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
 | Cosmoton.xyz |                                         |                                       |                                            | [Website](https://cosmoton.xyz) |
+| MumbaGames   | [Telegram](https://t.me/mumbagames_bot) |                                       | [Twitter](https://twitter.com/mumba_ton)   |                                 |
 
 ### Storage
 
@@ -442,6 +443,7 @@
 | Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)       |
 | Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/) |
 | Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/) |
+| Mumba TaskBot           | [Telegram](https://t.me/mumbatasks_bot)         |                                                    | [Twitter](https://twitter.com/mumba_ton)     | [Website](https://themumba.com/)  |
 
 ## Wallets
 
