@@ -534,6 +534,7 @@
 | Name | Telegram                            | Jetton Address                                                                                                             | Twitter                                   | Website                           |
 | ---- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------- |
 | Fish | [Telegram](https://t.me/tonfish_en) | [EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK) | [Twitter](https://twitter.com/tonfish_tg) | [Website](https://www.tonfish.io) |
+| HAKI | [Telegram](https://t.me/hachikoinuera) | [EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf](https://tonviewer.com/EQDjYih3EzJMI1Vh0AtJ5qWo_jTqadPQggRD33-xLgxBKBLf) | [Twitter](https://twitter.com/hachikoinu_) | [Website](https://www.hachikoera.xyz) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
