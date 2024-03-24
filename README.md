@@ -527,6 +527,16 @@
 | Panda Loto       | [Telegram](https://t.me/PandaLotteryBot)     |                                      |                                              |                                           |
 | TonTogether      | [Telegram](https://t.me/ton_together)        |                                      | [Twitter](https://twitter.com/TogetherTON)   | [Website](https://tontogether.com)        |
 
+## Memecoins
+
+| Name | Telegram                            | Jetton Address                                                                                                             | Twitter                                   | Website                           |
+| ---- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------- |
+| Fish | [Telegram](https://t.me/tonfish_en) | [EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK) | [Twitter](https://twitter.com/tonfish_tg) | [Website](https://www.tonfish.io) |
+
+### Disclaimer for Jetton Inclusion Criteria
+
+Please be aware that in order for a jetton to be considered for inclusion in our list, it must meet the following criteria: the token should have a minimum of 1,000 unique holders, a Fully Diluted Valuation (FDV) of at least $1 million, and a Total Value Locked (TVL) exceeding $100,000. These requirements are put in place to ensure that only tokens with a certain level of market participation, valuation, and liquidity are considered. Tokens not meeting these criteria at the time of evaluation will not be included in the list.
+
 ## Inscriptions
 
 | Name       | Telegram                                | GitHub | Twitter                                      | Website                       |
