@@ -533,7 +533,8 @@
 
 | Name | Telegram                            | Jetton Address                                                                                                             | Twitter                                   | Website                           |
 | ---- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------- |
-| Fish | [Telegram](https://t.me/tonfish_en) | [EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK) | [Twitter](https://twitter.com/tonfish_tg) | [Website](https://www.tonfish.io) |
+| Fish | [Telegram](https://t.me/tonfish_en) | [`EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK`](https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK) | [Twitter](https://twitter.com/tonfish_tg) | [Website](https://www.tonfish.io) |
+| Redo | [Telegram](https://t.me/redoton) | [`EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko`](https://tonviewer.com/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko) | [Twitter](https://twitter.com/redoonton) | [Website](https://www.redoton.com) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
