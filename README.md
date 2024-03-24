@@ -225,9 +225,7 @@
 | Name       | Telegram                                   | GitHub                                                      | Twitter                                       | Website                            |
 | ---------- | ------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- | ---------------------------------- |
 | TON Minter | [Telegram](https://t.me/+YDnoBue1Dz81ZTMy) | [GitHub](https://github.com/ton-blockchain/minter-contract) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://minter.ton.org/) |
-| TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                     |                                    |  
-| TINU Jetton Creator | [Telegram](https://t.me/TonInuBot) |  | [Twitter](https://twitter.com/toninutools) | [Website](https://app.toninu.tech/tools/jettons/new) |
-| TINU Jetton Locker | [Telegram](https://t.me/TonInuBot) |  | [Twitter](https://twitter.com/toninutools) | [Website](https://app.toninu.tech/locker/new) |
+| TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
 
 ### Gaming
 
