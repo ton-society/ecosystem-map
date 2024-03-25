@@ -234,6 +234,7 @@
 | TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play) | [Twitter](https://twitter.com/insider_ton) | [Website](https://tonplay.io)   |
 | 8XR          | [Telegram](https://t.me/gam8s)          |                                       | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
 | Cosmoton.xyz |                                         |                                       |                                            | [Website](https://cosmoton.xyz) |
+| PaperPlane | [Telegram](https://t.me/PaperPlaneGameBot) | [`EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2`](https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
 
 ### Storage
 
@@ -538,7 +539,7 @@
 | Ton Inu | [Telegram](https://t.me/toninutools) | [`EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt`](https://tonviewer.com/EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt) | [Twitter](https://twitter.com/toninutools) | [Website](https://toninu.tech) |
 | Duck | [Telegram](https://t.me/duckcoin) | [`EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3`](https://tonviewer.com/EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3) | [Twitter](https://twitter.com/notduckcoin) | [Website](https://duck-coin.com) |
 | Tony The Duck | [Telegram](https://t.me/tonytheduck) | [`EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5`](https://tonviewer.com/EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5) | [Twitter](https://twitter.com/theducktony) | [Website](https://tonytheduck.com) |
-
+| PaperPlane | [Telegram](https://t.me/paperplane_ton) | [`EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2`](https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
