@@ -137,6 +137,7 @@
 | Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)     |
 | TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
 | TONUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
+| XTON              | [Telegram](https://t.me/xton_official)          |        | [Twitter](https://twitter.com/xton_official) | [Website](https://xton.org)            |
 
 ## Centralized Exchanges
 
@@ -538,6 +539,7 @@
 | Ton Inu | [Telegram](https://t.me/toninutools) | [`EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt`](https://tonviewer.com/EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt) | [Twitter](https://twitter.com/toninutools) | [Website](https://toninu.tech) |
 | Duck | [Telegram](https://t.me/duckcoin) | [`EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3`](https://tonviewer.com/EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3) | [Twitter](https://twitter.com/notduckcoin) | [Website](https://duck-coin.com) |
 | Tony The Duck | [Telegram](https://t.me/tonytheduck) | [`EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5`](https://tonviewer.com/EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5) | [Twitter](https://twitter.com/theducktony) | [Website](https://tonytheduck.com) |
+| Huebel Bolt | [Telegram](https://t.me/boltfoundation) | [`EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw`](https://tonviewer.com/EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw) | [Twitter](https://twitter.com/boltlabston) | [Website](https://huebel.art) |
 | Arbuz | [Telegram](https://t.me/tonarbuz) | [`EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1`](https://tonviewer.com/EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1) | [Twitter](https://twitter.com/arbuz_ton) | [Website](https://tonarbuz.fun) |
 
 
