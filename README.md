@@ -230,11 +230,12 @@
 
 ### Gaming
 
-| Name         | Telegram                                | GitHub                                | Twitter                                    | Website                         |
-| ------------ | --------------------------------------- | ------------------------------------- | ------------------------------------------ | ------------------------------- |
-| TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play) | [Twitter](https://twitter.com/insider_ton) | [Website](https://tonplay.io)   |
-| 8XR          | [Telegram](https://t.me/gam8s)          |                                       | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
-| Cosmoton.xyz |                                         |                                       |                                            | [Website](https://cosmoton.xyz) |
+| Name         | Telegram                                | GitHub                                  | Twitter                                    | Website                         |
+| ------------ | --------------------------------------- | -------------------------------------   | ------------------------------------------ | ------------------------------- |
+| TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton) | [Website](https://tonplay.io)   |
+| 8XR          | [Telegram](https://t.me/gam8s)          |                                         | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
+| Cosmoton.xyz |                                         |                                         |                                            | [Website](https://cosmoton.xyz) |
+| TON SHIP     | [Telegram](https://t.me/TonShipCom)     | [GitHub](https://github.com/TonShipCom) | [Twitter](https://twitter.com/TonShipCom)  | [Website](https://tonship.com)  |
 
 ### Storage
 
