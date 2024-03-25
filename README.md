@@ -137,6 +137,7 @@
 | Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)     |
 | TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
 | TONUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
+| XTON              | [Telegram](https://t.me/xton_official)          |        | [Twitter](https://twitter.com/xton_official) | [Website](https://xton.org)            |
 
 ## Centralized Exchanges
 
