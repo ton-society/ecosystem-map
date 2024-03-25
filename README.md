@@ -541,6 +541,7 @@
 | Tony The Duck | [Telegram](https://t.me/tonytheduck) | [`EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5`](https://tonviewer.com/EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5) | [Twitter](https://twitter.com/theducktony) | [Website](https://tonytheduck.com) |
 | Huebel Bolt | [Telegram](https://t.me/boltfoundation) | [`EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw`](https://tonviewer.com/EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw) | [Twitter](https://twitter.com/boltlabston) | [Website](https://huebel.art) |
 | Arbuz | [Telegram](https://t.me/tonarbuz) | [`EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1`](https://tonviewer.com/EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1) | [Twitter](https://twitter.com/arbuz_ton) | [Website](https://tonarbuz.fun) |
+| DogWifHood | [Telegram](https://t.me/dogwifhood_TON) | [`EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ`](https://tonviewer.com/EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ) | [Twitter](https://twitter.com/dogwifhoodTON) | [Website](https://wifhood.dog) |
 
 
 ### Disclaimer for Jetton Inclusion Criteria
