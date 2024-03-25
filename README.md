@@ -537,6 +537,8 @@
 | Redo | [Telegram](https://t.me/redoton) | [`EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko`](https://tonviewer.com/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko) | [Twitter](https://twitter.com/redoonton) | [Website](https://www.redoton.com) |
 | Ton Inu | [Telegram](https://t.me/toninutools) | [`EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt`](https://tonviewer.com/EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt) | [Twitter](https://twitter.com/toninutools) | [Website](https://toninu.tech) |
 | Duck | [Telegram](https://t.me/duckcoin) | [`EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3`](https://tonviewer.com/EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3) | [Twitter](https://twitter.com/notduckcoin) | [Website](https://duck-coin.com) |
+| Tony The Duck | [Telegram](https://t.me/tonytheduck) | [`EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5`](https://tonviewer.com/EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5) | [Twitter](https://twitter.com/theducktony) | [Website](https://tonytheduck.com) |
+
 
 ### Disclaimer for Jetton Inclusion Criteria
 
