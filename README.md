@@ -26,6 +26,7 @@
     - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)
     - [Dev Tools](#dev-tools)
     - [Nodes](#nodes)
+    - [Event tracker](#event-tracker)
     - [Oracles](#oracles)
     - [Zk on TON](#zk-on-ton)
     - [Security Solutions](#security-solutions)
@@ -277,6 +278,12 @@
 | TON Admin |          |                                                       |         | [Website](https://tonadmin.org/) |
 | MyTonCtrl |          | [GitHub](https://github.com/ton-blockchain/mytonctrl) |         |
 
+### Event tracker
+
+| Name      | Telegram | GitHub                                                | Twitter | Website                          |
+|-----------|----------|-------------------------------------------------------|---------|----------------------------------|
+| Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
+
 ### Oracles
 
 | Name            | Telegram                                 | GitHub                                        | Twitter                                      | Website                              |
@@ -335,6 +342,7 @@
 | Moneton  | [Telegram](https://t.me/moneton_bot)        |        |         |         |
 | TonoGram | [Telegram](https://t.me/tonogrampremiumbot) |        |         |         |
 | monomenu | [Telegram](https://t.me/monodashboardbot)   |        |         |         |
+| Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
 
 ## Marketplaces
 
@@ -430,6 +438,7 @@
 | iVendPay   | [Telegram](https://t.me/ivendpay)    |                                            | [Twitter](https://twitter.com/ivendpay)     | [Website](https://ivendpay.com/)    |
 | Cryptopay  | [Telegram](https://t.me/cryptopayme) | [GitHub](https://github.com/cryptopay-dev) | [Twitter](https://twitter.com/cryptopay)    | [Website](https://cryptopay.me/en/) |
 | @Tribute   | [Telegram](https://t.me/tribute)     |                                            |                                             | [Website](https://tribute.tg)       |
+| Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
 
 ## App Store
 
