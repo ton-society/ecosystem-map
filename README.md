@@ -123,6 +123,7 @@
 | Bemo Finance      | [Telegram](https://t.me/bemofinance)        |                                          | [Twitter](https://twitter.com/bemo_finance) | [Website](https://www.bemo.finance/)    |
 | Tonstakers        | [Telegram](https://t.me/thetonstakers)      |                                          | [Twitter](https://twitter.com/tonstakers)   | [Website](https://tonstakers.com/)      |
 | Stakee            | [Telegram](https://t.me/stakee)             |                                          |                                             | [Website](https://t.me/StakeeBot/start) |
+| JVault            | [Telegram](https://t.me/JVault)             | [GitHub](https://github.com/JVault-app)  |                                             | [Website](https://jvault.app)           |
 
 ### Stablecoins
 
