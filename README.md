@@ -26,6 +26,7 @@
     - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)
     - [Dev Tools](#dev-tools)
     - [Nodes](#nodes)
+    - [Event tracker](#event-tracker)
     - [Oracles](#oracles)
     - [Zk on TON](#zk-on-ton)
     - [Security Solutions](#security-solutions)
@@ -123,6 +124,7 @@
 | Bemo Finance      | [Telegram](https://t.me/bemofinance)        |                                          | [Twitter](https://twitter.com/bemo_finance) | [Website](https://www.bemo.finance/)    |
 | Tonstakers        | [Telegram](https://t.me/thetonstakers)      |                                          | [Twitter](https://twitter.com/tonstakers)   | [Website](https://tonstakers.com/)      |
 | Stakee            | [Telegram](https://t.me/stakee)             |                                          |                                             | [Website](https://t.me/StakeeBot/start) |
+| JVault            | [Telegram](https://t.me/JVault)             | [GitHub](https://github.com/JVault-app)  |                                             | [Website](https://jvault.app)           |
 
 ### Stablecoins
 
@@ -230,11 +232,12 @@
 
 ### Gaming
 
-| Name         | Telegram                                | GitHub                                  | Twitter                                    | Website                         |
-| ------------ | --------------------------------------- | -------------------------------------   | ------------------------------------------ | ------------------------------- |
-| TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton) | [Website](https://tonplay.io)   |
-| 8XR          | [Telegram](https://t.me/gam8s)          |                                         | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
-| Cosmoton.xyz |                                         |                                         |                                            | [Website](https://cosmoton.xyz) |
+| Name         | Telegram                                | GitHub                                | Twitter                                    | Website                         |
+| ------------ | --------------------------------------- | ------------------------------------- | ------------------------------------------ | ------------------------------- |
+| TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play) | [Twitter](https://twitter.com/insider_ton) | [Website](https://tonplay.io)   |
+| 8XR          | [Telegram](https://t.me/gam8s)          |                                       | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
+| Cosmoton.xyz |                                         |                                       |                                            | [Website](https://cosmoton.xyz) |
+| PaperPlane | [Telegram](https://t.me/PaperPlaneGameBot) | [GitHub](https://github.com/paperplaneonton) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
 | TON SHIP     | [Telegram](https://t.me/TonShipCom)     | [GitHub](https://github.com/TonShipCom) | [Twitter](https://twitter.com/TonShipCom)  | [Website](https://tonship.com)  |
 
 ### Storage
@@ -275,6 +278,12 @@
 | --------- | -------- | ----------------------------------------------------- | ------- | -------------------------------- |
 | TON Admin |          |                                                       |         | [Website](https://tonadmin.org/) |
 | MyTonCtrl |          | [GitHub](https://github.com/ton-blockchain/mytonctrl) |         |
+
+### Event tracker
+
+| Name      | Telegram | GitHub                                                | Twitter | Website                          |
+|-----------|----------|-------------------------------------------------------|---------|----------------------------------|
+| Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
 
 ### Oracles
 
@@ -334,6 +343,7 @@
 | Moneton  | [Telegram](https://t.me/moneton_bot)        |        |         |         |
 | TonoGram | [Telegram](https://t.me/tonogrampremiumbot) |        |         |         |
 | monomenu | [Telegram](https://t.me/monodashboardbot)   |        |         |         |
+| Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
 
 ## Marketplaces
 
@@ -403,6 +413,7 @@
 | TON DEX PnL Analyzer | [Telegram](https://t.me/ton_learn)     |                                               | [Twitter](https://twitter.com/roma_i_m)       | [Website](https://tonlearn.tools/)                  |
 | Kattana              | [Telegram](https://t.me/kattana_trade) | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)                  |
 | dTON Forum           | [Telegram](https://t.me/dtonforum)     |                                               |                                               |                                                     |
+| Tonk Analyser        | [Telegram](https://t.me/TonkAnalyser_bot) | [GitHub](https://github.com/TonkInu)    | [Twitter](https://twitter.com/tonkinubot)   | [Website](https://tonk.bot/)                  |
 
 ## API Providers
 
@@ -428,6 +439,7 @@
 | iVendPay   | [Telegram](https://t.me/ivendpay)    |                                            | [Twitter](https://twitter.com/ivendpay)     | [Website](https://ivendpay.com/)    |
 | Cryptopay  | [Telegram](https://t.me/cryptopayme) | [GitHub](https://github.com/cryptopay-dev) | [Twitter](https://twitter.com/cryptopay)    | [Website](https://cryptopay.me/en/) |
 | @Tribute   | [Telegram](https://t.me/tribute)     |                                            |                                             | [Website](https://tribute.tg)       |
+| Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
 
 ## App Store
 
@@ -479,7 +491,7 @@
 | --------------- | ------------------------------------------ | ------ | ---------------------------------------- | ----------------------------- |
 | @wallet         | [Telegram](https://t.me/wallet)            |        | [Twitter](https://twitter.com/wallet_tg) | [Website](https://wallet.tg/) |
 | Crypto Bot      | [Telegram](https://t.me/CryptoBot)         |        |                                          |                               |
-| TON Rocket      | [Telegram](https://t.me/tonRocketBot)      |        |                                          |                               |
+| xRocket      | [Telegram](https://t.me/xRocket)      |        |                                          |                               |
 | Swapster        | [Telegram](https://t.me/swapsterbot)       |        |                                          |                               |
 | NFT Wallet      | [Telegram](https://t.me/NFTWalletBot)      |        |                                          |                               |
 | Wallet Explorer | [Telegram](https://t.me/WalletExplorerBot) |        |                                          |                               |
@@ -543,6 +555,8 @@
 | Huebel Bolt | [Telegram](https://t.me/boltfoundation) | [`EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw`](https://tonviewer.com/EQD0vdSA_NedR9uvbgN9EikRX-suesDxGeFg69XQMavfLqIw) | [Twitter](https://twitter.com/boltlabston) | [Website](https://huebel.art) |
 | Arbuz | [Telegram](https://t.me/tonarbuz) | [`EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1`](https://tonviewer.com/EQAM2KWDp9lN0YvxvfSbI0ryjBXwM70rakpNIHbuETatRWA1) | [Twitter](https://twitter.com/arbuz_ton) | [Website](https://tonarbuz.fun) |
 | DogWifHood | [Telegram](https://t.me/dogwifhood_TON) | [`EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ`](https://tonviewer.com/EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ) | [Twitter](https://twitter.com/dogwifhoodTON) | [Website](https://wifhood.dog) |
+| Tonk | [Telegram](https://t.me/tonkinu_official) | [`EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC`](https://tonviewer.com/EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC) | [Twitter](https://twitter.com/tonkinubot) | [Website](https://www.tonk.bot) |
+| PaperPlane | [Telegram](https://t.me/paperplane_ton) | [`EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2`](https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
 
 
 ### Disclaimer for Jetton Inclusion Criteria
