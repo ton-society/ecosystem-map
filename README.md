@@ -480,7 +480,7 @@
 | --------------- | ------------------------------------------ | ------ | ---------------------------------------- | ----------------------------- |
 | @wallet         | [Telegram](https://t.me/wallet)            |        | [Twitter](https://twitter.com/wallet_tg) | [Website](https://wallet.tg/) |
 | Crypto Bot      | [Telegram](https://t.me/CryptoBot)         |        |                                          |                               |
-| TON Rocket      | [Telegram](https://t.me/tonRocketBot)      |        |                                          |                               |
+| xRocket      | [Telegram](https://t.me/xRocket)      |        |                                          |                               |
 | Swapster        | [Telegram](https://t.me/swapsterbot)       |        |                                          |                               |
 | NFT Wallet      | [Telegram](https://t.me/NFTWalletBot)      |        |                                          |                               |
 | Wallet Explorer | [Telegram](https://t.me/WalletExplorerBot) |        |                                          |                               |
