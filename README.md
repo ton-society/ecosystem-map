@@ -338,12 +338,12 @@
 
 | Name          | Telegram                                | GitHub                                  | Twitter                                            | Website                              |
 | ------------- | --------------------------------------- | --------------------------------------- | -------------------------------------------------- | ------------------------------------ |
-| Getgems       | [Telegram](https://t.me/getgems)        | [GitHub](https://github.com/getgems-io) | [Twitter](https://twitter.com/getgemsdotio)        | [Website](https://getgems.io/)       |
-| Fragment      |                                         |                                         |                                                    | [Website](https://fragment.com/)     |
-| TON Diamonds  | [Telegram](https://t.me/tondiamonds)    |                                         | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)     |
 | Disintar      | [Telegram](https://t.me/disintar)       |                                         | [Twitter](https://twitter.com/disintar_io?lang=en) | [Website](https://beta.disintar.io/) |
-| TON Play      | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)       |
+| Fragment      |                                         |                                         |                                                    | [Website](https://fragment.com/)     |
+| Getgems       | [Telegram](https://t.me/getgems)        | [GitHub](https://github.com/getgems-io) | [Twitter](https://twitter.com/getgemsdotio)        | [Website](https://getgems.io/)       |
 | PlayMuse      | [Telegram](https://t.me/playmuseton)    |                                         | [Twitter](https://twitter.com/playmuseton)         | [Website](https://playmuse.org/)     |
+| TON Diamonds  | [Telegram](https://t.me/tondiamonds)    |                                         | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)     |
+| TON Play      | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)       |
 | xRare (Tonex) | [Telegram](https://t.me/tonexappbot)    |                                         | [Twitter](https://twitter.com/xrarenft)            | [Website](https://tonex.app/nft)     |
 
 # NFT
@@ -441,11 +441,11 @@
 
 | Name                    | Telegram                                        | GitHub                                             | Twitter                                      | Website                           |
 | ----------------------- | ----------------------------------------------- | -------------------------------------------------- | -------------------------------------------- | --------------------------------- |
+| Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)       |
+| NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                   |
+| Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/) |
 | TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [GitHub](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)      |
 | Tonex                   | [Telegram](https://t.me/tonex_app)              |                                                    |                                              | [Website](https://tonex.app/)     |
-| NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                   |
-| Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)       |
-| Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/) |
 | Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/) |
 
 ## Wallets
