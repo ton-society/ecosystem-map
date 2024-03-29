@@ -170,6 +170,7 @@
 
 | Name               | Telegram                                | GitHub                                            | Twitter                                       | Website                                                         |
 | ------------------ | --------------------------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
+| DYOR              | [Telegram](https://t.me/addlist/ykImgvSTJkY1YTli)  |                                               | [Twitter](https://twitter.com/dyorninja)      | [Website](https://dyor.io)                   |
 | Tonscan by Bastion |                                         |                                                   |                                               | [Website](https://tonscan.com/)                                 |
 | Tonscan            |                                         | [GitHub](https://github.com/catchain/tonscan)     |                                               | [Website](https://tonscan.org/)                                 |
 | Tonviewer          |                                         |                                                   | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonviewer.com/)                               |
