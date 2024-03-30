@@ -556,7 +556,7 @@
 | DogWifHood | [Telegram](https://t.me/dogwifhood_TON) | [`EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ`](https://tonviewer.com/EQAuco5ZEPgB19fSTo7EmtLTJysrKxbu6M_XOFDwWQiNjCsQ) | [Twitter](https://twitter.com/dogwifhoodTON) | [Website](https://wifhood.dog) |
 | Tonk | [Telegram](https://t.me/tonkinu_official) | [`EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC`](https://tonviewer.com/EQDv68b3JaWBO_DrP6u13Oq7KsnKhR926kMxcOJwACDY_uQC) | [Twitter](https://twitter.com/tonkinubot) | [Website](https://www.tonk.bot) |
 | PaperPlane | [Telegram](https://t.me/paperplane_ton) | [`EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2`](https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
-
+| John Doge | [Telegram](https://t.me/JohnDogeTON) | [`EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH`](https://tonviewer.com/EQCFWfg1ELLRkNQ1VgxCEOYKqLqxAuNJTrUXFXgkag7D2ssH) | [Twitter](https://x.com/JohnDogeTON) | [Website](https://www.johndogeton.com/) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
