@@ -413,6 +413,7 @@
 | Kattana              | [Telegram](https://t.me/kattana_trade) | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)                  |
 | dTON Forum           | [Telegram](https://t.me/dtonforum)     |                                               |                                               |                                                     |
 | Tonk Analyser        | [Telegram](https://t.me/TonkAnalyser_bot) | [GitHub](https://github.com/TonkInu)    | [Twitter](https://twitter.com/tonkinubot)   | [Website](https://tonk.bot/)                  |
+| indicaton            | [Telegram](https://t.me/indicaton)        |                                         | [Twitter](https://twitter.com/indicaton)      | [Website](https://indicaton.io/)                    |
 
 ## API Providers
 
