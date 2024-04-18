@@ -354,6 +354,8 @@
 | Disintar     | [Telegram](https://t.me/disintar)       |                                         | [Twitter](https://twitter.com/disintar_io?lang=en) | [Website](https://beta.disintar.io/) |
 | TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)       |
 | PlayMuse     | [Telegram](https://t.me/playmuseton)    |                                         | [Twitter](https://twitter.com/playmuseton)         | [Website](https://playmuse.org/)     |
+| MuggleLink     | [Telegram](https://t.me/mugglelink1)    | [GitHub](https://github.com/MuggleLink/mugglelink-home)   | [Twitter](https://twitter.com/mugglelink)         | [Website](https://www.muggle.link/)     |
+
 
 # NFT
 
