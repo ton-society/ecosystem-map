@@ -483,6 +483,7 @@
 | Gemwallet     | [Telegram](https://t.me/gemwallet)           | [GitHub](https://github.com/gemwalletcom)                   | [Twitter](https://twitter.com/GemWalletApp)    | [Website](https://gemwallet.com/)                    |
 | Top Wallets   | [Telegram](https://t.me/top_wallets)         | [GitHub](https://github.com/AlexGor-dev/Top-Wallets)        |                                                | [Website](https://complex-soft.com/top_wallets.html) |
 | XTON Wallet   | [Telegram](https://t.me/xtonwallet)          | [GitHub](https://github.com/xtonwallet/web-extension)       |                                                | [Website](https://xtonwallet.com/)                   |
+| Coin Wallet   |                                              | [GitHub](https://github.com/CoinSpace/CoinSpace)            |                                                | [Website](https://coin.space/)                       |
 
 ### Custodial Wallets
 
