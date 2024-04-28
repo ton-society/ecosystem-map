@@ -541,6 +541,7 @@
 | Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [GitHub](https://github.com/wagmi11) | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)       |
 | Panda Loto       | [Telegram](https://t.me/PandaLotteryBot)     |                                      |                                              |                                           |
 | TonTogether      | [Telegram](https://t.me/ton_together)        |                                      | [Twitter](https://twitter.com/TogetherTON)   | [Website](https://tontogether.com)        |
+| TonBunnies              | [Telegram](https://t.me/tonbunny_bot)          |                                                              | [Twitter](https://x.com/TonBunnies)           |                     
 
 ## Memecoins
 
