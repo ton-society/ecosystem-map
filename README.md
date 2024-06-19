@@ -283,6 +283,7 @@
 | Name      | Telegram | GitHub                                                | Twitter | Website                          |
 |-----------|----------|-------------------------------------------------------|---------|----------------------------------|
 | Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
+| Xtontracker | [Telegram](https://t.me/xtontracker)   |        |         |    [Website](https://xtontracker.com)     |
 
 ### Oracles
 
