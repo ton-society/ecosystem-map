@@ -140,6 +140,7 @@
 | TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
 | TONUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
 | XTON              | [Telegram](https://t.me/xton_official)          |        | [Twitter](https://twitter.com/xton_official) | [Website](https://xton.org)            |
+| TapTip            | [[Telegram](https://t.me/TapTipfun) ]           |        | [Twitter](https://x.com/taptipdotfun)        | [Website](https://www.taptip.fun/)     |
 
 ## Centralized Exchanges
 
