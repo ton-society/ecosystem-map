@@ -539,7 +539,7 @@
 | @Whale           | [Telegram](https://t.me/Whalegames_bot)      |                                      |                                              |                                           |
 | JetTon Games     | [Telegram](https://t.me/JetTon)              |                                      | [Twitter](https://twitter.com/kanalabs)      |                                           |
 | Classic TON      |                                              |                                      |                                              | [Website](https://classic.ton-game.com/)  |
-| Gambling Bot     | [Telegram](https://t.me/ton_games_and_more)  |                                      |                                              |                                           |
+| Wins     | [Telegram](https://t.me/wins)  |                                      |                                              |                                           |
 | TON Lottery      | [Telegram](https://t.me/TonProject_bot)      |                                      |                                              |                                           |
 | Grand Casino TON | [Telegram](https://t.me/TG_grand_casino_bot) |                                      |                                              |                                           |
 | TON Casino       |                                              |                                      |                                              | [Website](https://toncasino.io/)          |
