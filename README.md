@@ -234,13 +234,13 @@
 
 ### Gaming
 
-| Name         | Telegram                                   | GitHub                                       | Twitter                                       | Website                                 |
-| ------------ | ------------------------------------------ | -------------------------------------------- | --------------------------------------------- | --------------------------------------- |
-| TON Play     | [Telegram](https://t.me/tonplayinsider)    | [GitHub](https://github.com/ton-play)        | [Twitter](https://twitter.com/insider_ton)    | [Website](https://tonplay.io)           |
-| 8XR          | [Telegram](https://t.me/gam8s)             |                                              | [Twitter](https://twitter.com/8xr_engine)     | [Website](https://8xr.io/)              |
-| Cosmoton.xyz |                                            |                                              |                                               | [Website](https://cosmoton.xyz)         |
-| PaperPlane   | [Telegram](https://t.me/PaperPlaneGameBot) | [GitHub](https://github.com/paperplaneonton) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
-| TON SHIP     | [Telegram](https://t.me/TonShipCom)        | [GitHub](https://github.com/TonShipCom)      | [Twitter](https://twitter.com/TonShipCom)     | [Website](https://tonship.com)          |
+| Name         | Telegram                                | GitHub                                | Twitter                                    | Website                         |
+| ------------ | --------------------------------------- | ------------------------------------- | ------------------------------------------ | ------------------------------- |
+| TON Play     | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play) | [Twitter](https://twitter.com/insider_ton) | [Website](https://tonplay.io)   |
+| 8XR          | [Telegram](https://t.me/gam8s)          |                                       | [Twitter](https://twitter.com/8xr_engine)  | [Website](https://8xr.io/)      |
+| Cosmoton.xyz |                                         |                                       |                                            | [Website](https://cosmoton.xyz) |
+| PaperPlane | [Telegram](https://t.me/PaperPlaneGameBot) | [GitHub](https://github.com/paperplaneonton) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
+| TON SHIP     | [Telegram](https://t.me/TonShipCom)     | [GitHub](https://github.com/TonShipCom) | [Twitter](https://twitter.com/TonShipCom)  | [Website](https://tonship.com)  |
 
 ### Storage
 
@@ -404,20 +404,20 @@
 
 ## Analytics
 
-| Name                 | Telegram                                          | GitHub                                        | Twitter                                       | Website                                             |
-| -------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
-| DefiLlama            |                                                   | [GitHub](https://github.com/DefiLlama)        | [Twitter](https://twitter.com/DefiLlama)      | [Website](https://defillama.com/)                   |
-| DYOR                 | [Telegram](https://t.me/addlist/ykImgvSTJkY1YTli) |                                               | [Twitter](https://twitter.com/dyorninja)      | [Website](https://dyor.io)                          |
-| GeckoTerminal        | [Telegram](https://t.me/geckoterminal)            |                                               | [Twitter](https://twitter.com/GeckoTerminal)  | [Website](https://www.geckoterminal.com/ton/pools/) |
-| re:doubt             | [Telegram](https://t.me/re_doubt)                 | [GitHub](https://github.com/re-doubt)         | [Twitter](https://twitter.com/redoubt_web3)   | [Website](https://redoubt.online/)                  |
-| TonStat              | [Telegram](https://t.me/tonstatcom)               |                                               |                                               | [Website](https://www.tonstat.com/)                 |
-| Tonscan Stats        |                                                   | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats)                |
-| Anton.tools          | [Telegram](https://t.me/tonindexer)               | [GitHub](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)                     |
-| TON Radar            | [Telegram](https://t.me/tonradarapp)              | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)                    |
-| TON DEX PnL Analyzer | [Telegram](https://t.me/ton_learn)                |                                               | [Twitter](https://twitter.com/roma_i_m)       | [Website](https://tonlearn.tools/)                  |
-| Kattana              | [Telegram](https://t.me/kattana_trade)            | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)                  |
-| dTON Forum           | [Telegram](https://t.me/dtonforum)                |                                               |                                               |                                                     |
-| Tonk Analyser        | [Telegram](https://t.me/TonkAnalyser_bot)         | [GitHub](https://github.com/TonkInu)          | [Twitter](https://twitter.com/tonkinubot)     | [Website](https://tonk.bot/)                        |
+| Name              | Telegram                                           | GitHub                                        | Twitter                                       | Website                                            |
+|-------------------|----------------------------------------------------|-----------------------------------------------| --------------------------------------------- | -------------------------------------------------- |
+| DefiLlama         |                                                    | [GitHub](https://github.com/DefiLlama)        | [Twitter](https://twitter.com/DefiLlama)      | [Website](https://defillama.com/)                  |
+| DYOR              | [Telegram](https://t.me/addlist/ykImgvSTJkY1YTli)  |                                               | [Twitter](https://twitter.com/dyorninja)      | [Website](https://dyor.io)                   |
+| GeckoTerminal     | [Telegram](https://t.me/geckoterminal)             |                                               | [Twitter](https://twitter.com/GeckoTerminal)  | [Website](https://www.geckoterminal.com/ton/pools/) |
+| re:doubt          | [Telegram](https://t.me/re_doubt)                  | [GitHub](https://github.com/re-doubt)         | [Twitter](https://twitter.com/redoubt_web3)   | [Website](https://redoubt.online/)                 |
+| TonStat           | [Telegram](https://t.me/tonstatcom)                |                                               |                                               | [Website](https://www.tonstat.com/)                |
+| Tonscan Stats     |                                                    | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats)               |
+| Anton.tools       | [Telegram](https://t.me/tonindexer)                | [GitHub](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)                    |
+| TON Radar         | [Telegram](https://t.me/tonradarapp)               | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)                   |
+| TON DEX PnL Analyzer | [Telegram](https://t.me/ton_learn)                 |                                               | [Twitter](https://twitter.com/roma_i_m)       | [Website](https://tonlearn.tools/)                 |
+| Kattana           | [Telegram](https://t.me/kattana_trade)             | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)                 |
+| dTON Forum        | [Telegram](https://t.me/dtonforum)                 |                                               |                                               |                                                    |
+| Tonk Analyser     | [Telegram](https://t.me/TonkAnalyser_bot)          | [GitHub](https://github.com/TonkInu)          | [Twitter](https://twitter.com/tonkinubot)   | [Website](https://tonk.bot/)                 |
 
 ## API Providers
 
