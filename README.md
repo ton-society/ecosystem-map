@@ -240,6 +240,7 @@
 | 8XR          | [Telegram](https://t.me/gam8s)             |                                              | [Twitter](https://twitter.com/8xr_engine)     | [Website](https://8xr.io/)              |
 | Cosmoton.xyz |                                            |                                              |                                               | [Website](https://cosmoton.xyz)         |
 | PaperPlane   | [Telegram](https://t.me/PaperPlaneGameBot) | [GitHub](https://github.com/paperplaneonton) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
+| TON SHIP     | [Telegram](https://t.me/TonShipCom)        | [GitHub](https://github.com/TonShipCom)      | [Twitter](https://twitter.com/TonShipCom)     | [Website](https://tonship.com)          |
 
 ### Storage
 
