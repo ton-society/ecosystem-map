@@ -91,10 +91,8 @@
 | --------------- | ---------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
 | Ston.fi         | [Telegram](https://t.me/stonfidex)             | [GitHub](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
 | DeDust.io       | [Telegram](https://t.me/dedust)                | [GitHub](https://github.com/dedust-io)   | [Twitter](https://twitter.com/dedust_io)       | [Website](https://dedust.io/swap)                |
-| Optus.fi        | [Telegram](https://t.me/optus_fi)              | [GitHub](https://github.com/optus-fi/)   | [Twitter](https://twitter.com/OPTUS_dex)       | [Website](https://optus.fi/)                     |
 | Megaton Finance | [Telegram](https://t.me/MegatonFinanceChannel) | [GitHub](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
 | Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
-| Flex            | [Telegram](https://t.me/tonfactorychat)        | [GitHub](https://github.com/tonfactory/) |                                                | [Website](https://tonflex.fi/)                   |
 | ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [GitHub](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
 | Tradoor.io      | [Telegram](https://t.me/tradoor_io)            | [GitHub](https://github.com/TonTradoor)  | [Twitter](https://twitter.com/tradoor_io)      | [Website](https://tradoor.io/)                   |
 
@@ -120,6 +118,7 @@
 | TON Whales        | [Telegram](https://t.me/WhalesSupportBot)   | [GitHub](https://github.com/tonwhales)   | [Twitter](https://twitter.com/whalescorp)   | [Website](https://tonwhales.com/)       |
 | TON Validators    | [Telegram](https://t.me/ton_validators_bot) |                                          |                                             | [Website](https://tonvalidators.org/)   |
 | TON Stake         | [Telegram](https://t.me/tonstake_en)        |                                          | [Twitter](https://twitter.com/tonstakecom)  | [Website](https://www.tonstake.com/#/)  |
+| TON Raffles       | [Telegram](https://t.me/tonraffles)         |                                	     | [Twitter](https://x.com/TonRaffles)         | [Website](https://tonraffles.app)       |
 | Hipo Finance      | [Telegram](https://t.me/hipo_chat)          | [GitHub](https://github.com/HipoFinance) | [Twitter](https://twitter.com/hipofinance)  | [Website](https://app.hipo.finance/)    |
 | TON Stake Lottery | [Telegram](https://t.me/tonstakelottery)    |                                          |                                             | [Website](https://tonstakelottery.com/) |
 | Bemo Finance      | [Telegram](https://t.me/bemofinance)        |                                          | [Twitter](https://twitter.com/bemo_finance) | [Website](https://www.bemo.finance/)    |
@@ -139,9 +138,12 @@
 | ----------------- | ----------------------------------------------- | ------ | -------------------------------------------- | -------------------------------------- |
 | Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)     |
 | TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
-| TONUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
-| XTON              | [Telegram](https://t.me/xton_official)          |        | [Twitter](https://twitter.com/xton_official) | [Website](https://xton.org)            |
+| TonUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
 | JVault            | [Telegram](https://t.me/JVault)                 |        | [Twitter](https://twitter.com/JVault_app)    | [Website](https://jvault.xyz/)         |
+| GasPump           | [Telegram](https://t.me/gaspump)                |        | [Twitter](https://x.com/gaspump_tv)          | [Website](https://t.me/gasPump_bot)    |
+| Wonton.fun        | [Telegram](https://t.me/wontondotfun)           |        | [Twitter](https://x.com/wontondotfun)        | [Website](https://t.me/wontondotfun_bot)|
+| Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)   |
+| TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot) |
 
 ## Centralized Exchanges
 
