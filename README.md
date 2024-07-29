@@ -275,8 +275,8 @@
 | WebDeployer          |                                      | [GitHub](https://github.com/ProgramCrafter/ton-qr-deployer)   |                                                                                                | [Website](https://ratingers.pythonanywhere.com/deployer/)    |
 | TON Verifier         | [Telegram](https://t.me/tonverifier) | [GitHub](https://github.com/ton-blockchain/verifier)          |                                                                                                | [Website](https://verifier.ton.org)                          |
 | TON Timer            |                                      | [GitHub](https://github.com/ProgramCrafter/ton-stable-timer/) |                                                                                                | [Website](https://programcrafter.github.io/ton-stable-timer) |
-| Rift                 |                                      |                                                               | [Website](https://rift.skyring.io)                                                             |
-| TON NoCode SDK       |                                      |                                                               | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
+| Rift                 |                                      |                                                               |                                                                                                | [Website](https://rift.skyring.io)                           |
+| TON NoCode SDK       |                                      |                                                               |                                                                                                | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
 
 ### Nodes
 
