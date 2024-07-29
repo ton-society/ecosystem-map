@@ -495,6 +495,7 @@
 | Gemwallet     | [Telegram](https://t.me/gemwallet)           | [GitHub](https://github.com/gemwalletcom)                   | [Twitter](https://twitter.com/GemWalletApp)    | [Website](https://gemwallet.com/)                    |
 | Top Wallets   | [Telegram](https://t.me/top_wallets)         | [GitHub](https://github.com/AlexGor-dev/Top-Wallets)        |                                                | [Website](https://complex-soft.com/top_wallets.html) |
 | XTON Wallet   | [Telegram](https://t.me/xtonwallet)          | [GitHub](https://github.com/xtonwallet/web-extension)       |                                                | [Website](https://xtonwallet.com/)                   |
+| Cwallet       | [Telegram](https://t.me/cctip_bot/)          |                                                             | [Twitter](https://twitter.com/Cwallet_Offic)   | [Website](https://cwallet.com/)                      |
 
 ### Custodial Wallets
 
@@ -507,6 +508,7 @@
 | NFT Wallet      | [Telegram](https://t.me/NFTWalletBot)      |        |                                          |                               |
 | Wallet Explorer | [Telegram](https://t.me/WalletExplorerBot) |        |                                          |                               |
 | xJetSwap        | [Telegram](https://t.me/xjetswapbot)       |        |                                          |                               |
+
 
 ### Multisig Wallets
 
@@ -574,6 +576,7 @@
 | The Resistance Cat | [Telegram](https://t.me/ResistanceCatTon) | [`EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j`](https://tonviewer.com/EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j) | [Twitter](https://twitter.com/ResistanceCat) | [Website](https://reca.live) |
 | The Open League MEME | [Telegram](https://t.me/tolmeme) | [`EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N`](https://tonviewer.com/EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N) | [Twitter](https://twitter.com/tolmeme) | [Website](https://www.tolcoin.xyz/) |
 | TON Cats Jetton | [Telegram](https://t.me/toncats_tg) | [`EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C`](https://tonviewer.com/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C) | [Twitter](https://twitter.com/toncats_tg) | [Website](https://toncats.pw) |
+
 
 ### Disclaimer for Jetton Inclusion Criteria
 
