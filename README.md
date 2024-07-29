@@ -234,6 +234,7 @@
 | ---------- | ------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- | ---------------------------------- |
 | TON Minter | [Telegram](https://t.me/+YDnoBue1Dz81ZTMy) | [GitHub](https://github.com/ton-blockchain/minter-contract) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://minter.ton.org/) |
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
+| CRYPTON | [Telegram](https://t.me/cryptonportal) |  | [Twitter](https://twitter.com/thetonhub) | [Website](https://crypton.tools)
 
 ### Gaming
 
