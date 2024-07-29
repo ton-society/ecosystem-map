@@ -578,6 +578,7 @@
 | TON Cats Jetton | [Telegram](https://t.me/toncats_tg) | [`EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C`](https://tonviewer.com/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C) | [Twitter](https://twitter.com/toncats_tg) | [Website](https://toncats.pw) |
 | Hot Cherry | [Telegram](https://t.me/hotcherry_ton) | [`EQD6_5eHYgkTmLmswyxh2WuMASG1sCIkAVt9utkrx199TOI3`](https://tonviewer.com/EQD6_5eHYgkTmLmswyxh2WuMASG1sCIkAVt9utkrx199TOI3) | [Twitter](https://x.com/hotcherry_ton) | [Website](https://hotcherry.me) |
 | The Resistance Girl | [Telegram](https://t.me/ResistanceGirlCoin) | [`EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh`](https://tonviewer.com/EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh) | [Twitter](https://twitter.com/regitoncoin) | [Website](https://regiton.net/) |
+| EMOB TON | [Telegram](https://t.me/EMOBTON) | [Channel](https://t.me/Emob_TON_News) | [`EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj`](https://tonviewer.com/EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj) | [Twitter](https://twitter.com/emobton) | [Website](https://emobton.xyz/) | [Github](https://github.com/emobton) | [Website](https://emobton.xyz/) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
