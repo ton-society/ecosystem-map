@@ -562,7 +562,6 @@
 | -------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------- |
 | Fish | [Telegram](https://t.me/tonfish_en) | [`EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK`](https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK) | [Twitter](https://twitter.com/tonfish_tg) | [Website](https://www.tonfish.io) |
 | Redo | [Telegram](https://t.me/redoton) | [`EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko`](https://tonviewer.com/EQBZ_cafPyDr5KUTs0aNxh0ZTDhkpEZONmLJA2SNGlLm4Cko) | [Twitter](https://twitter.com/redoonton) | [Website](https://www.redoton.com) |
-| The Resistance Girl | [Telegram](https://t.me/ResistanceGirlCoin) | [`EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh`](https://tonviewer.com/EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh) | [Twitter](https://twitter.com/regitoncoin) | [Website](https://regiton.net/) |
 | Ton Inu | [Telegram](https://t.me/toninutools) | [`EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt`](https://tonviewer.com/EQA6Q3dMgVEfXQ9tNBL2fMljEhI_azQ-R3vvPgjGOXwoF7kt) | [Twitter](https://twitter.com/toninutools) | [Website](https://toninu.tech) |
 | Duck | [Telegram](https://t.me/duckcoin) | [`EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3`](https://tonviewer.com/EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3) | [Twitter](https://twitter.com/notduckcoin) | [Website](https://duck-coin.com) |
 | Tony The Duck | [Telegram](https://t.me/tonytheduck) | [`EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5`](https://tonviewer.com/EQBiJd6z0WiuiCQdywPOqaLyT2TbTfV79Pzu9K1R3l_qlUZ5) | [Twitter](https://twitter.com/theducktony) | [Website](https://tonytheduck.com) |
@@ -577,6 +576,8 @@
 | The Resistance Cat | [Telegram](https://t.me/ResistanceCatTon) | [`EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j`](https://tonviewer.com/EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j) | [Twitter](https://twitter.com/ResistanceCat) | [Website](https://reca.live) |
 | The Open League MEME | [Telegram](https://t.me/tolmeme) | [`EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N`](https://tonviewer.com/EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N) | [Twitter](https://twitter.com/tolmeme) | [Website](https://www.tolcoin.xyz/) |
 | TON Cats Jetton | [Telegram](https://t.me/toncats_tg) | [`EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C`](https://tonviewer.com/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C) | [Twitter](https://twitter.com/toncats_tg) | [Website](https://toncats.pw) |
+| Hot Cherry | [Telegram](https://t.me/hotcherry_ton) | [`EQD6_5eHYgkTmLmswyxh2WuMASG1sCIkAVt9utkrx199TOI3`](https://tonviewer.com/EQD6_5eHYgkTmLmswyxh2WuMASG1sCIkAVt9utkrx199TOI3) | [Twitter](https://x.com/hotcherry_ton) | [Website](https://hotcherry.me) |
+| The Resistance Girl | [Telegram](https://t.me/ResistanceGirlCoin) | [`EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh`](https://tonviewer.com/EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh) | [Twitter](https://twitter.com/regitoncoin) | [Website](https://regiton.net/) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
