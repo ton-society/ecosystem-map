@@ -579,6 +579,7 @@
 | Hot Cherry | [Telegram](https://t.me/hotcherry_ton) | [`EQD6_5eHYgkTmLmswyxh2WuMASG1sCIkAVt9utkrx199TOI3`](https://tonviewer.com/EQD6_5eHYgkTmLmswyxh2WuMASG1sCIkAVt9utkrx199TOI3) | [Twitter](https://x.com/hotcherry_ton) | [Website](https://hotcherry.me) |
 | The Resistance Girl | [Telegram](https://t.me/ResistanceGirlCoin) | [`EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh`](https://tonviewer.com/EQCcYUWKhjGxwqtk_je9LW2V4RoFmbhOUR9e404Y6FQTEXHh) | [Twitter](https://twitter.com/regitoncoin) | [Website](https://regiton.net/) |
 | EMOB TON | [Telegram](https://t.me/EMOBTON) | [Channel](https://t.me/Emob_TON_News) | [`EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj`](https://tonviewer.com/EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj) | [Twitter](https://twitter.com/emobton) | [Website](https://emobton.xyz/) | [Github](https://github.com/emobton) | [Website](https://emobton.xyz/) |
+| UnitonToken | [Telegram](https://t.me/official_uniton_token) | [`EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf`]([https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2](https://tonviewer.com/EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf)) | [Twitter](https://twitter.com/uniton_token) | [Website](https://unitontoken.com) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
