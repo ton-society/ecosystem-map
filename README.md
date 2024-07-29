@@ -570,6 +570,7 @@
 | Povel Durev | [Telegram](https://t.me/poveldurev) | [`EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0`](https://tonviewer.com/EQB02DJ0cdUD4iQDRbBv4aYG3htePHBRK1tGeRtCnatescK0) | [Twitter](https://twitter.com/poveldurev) | [Website](https://durev.xyz) |
 | The Resistance Cat | [Telegram](https://t.me/ResistanceCatTon) | [`EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j`](https://tonviewer.com/EQBwHOvf3UrPPJB7jeDHaOT-2vP0QQlDoEDBsgfv5XF75J3j) | [Twitter](https://twitter.com/ResistanceCat) | [Website](https://reca.live) |
 | The Open League MEME | [Telegram](https://t.me/tolmeme) | [`EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N`](https://tonviewer.com/EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N) | [Twitter](https://twitter.com/tolmeme) | [Website](https://www.tolcoin.xyz/) |
+| TON Cats Jetton | [Telegram](https://t.me/toncats_tg) | [`EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C`](https://tonviewer.com/EQBadq9p12uC1KfSiPCAaoEvhpXPHj7hBWq-mqGntuwE2C1C) | [Twitter](https://twitter.com/toncats_tg) | [Website](https://toncats.pw) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
