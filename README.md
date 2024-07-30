@@ -147,11 +147,13 @@
 
 ## Centralized Exchanges
 
-| Name | Telegram                                     | GitHub | Twitter                                      | Website                          |
-| ---- | -------------------------------------------- | ------ | -------------------------------------------- | -------------------------------- |
-| OKX  | [Telegram](https://t.me/OKXOfficial_English) |        | [Twitter](https://twitter.com/okx)           | [Website](https://www.okx.com/)  |
-| MEXC | [Telegram](https://t.me/MEXCEnglish)         |        | [Twitter](https://twitter.com/MEXC_Official) | [Website](https://www.mexc.com/) |
-| HTX  | [Telegram](https://t.me/htxglobalofficial)   |        | [Twitter](https://twitter.com/HTX_Global)    | [Website](https://www.htx.com/)  |
+| Name  | Telegram                                   | GitHub | Twitter                                    | Website                          |
+| ----- | ------------------------------------------ | ------ | ------------------------------------------ | -------------------------------- |
+| OKX   | [Telegram](https://t.me/OKXOfficial_English) |        | [Twitter](https://twitter.com/okx)         | [Website](https://www.okx.com/)  |
+| MEXC  | [Telegram](https://t.me/MEXCEnglish)       |        | [Twitter](https://twitter.com/MEXC_Official) | [Website](https://www.mexc.com/) |
+| HTX   | [Telegram](https://t.me/htxglobalofficial) |        | [Twitter](https://twitter.com/HTX_Global)  | [Website](https://www.htx.com/)  |
+| XRocket | [Telegram](https://t.me/xrocket)          |        | [Twitter](https://x.com/xRocket_tg)        | [Website](https://xrocket.tg/en) |
+
 
 ## On-Ramp
 
@@ -506,7 +508,7 @@
 | --------------- | ------------------------------------------ | ------ | ---------------------------------------- | ----------------------------- |
 | @wallet         | [Telegram](https://t.me/wallet)            |        | [Twitter](https://twitter.com/wallet_tg) | [Website](https://wallet.tg/) |
 | Crypto Bot      | [Telegram](https://t.me/CryptoBot)         |        |                                          |                               |
-| xRocket         | [Telegram](https://t.me/xRocket)           |        |                                          |                               |
+| XRocket         | [Telegram](https://t.me/xrocket)           |        | [Twitter](https://x.com/xRocket_tg)      | [Website](https://xrocket.tg/en) |
 | Swapster        | [Telegram](https://t.me/swapsterbot)       |        |                                          |                               |
 | NFT Wallet      | [Telegram](https://t.me/NFTWalletBot)      |        |                                          |                               |
 | Wallet Explorer | [Telegram](https://t.me/WalletExplorerBot) |        |                                          |                               |
