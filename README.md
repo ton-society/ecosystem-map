@@ -152,7 +152,7 @@
 | OKX   | [Telegram](https://t.me/OKXOfficial_English) |        | [Twitter](https://twitter.com/okx)         | [Website](https://www.okx.com/)  |
 | MEXC  | [Telegram](https://t.me/MEXCEnglish)       |        | [Twitter](https://twitter.com/MEXC_Official) | [Website](https://www.mexc.com/) |
 | HTX   | [Telegram](https://t.me/htxglobalofficial) |        | [Twitter](https://twitter.com/HTX_Global)  | [Website](https://www.htx.com/)  |
-| XRocket | [Telegram](https://t.me/xrocket)          |        | [Twitter](https://x.com/xRocket_tg)        | [Website](https://xrocket.tg/en) |
+| xRocket | [Telegram](https://t.me/xrocket)          |        | [Twitter](https://x.com/xRocket_tg)        | [Website](https://xrocket.tg/en) |
 
 
 ## On-Ramp
