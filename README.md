@@ -366,6 +366,7 @@
 | TON Diamonds  | [Telegram](https://t.me/tondiamonds)    |                                         | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)     |
 | TON Play      | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)       |
 | xRare (Tonex) | [Telegram](https://t.me/tonexappbot)    |                                         | [Twitter](https://twitter.com/xrarenft)            | [Website](https://tonex.app/nft)     |
+| Bounty Bay | [Telegram](https://t.me/bountybay_bot) | | [Twitter](https://x.com/0xBountyBay) | [Website](https://www.bountybay.app) |
 
 # NFT
 
