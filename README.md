@@ -472,6 +472,7 @@
 | TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [GitHub](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)      |
 | Tonex                   | [Telegram](https://t.me/tonex_app)              |                                                    |                                              | [Website](https://tonex.app/)     |
 | Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/) |
+| Bounty Bay | [Telegram](https://t.me/bountybay_bot) | [Twitter](https://x.com/0xBountyBay) | [Website](https://www.bountybay.app) |
 
 ## Wallets
 
