@@ -366,7 +366,7 @@
 | TON Diamonds  | [Telegram](https://t.me/tondiamonds)    |                                         | [Twitter](https://twitter.com/TonDiamonds)         | [Website](https://ton.diamonds/)     |
 | TON Play      | [Telegram](https://t.me/tonplayinsider) | [GitHub](https://github.com/ton-play)   | [Twitter](https://twitter.com/insider_ton)         | [Website](https://tonplay.io/)       |
 | xRare (Tonex) | [Telegram](https://t.me/tonexappbot)    |                                         | [Twitter](https://twitter.com/xrarenft)            | [Website](https://tonex.app/nft)     |
-| Bounty Bay | [Telegram](https://t.me/bountybay_bot) | | [Twitter](https://x.com/0xBountyBay) | [Website](https://www.bountybay.app) |
+| Bounty Bay    | [Telegram](https://t.me/bountybay_bot)  |                                         | [Twitter](https://x.com/0xBountyBay)               | [Website](https://www.bountybay.app) |
 
 # NFT
 
@@ -473,7 +473,7 @@
 | TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [GitHub](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)      |
 | Tonex                   | [Telegram](https://t.me/tonex_app)              |                                                    |                                              | [Website](https://tonex.app/)     |
 | Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/) |
-| Bounty Bay | [Telegram](https://t.me/bountybay_bot) | | [Twitter](https://x.com/0xBountyBay) | [Website](https://www.bountybay.app) |
+| Bounty Bay              | [Telegram](https://t.me/bountybay_bot)          |                                                    | [Twitter](https://x.com/0xBountyBay)         | [Website](https://www.bountybay.app) |
 
 ## Wallets
 
