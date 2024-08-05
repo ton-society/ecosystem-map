@@ -151,8 +151,11 @@
 | ----- | ------------------------------------------ | ------ | ------------------------------------------ | -------------------------------- |
 | OKX   | [Telegram](https://t.me/OKXOfficial_English) |        | [Twitter](https://twitter.com/okx)         | [Website](https://www.okx.com/)  |
 | MEXC  | [Telegram](https://t.me/MEXCEnglish)       |        | [Twitter](https://twitter.com/MEXC_Official) | [Website](https://www.mexc.com/) |
+| KuCoin | [Telegram](https://t.me/Kucoin_Exchange)  |        | [Twitter](https://x.com/kucoincom)         | [Website](https://www.kucoin.com) |
 | HTX   | [Telegram](https://t.me/htxglobalofficial) |        | [Twitter](https://twitter.com/HTX_Global)  | [Website](https://www.htx.com/)  |
-| xRocket | [Telegram](https://t.me/xrocket)          |        | [Twitter](https://x.com/xRocket_tg)        | [Website](https://xrocket.tg/en) |
+| Bybit | [Telegram](https://t.me/BybitEnglish)      |        | [Twitter](https://x.com/Bybit_Official)    | [Website](https://www.bybit.com/en/)  |
+| Gate.io | [Telegram](https://t.me/BybitEnglish)    |        | [Twitter](https://x.com/gate_io)           | [Website](https://www.gate.io)   |
+| xRocket | [Telegram](https://t.me/xrocket)         |        | [Twitter](https://x.com/xRocket_tg)        | [Website](https://xrocket.tg/en) |
 
 
 ## On-Ramp
