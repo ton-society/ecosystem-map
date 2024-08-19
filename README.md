@@ -506,6 +506,7 @@
 | Top Wallets   | [Telegram](https://t.me/top_wallets)         | [GitHub](https://github.com/AlexGor-dev/Top-Wallets)        |                                                | [Website](https://complex-soft.com/top_wallets.html) |
 | XTON Wallet   | [Telegram](https://t.me/xtonwallet)          | [GitHub](https://github.com/xtonwallet/web-extension)       |                                                | [Website](https://xtonwallet.com/)                   |
 | Cwallet       | [Telegram](https://t.me/cctip_bot/)          |                                                             | [Twitter](https://twitter.com/Cwallet_Offic)   | [Website](https://cwallet.com/)                      |
+| Coin Wallet   |                                              | [GitHub](https://github.com/CoinSpace/CoinSpace)            |                                                | [Website](https://coin.space/)                       |
 
 ### Custodial Wallets
 
