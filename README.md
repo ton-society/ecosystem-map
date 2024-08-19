@@ -144,6 +144,7 @@
 | Wonton.fun        | [Telegram](https://t.me/wontondotfun)           |        | [Twitter](https://x.com/wontondotfun)        | [Website](https://t.me/wontondotfun_bot)|
 | Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)   |
 | TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot) |
+| sTONks.pump       | [Telegram](https://t.me/stonksonton)	      |        | [Twitter](https://x.com/tonstonks)           | [Website](https://t.me/stonks_sniper_bot) |
 
 ## Centralized Exchanges
 
@@ -242,6 +243,7 @@
 | TON Minter | [Telegram](https://t.me/+YDnoBue1Dz81ZTMy) | [GitHub](https://github.com/ton-blockchain/minter-contract) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://minter.ton.org/) |
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
 | CRYPTON | [Telegram](https://t.me/cryptonportal) |  | [Twitter](https://twitter.com/thetonhub) | [Website](https://crypton.tools)
+| sTONks      | [Telegram](https://t.me/stonksonton)	      |        | [Twitter](https://x.com/tonstonks)           | [Website](https://stonksbots.com) |
 
 ### Gaming
 
