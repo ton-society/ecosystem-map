@@ -21,6 +21,7 @@
   - [Infra](#infra)
     - [Web3 Internet](#web3-internet)
     - [DeFi](#defi-1)
+    - [Portfolio tracker](#portfolio-tracker)
     - [Gaming](#gaming)
     - [Storage](#storage)
     - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)
