@@ -243,6 +243,13 @@
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
 | CRYPTON | [Telegram](https://t.me/cryptonportal) |  | [Twitter](https://twitter.com/thetonhub) | [Website](https://crypton.tools)
 
+### Portfolio tracker
+
+| Name        | Telegram                             | GitHub | Twitter | Website                            |
+| ----------- | ------------------------------------ | ------ | ------- | ---------------------------------- |
+| TractionEye | [Telegram](https://t.me/TractionEye) |        |    [Twitter](https://x.com/TractionEye)     | |
+
+
 ### Gaming
 
 | Name         | Telegram                                | GitHub                                | Twitter                                    | Website                         |
