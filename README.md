@@ -228,6 +228,7 @@
 
 | Name              | Telegram                               | GitHub                                                      | Twitter                                        | Website                                                                                         |
 | ----------------- | -------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| EZ Airdrop | [Telegram](https://t.me/ez_airdrop_bot) | [GitHub](https://github.com/Ton-pro/jetton-airdrop-telegram-bot) |    | [Website](https://www.airdrops.tg)|
 | Tonkeeper         | [Telegram](https://t.me/tonkeeper)     | [GitHub](https://github.com/tonkeeper/wallet-api)           | [Twitter](https://twitter.com/tonkeeper)       | [Website](https://tonkeeper.com/)                                                               |
 | MyTonWallet       | [Telegram](https://t.me/MyTonWalletEn) | [GitHub](https://github.com/mytonwalletorg/mytonwallet)     |                                                | [Website](https://mytonwallet.io/)                                                              |
 | OpenMask          | [Telegram](https://t.me/openproduct)   | [GitHub](https://github.com/OpenProduct/openmask-extension) | [Twitter](https://twitter.com/openmask_wallet) | [Website](https://www.openmask.app/)                                                            |
@@ -472,6 +473,7 @@
 
 | Name                    | Telegram                                        | GitHub                                             | Twitter                                      | Website                           |
 | ----------------------- | ----------------------------------------------- | -------------------------------------------------- | -------------------------------------------- | --------------------------------- |
+| EZ Airdrop | [Telegram](https://t.me/ez_airdrop_bot) | [GitHub](https://github.com/Ton-pro/jetton-airdrop-telegram-bot) |    | [Website](https://www.airdrops.tg)|
 | Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)       |
 | NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                   |
 | Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/) |
