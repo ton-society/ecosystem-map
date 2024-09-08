@@ -95,6 +95,7 @@
 | Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
 | ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [GitHub](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
 | Tradoor.io      | [Telegram](https://t.me/tradoor_io)            | [GitHub](https://github.com/TonTradoor)  | [Twitter](https://twitter.com/tradoor_io)      | [Website](https://tradoor.io/)                   |
+| TON Hedge       | [Telegram](https://t.me/ton_hedge)             |                                          | [Twitter](https://twitter.com/tonhedge)        |                                                  |
 
 ### Decentralized Exchanges for wTON
 
