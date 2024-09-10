@@ -252,6 +252,7 @@
 | Cosmoton.xyz |                                         |                                       |                                            | [Website](https://cosmoton.xyz) |
 | PaperPlane | [Telegram](https://t.me/PaperPlaneGameBot) | [GitHub](https://github.com/paperplaneonton) | [Twitter](https://twitter.com/paperplane_ton) | [Website](https://paperplanetoken.site) |
 | TON SHIP     | [Telegram](https://t.me/TonShipCom)     | [GitHub](https://github.com/TonShipCom) | [Twitter](https://twitter.com/TonShipCom)  | [Website](https://tonship.com)  |
+| TON Map     | [Telegram](https://t.me/tonmap)     | [GitHub](https://github.com/OtherVerse) | [Twitter](https://twitter.com/thetonmap)  | [Website](https://tonmap.app)  |
 
 ### Storage
 
@@ -479,6 +480,7 @@
 | Tonex                   | [Telegram](https://t.me/tonex_app)              |                                                    |                                              | [Website](https://tonex.app/)     |
 | Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/) |
 | Bounty Bay              | [Telegram](https://t.me/bountybay_bot)          |                                                    | [Twitter](https://x.com/0xBountyBay)         | [Website](https://www.bountybay.app) |
+| TON Map                 | [Telegram](https://t.me/tonmap)                 | [GitHub](https://github.com/OtherVerse)            | [Twitter](https://twitter.com/thetonmap)     | [Website](https://tonmap.app)  |
 
 ## Wallets
 
