@@ -90,11 +90,12 @@
 
 | Name            | Telegram                                       | GitHub                                   | Twitter                                        | Website                                          |
 | --------------- | ---------------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ------------------------------------------------ |
-| Ston.fi         | [Telegram](https://t.me/stonfidex)             | [GitHub](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
 | DeDust.io       | [Telegram](https://t.me/dedust)                | [GitHub](https://github.com/dedust-io)   | [Twitter](https://twitter.com/dedust_io)       | [Website](https://dedust.io/swap)                |
-| Megaton Finance | [Telegram](https://t.me/MegatonFinanceChannel) | [GitHub](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
-| Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
 | ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [GitHub](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
+| Megaton Finance | [Telegram](https://t.me/MegatonFinanceChannel) | [GitHub](https://github.com/megaton-fi)  | [Twitter](https://twitter.com/@Megaton_Fi)     | [Website](https://megaton.fi/)                   |
+| Rainbow Swap    | [Telegram](https://t.me/rainbow_swap)            | [GitHub](https://github.com/0xblackbot/rainbow-swap)  | [Twitter](https://x.com/rainbow_swap)      | [Website](https://rainbow.ag/)                   |
+| Ston.fi         | [Telegram](https://t.me/stonfidex)             | [GitHub](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
+| Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
 | Tradoor.io      | [Telegram](https://t.me/tradoor_io)            | [GitHub](https://github.com/TonTradoor)  | [Twitter](https://twitter.com/tradoor_io)      | [Website](https://tradoor.io/)                   |
 | TON Hedge       | [Telegram](https://t.me/ton_hedge)             |                                          | [Twitter](https://twitter.com/tonhedge)        |                                                  |
 
