@@ -348,6 +348,7 @@
 | Tact & Blueprint [ru] | [Telegram](https://t.me/alefman)       | [YouTube](https://www.youtube.com/watch?v=isYBvzM-MfQ&list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92)         |
 | Tact Development [ru] | [Telegram](https://t.me/nonam3e)       | [YouTube](https://www.youtube.com/watch?v=S6wlNsKUHpE&list=PLyDBPwv9EPsAJpR7R0cC4kgo7BjiMmUy7&index=1) |
 | Mark Ohman            | [Telegram](https://t.me/markokhmandev) | [YouTube](https://www.youtube.com/@markokhman)                                                         |
+| TON Hydra [ru] | [Telegram](https://t.me/Ton_HYDRA_Community)       | [YouTube](https://www.youtube.com/@TONHydra)                                     |
 
 # Shopping
 
@@ -601,6 +602,7 @@
 | EMOB TON | [Telegram](https://t.me/EMOBTON) | [Channel](https://t.me/Emob_TON_News) | [`EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj`](https://tonviewer.com/EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj) | [Twitter](https://twitter.com/emobton) | [Website](https://emobton.xyz/) | [Github](https://github.com/emobton) | [Website](https://emobton.xyz/) |
 | UnitonToken | [Telegram](https://t.me/official_uniton_token) | [`EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf`]([https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2](https://tonviewer.com/EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf)) | [Twitter](https://twitter.com/uniton_token) | [Website](https://unitontoken.com) |
 | Laika | [Telegram](https://t.me/LaikaOfficialStation) | [`EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw`](https://tonviewer.com/EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw) | [Twitter](https://twitter.com/LaikaOnTon) | [Website](https://www.laikaonton.com) |
+| Hydra | [Telegram](https://t.me/Ton_HYDRA_Community) | [`EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_`](https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_) | [Twitter](https://twitter.com/ton_hydra) | [Website](https://www.tonhydra.com) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
