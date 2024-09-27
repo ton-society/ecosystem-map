@@ -135,17 +135,17 @@
 
 ## Launchpad
 
-| Name              | Telegram                                        | GitHub | Twitter                                      | Website                                |
-| ----------------- | ----------------------------------------------- | ------ | -------------------------------------------- | -------------------------------------- |
-| Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)     |
-| TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
-| TonUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
-| JVault            | [Telegram](https://t.me/JVault)                 |        | [Twitter](https://twitter.com/JVault_app)    | [Website](https://jvault.xyz/)         |
-| GasPump           | [Telegram](https://t.me/gaspump)                |        | [Twitter](https://x.com/gaspump_tv)          | [Website](https://t.me/gasPump_bot)    |
+| Name              | Telegram                                        | GitHub | Twitter                                      | Website                                 |
+| ----------------- | ----------------------------------------------- | ------ | -------------------------------------------- | --------------------------------------- |
+| Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)      |
+| TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)   |
+| TonUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/)  |
+| JVault            | [Telegram](https://t.me/JVault)                 |        | [Twitter](https://twitter.com/JVault_app)    | [Website](https://jvault.xyz/)          |
+| GasPump           | [Telegram](https://t.me/gaspump)                |        | [Twitter](https://x.com/gaspump_tv)          | [Website](https://t.me/gasPump_bot)     |
 | Wonton.fun        | [Telegram](https://t.me/wontondotfun)           |        | [Twitter](https://x.com/wontondotfun)        | [Website](https://t.me/wontondotfun_bot)|
-| Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)   |
-| TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot) |
-| sTONks.pump       | [Telegram](https://t.me/stonksonton)	      |        | [Twitter](https://x.com/tonstonks)           | [Website](https://t.me/stonks_sniper_bot) |
+| Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)    |
+| TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot)  |
+| PizzaTon          | [Telegram](https://t.me/pitzaton)               |        | [Twitter](https://x.com/pitzaton)            | [Website](https://launch.pizzaton.me)   |
 
 ## Centralized Exchanges
 
