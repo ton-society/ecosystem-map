@@ -21,6 +21,7 @@
   - [Infra](#infra)
     - [Web3 Internet](#web3-internet)
     - [DeFi](#defi-1)
+    - [Portfolio tracker](#portfolio-tracker)
     - [Gaming](#gaming)
     - [Storage](#storage)
     - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)
@@ -95,6 +96,7 @@
 | Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
 | ION Finance     | [Telegram](https://t.me/IONFINANCE_OFFICIAL)   | [GitHub](https://github.com/ion-finance) | [Twitter](https://twitter.com/Ion_Finance)     | [Website](https://ionfi.xyz/)                    |
 | Tradoor.io      | [Telegram](https://t.me/tradoor_io)            | [GitHub](https://github.com/TonTradoor)  | [Twitter](https://twitter.com/tradoor_io)      | [Website](https://tradoor.io/)                   |
+| TON Hedge       | [Telegram](https://t.me/ton_hedge)             |                                          | [Twitter](https://twitter.com/tonhedge)        |                                                  |
 
 ### Decentralized Exchanges for wTON
 
@@ -118,7 +120,7 @@
 | TON Whales        | [Telegram](https://t.me/WhalesSupportBot)   | [GitHub](https://github.com/tonwhales)   | [Twitter](https://twitter.com/whalescorp)   | [Website](https://tonwhales.com/)       |
 | TON Validators    | [Telegram](https://t.me/ton_validators_bot) |                                          |                                             | [Website](https://tonvalidators.org/)   |
 | TON Stake         | [Telegram](https://t.me/tonstake_en)        |                                          | [Twitter](https://twitter.com/tonstakecom)  | [Website](https://www.tonstake.com/#/)  |
-| TON Raffles       | [Telegram](https://t.me/tonraffles)         |                                	     | [Twitter](https://x.com/TonRaffles)         | [Website](https://tonraffles.app)       |
+| TON Raffles       | [Telegram](https://t.me/tonraffles)         |                                          | [Twitter](https://x.com/TonRaffles)         | [Website](https://tonraffles.app)       |
 | Hipo Finance      | [Telegram](https://t.me/hipo_chat)          | [GitHub](https://github.com/HipoFinance) | [Twitter](https://twitter.com/hipofinance)  | [Website](https://app.hipo.finance/)    |
 | TON Stake Lottery | [Telegram](https://t.me/tonstakelottery)    |                                          |                                             | [Website](https://tonstakelottery.com/) |
 | Bemo Finance      | [Telegram](https://t.me/bemofinance)        |                                          | [Twitter](https://twitter.com/bemo_finance) | [Website](https://www.bemo.finance/)    |
@@ -134,29 +136,29 @@
 
 ## Launchpad
 
-| Name              | Telegram                                        | GitHub | Twitter                                      | Website                                |
-| ----------------- | ----------------------------------------------- | ------ | -------------------------------------------- | -------------------------------------- |
-| Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)     |
-| TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)  |
-| TonUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/) |
-| JVault            | [Telegram](https://t.me/JVault)                 |        | [Twitter](https://twitter.com/JVault_app)    | [Website](https://jvault.xyz/)         |
-| GasPump           | [Telegram](https://t.me/gaspump)                |        | [Twitter](https://x.com/gaspump_tv)          | [Website](https://t.me/gasPump_bot)    |
+| Name              | Telegram                                        | GitHub | Twitter                                      | Website                                 |
+| ----------------- | ----------------------------------------------- | ------ | -------------------------------------------- | --------------------------------------- |
+| Tonstarter        | [Telegram](https://t.me/+RH50YeWT6Ps3ODUy)      |        | [Twitter](https://twitter.com/ton_starter)   | [Website](https://tonstarter.com/)      |
+| TON Gagarin World | [Telegram](https://t.me/Ton_Gagarin_World_Chat) |        | [Twitter](https://twitter.com/GAGARIN_World) | [Website](https://ton.gagarin.world/)   |
+| TonUP             | [Telegram](https://t.me/TonUP_io)               |        | [Twitter](https://twitter.com/TonUP_io)      | [Website](https://tonup.io/launchpad/)  |
+| JVault            | [Telegram](https://t.me/JVault)                 |        | [Twitter](https://twitter.com/JVault_app)    | [Website](https://jvault.xyz/)          |
+| GasPump           | [Telegram](https://t.me/gaspump)                |        | [Twitter](https://x.com/gaspump_tv)          | [Website](https://t.me/gasPump_bot)     |
 | Wonton.fun        | [Telegram](https://t.me/wontondotfun)           |        | [Twitter](https://x.com/wontondotfun)        | [Website](https://t.me/wontondotfun_bot)|
-| Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)   |
-| TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot) |
+| Pumpers.tg        | [Telegram](https://t.me/pumpers)                |        | [Twitter](https://x.com/pumperstg)           | [Website](https://t.me/PumpersTGBot)    |
+| TonPump.app       | [Telegram](https://t.me/tonpump_community)      |        | [Twitter](https://x.com/TonPump_app)         | [Website](https://t.me/tonpumpapp_bot)  |
+| PizzaTon          | [Telegram](https://t.me/pitzaton)               |        | [Twitter](https://x.com/pitzaton)            | [Website](https://launch.pizzaton.me)   |
 
 ## Centralized Exchanges
 
-| Name  | Telegram                                   | GitHub | Twitter                                    | Website                          |
-| ----- | ------------------------------------------ | ------ | ------------------------------------------ | -------------------------------- |
-| OKX   | [Telegram](https://t.me/OKXOfficial_English) |        | [Twitter](https://twitter.com/okx)         | [Website](https://www.okx.com/)  |
-| MEXC  | [Telegram](https://t.me/MEXCEnglish)       |        | [Twitter](https://twitter.com/MEXC_Official) | [Website](https://www.mexc.com/) |
-| KuCoin | [Telegram](https://t.me/Kucoin_Exchange)  |        | [Twitter](https://x.com/kucoincom)         | [Website](https://www.kucoin.com) |
-| HTX   | [Telegram](https://t.me/htxglobalofficial) |        | [Twitter](https://twitter.com/HTX_Global)  | [Website](https://www.htx.com/)  |
-| Bybit | [Telegram](https://t.me/BybitEnglish)      |        | [Twitter](https://x.com/Bybit_Official)    | [Website](https://www.bybit.com/en/)  |
-| Gate.io | [Telegram](https://t.me/BybitEnglish)    |        | [Twitter](https://x.com/gate_io)           | [Website](https://www.gate.io)   |
-| xRocket | [Telegram](https://t.me/xrocket)         |        | [Twitter](https://x.com/xRocket_tg)        | [Website](https://xrocket.tg/en) |
-
+| Name    | Telegram                                     | GitHub | Twitter                                      | Website                              |
+| ------- | -------------------------------------------- | ------ | -------------------------------------------- | ------------------------------------ |
+| OKX     | [Telegram](https://t.me/OKXOfficial_English) |        | [Twitter](https://twitter.com/okx)           | [Website](https://www.okx.com/)      |
+| MEXC    | [Telegram](https://t.me/MEXCEnglish)         |        | [Twitter](https://twitter.com/MEXC_Official) | [Website](https://www.mexc.com/)     |
+| KuCoin  | [Telegram](https://t.me/Kucoin_Exchange)     |        | [Twitter](https://x.com/kucoincom)           | [Website](https://www.kucoin.com)    |
+| HTX     | [Telegram](https://t.me/htxglobalofficial)   |        | [Twitter](https://twitter.com/HTX_Global)    | [Website](https://www.htx.com/)      |
+| Bybit   | [Telegram](https://t.me/BybitEnglish)        |        | [Twitter](https://x.com/Bybit_Official)      | [Website](https://www.bybit.com/en/) |
+| Gate.io | [Telegram](https://t.me/BybitEnglish)        |        | [Twitter](https://x.com/gate_io)             | [Website](https://www.gate.io)       |
+| xRocket | [Telegram](https://t.me/xrocket)             |        | [Twitter](https://x.com/xRocket_tg)          | [Website](https://xrocket.tg/en)     |
 
 ## On-Ramp
 
@@ -177,21 +179,21 @@
 
 ## Explorers
 
-| Name               | Telegram                                | GitHub                                            | Twitter                                       | Website                                                         |
-| ------------------ | --------------------------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
-| DYOR              | [Telegram](https://t.me/addlist/ykImgvSTJkY1YTli)  |                                               | [Twitter](https://twitter.com/dyorninja)      | [Website](https://dyor.io)                   |
-| Tonscan by Bastion |                                         |                                                   |                                               | [Website](https://tonscan.com/)                                 |
-| Tonscan            |                                         | [GitHub](https://github.com/catchain/tonscan)     |                                               | [Website](https://tonscan.org/)                                 |
-| Tonviewer          |                                         |                                                   | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonviewer.com/)                               |
-| TONAPI             | [Telegram](https://t.me/tonkeeper)      | [GitHub](https://github.com/tonkeeper/opentonapi) | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonapi.io/)                                   |
-| Whales Explorer    |                                         | [GitHub](https://github.com/tonwhales)            | [Twitter](https://twitter.com/whalescorp)     | [Website](https://tonwhales.com/explorer)                       |
-| M3TA               | [Telegram](https://t.me/M3TA_Analytics) |                                                   | [Twitter](https://twitter.com/M3TA_Analytics) | [Website](https://m3talab.io/reports/ton-telegram-open-network) |
-| TON NFT Explorer   | [Telegram](https://t.me/this_is_TON)    |                                                   |                                               | [Website](https://explorer.tonnft.tools/)                       |
-| DTON               | [Telegram](https://t.me/disintar)       |                                                   | [Twitter](https://twitter.com/disintar_io/)   | [Website](https://dton.io/)                                     |
-| 3xpl               |                                         | [GitHub](https://github.com/3xplcom)              | [Twitter](https://twitter.com/3xplcom)        | [Website](https://3xpl.com/ton)                                 |
-| TON.sh             |                                         |                                                   |                                               | [Website](https://ton.sh/)                                      |
-| Tenere Explorer    | [Telegram](https://t.me/teneretoken)    |                                                   |                                               | [Website](https://www.teneretoken.com/tenere-explorer)          |
-| NFTScan            |                                         | [Github](https://github.com/nftscan-official)     | [Twitter](https://twitter.com/nftscan_com)    | [Website](https://ton.nftscan.com/)                             |
+| Name               | Telegram                                          | GitHub                                            | Twitter                                       | Website                                                         |
+| ------------------ | ------------------------------------------------- | ------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- |
+| DYOR               | [Telegram](https://t.me/addlist/ykImgvSTJkY1YTli) |                                                   | [Twitter](https://twitter.com/dyorninja)      | [Website](https://dyor.io)                                      |
+| Tonscan by Bastion |                                                   |                                                   |                                               | [Website](https://tonscan.com/)                                 |
+| Tonscan            |                                                   | [GitHub](https://github.com/catchain/tonscan)     |                                               | [Website](https://tonscan.org/)                                 |
+| Tonviewer          |                                                   |                                                   | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonviewer.com/)                               |
+| TONAPI             | [Telegram](https://t.me/tonkeeper)                | [GitHub](https://github.com/tonkeeper/opentonapi) | [Twitter](https://twitter.com/tonappshq)      | [Website](https://tonapi.io/)                                   |
+| Whales Explorer    |                                                   | [GitHub](https://github.com/tonwhales)            | [Twitter](https://twitter.com/whalescorp)     | [Website](https://tonwhales.com/explorer)                       |
+| M3TA               | [Telegram](https://t.me/M3TA_Analytics)           |                                                   | [Twitter](https://twitter.com/M3TA_Analytics) | [Website](https://m3talab.io/reports/ton-telegram-open-network) |
+| TON NFT Explorer   | [Telegram](https://t.me/this_is_TON)              |                                                   |                                               | [Website](https://explorer.tonnft.tools/)                       |
+| DTON               | [Telegram](https://t.me/disintar)                 |                                                   | [Twitter](https://twitter.com/disintar_io/)   | [Website](https://dton.io/)                                     |
+| 3xpl               |                                                   | [GitHub](https://github.com/3xplcom)              | [Twitter](https://twitter.com/3xplcom)        | [Website](https://3xpl.com/ton)                                 |
+| TON.sh             |                                                   |                                                   |                                               | [Website](https://ton.sh/)                                      |
+| Tenere Explorer    | [Telegram](https://t.me/teneretoken)              |                                                   |                                               | [Website](https://www.teneretoken.com/tenere-explorer)          |
+| NFTScan            |                                                   | [Github](https://github.com/nftscan-official)     | [Twitter](https://twitter.com/nftscan_com)    | [Website](https://ton.nftscan.com/)                             |
 
 ## Games
 
@@ -219,8 +221,9 @@
 | CockFights Game         | [Telegram](https://t.me/TonCocks)               |                                                              | [Twitter](https://twitter.com/Cock_Fights)    | [Website](https://cock-fights.com)             |
 | Chess Zombies           | [Telegram](https://t.me/chesszombieseng)        | [GitHub](https://github.com/SHEDEVERstudio)                  | [Twitter](https://twitter.com/ShedEVERstudio) | [Website](https://chesszombies.fun)            |
 | Gatto Game              | [Telegram](https://t.me/gatto_gamebot)          |                                                              | [Twitter](https://x.com/Gatto_game)           |                                                |
-| Ton Potato           | [Telegram](https://t.me/ton_potato_bot)        |                  | [Twitter](https://twitter.com/TonPotato) | [Website](https://clck.ru/3AQPSo)            |
+| Ton Potato              | [Telegram](https://t.me/ton_potato_bot)         |                                                              | [Twitter](https://twitter.com/TonPotato)      | [Website](https://clck.ru/3AQPSo)              |
 | Totemancer              | [Telegram](https://t.me/TotemancerBot)          | [GitHub](https://github.com/Totemancer)                      | [Twitter](https://x.com/Totemancer)           | [Website](https://totemancer.com)              |
+| Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
 
 ## Infra
 
@@ -242,6 +245,14 @@
 | TON Minter | [Telegram](https://t.me/+YDnoBue1Dz81ZTMy) | [GitHub](https://github.com/ton-blockchain/minter-contract) | [Twitter](https://twitter.com/ton_blockchain) | [Website](https://minter.ton.org/) |
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
 | CRYPTON | [Telegram](https://t.me/cryptonportal) |  | [Twitter](https://twitter.com/thetonhub) | [Website](https://crypton.tools)
+| sTONks     | [Telegram](https://t.me/stonksonton)	      |                                                             | [Twitter](https://x.com/tonstonks)            | [Website](https://stonksbots.com)  |
+
+### Portfolio tracker
+
+| Name        | Telegram                             | GitHub | Twitter | Website                            |
+| ----------- | ------------------------------------ | ------ | ------- | ---------------------------------- |
+| TractionEye | [Telegram](https://t.me/TractionEye) |        |    [Twitter](https://x.com/TractionEye)     | |
+
 
 ### Gaming
 
@@ -276,15 +287,15 @@
 
 ### Dev Tools
 
-| Name                 | Telegram                             | GitHub                                                        | Twitter                                                                                        | Website                                                      |
-| -------------------- | ------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| IntelliJ Idea plugin |                                      | [GitHub](https://github.com/ton-blockchain/intellij-ton)      |                                                                                                | [Website](https://plugins.jetbrains.com/plugin/18541-ton)    |
-| Tonana               | [Telegram](https://t.me/tonanadao)   | [GitHub](https://github.com/tonanadao)                        | [Twitter](https://twitter.com/Tonanadao)                                                       | [Website](https://tonana.org)                                |
-| WebDeployer          |                                      | [GitHub](https://github.com/ProgramCrafter/ton-qr-deployer)   |                                                                                                | [Website](https://ratingers.pythonanywhere.com/deployer/)    |
-| TON Verifier         | [Telegram](https://t.me/tonverifier) | [GitHub](https://github.com/ton-blockchain/verifier)          |                                                                                                | [Website](https://verifier.ton.org)                          |
-| TON Timer            |                                      | [GitHub](https://github.com/ProgramCrafter/ton-stable-timer/) |                                                                                                | [Website](https://programcrafter.github.io/ton-stable-timer) |
-| Rift                 |                                      |                                                               |                                                                                                | [Website](https://rift.skyring.io)                           |
-| TON NoCode SDK       |                                      |                                                               |                                                                                                | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
+| Name                 | Telegram                             | GitHub                                                        | Twitter                                  | Website                                                                                        |
+| -------------------- | ------------------------------------ | ------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| IntelliJ Idea plugin |                                      | [GitHub](https://github.com/ton-blockchain/intellij-ton)      |                                          | [Website](https://plugins.jetbrains.com/plugin/18541-ton)                                      |
+| Tonana               | [Telegram](https://t.me/tonanadao)   | [GitHub](https://github.com/tonanadao)                        | [Twitter](https://twitter.com/Tonanadao) | [Website](https://tonana.org)                                                                  |
+| WebDeployer          |                                      | [GitHub](https://github.com/ProgramCrafter/ton-qr-deployer)   |                                          | [Website](https://ratingers.pythonanywhere.com/deployer/)                                      |
+| TON Verifier         | [Telegram](https://t.me/tonverifier) | [GitHub](https://github.com/ton-blockchain/verifier)          |                                          | [Website](https://verifier.ton.org)                                                            |
+| TON Timer            |                                      | [GitHub](https://github.com/ProgramCrafter/ton-stable-timer/) |                                          | [Website](https://programcrafter.github.io/ton-stable-timer)                                   |
+| Rift                 |                                      |                                                               |                                          | [Website](https://rift.skyring.io)                                                             |
+| TON NoCode SDK       |                                      |                                                               |                                          | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
 
 ### Nodes
 
@@ -339,7 +350,7 @@
 | FunC Contracts Collection |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/examples#func-smart-contracts) |
 | FunC SDK and Libraries    |                                    |                                                                       |                                             | [Website](https://docs.ton.org/develop/smart-contracts/libraries)                     |
 | TON Virtual Machine       |                                    | [GitHub](https://github.com/ton-blockchain/ton/tree/master/crypto/vm) |                                             | [Website](https://docs.ton.org/learn/tvm-instructions/tvm-overview)                   |
-| Lucky TON 		    | [Telegram](https://t.me/lkyton)    |                    | [Twitter](https://x.com/lkyton)                  | [Website](https://academy.luckyton.org)     |
+| Lucky TON                 | [Telegram](https://t.me/lkyton)    |                                                                       | [Twitter](https://x.com/lkyton)             | [Website](https://academy.luckyton.org)                                               |
 
 ## YouTube Tutorials
 
@@ -349,6 +360,7 @@
 | Tact & Blueprint [ru] | [Telegram](https://t.me/alefman)       | [YouTube](https://www.youtube.com/watch?v=isYBvzM-MfQ&list=PLOIvUFGfwP93tZI_WnaLyJsZlskU4ao92)         |
 | Tact Development [ru] | [Telegram](https://t.me/nonam3e)       | [YouTube](https://www.youtube.com/watch?v=S6wlNsKUHpE&list=PLyDBPwv9EPsAJpR7R0cC4kgo7BjiMmUy7&index=1) |
 | Mark Ohman            | [Telegram](https://t.me/markokhmandev) | [YouTube](https://www.youtube.com/@markokhman)                                                         |
+| TON Hydra [ru] | [Telegram](https://t.me/Ton_HYDRA_Community)       | [YouTube](https://www.youtube.com/@TONHydra)                                     |
 
 # Shopping
 
@@ -419,20 +431,20 @@
 
 ## Analytics
 
-| Name                 | Telegram                               | GitHub                                        | Twitter                                       | Website                                             |
-| -------------------- | -------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
-| DefiLlama            |                                        | [GitHub](https://github.com/DefiLlama)        | [Twitter](https://twitter.com/DefiLlama)      | [Website](https://defillama.com/)                   |
-| GeckoTerminal        | [Telegram](https://t.me/geckoterminal) |                                               | [Twitter](https://twitter.com/GeckoTerminal)  | [Website](https://www.geckoterminal.com/ton/pools/) |
-| re:doubt             | [Telegram](https://t.me/re_doubt)      | [GitHub](https://github.com/re-doubt)         | [Twitter](https://twitter.com/redoubt_web3)   | [Website](https://redoubt.online/)                  |
-| TonStat              | [Telegram](https://t.me/tonstatcom)    |                                               |                                               | [Website](https://www.tonstat.com/)                 |
-| Tonscan Stats        |                                        | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats)                |
-| Anton.tools          | [Telegram](https://t.me/tonindexer)    | [GitHub](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)                     |
-| TON Radar            | [Telegram](https://t.me/tonradarapp)   | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)                    |
-| TON DEX PnL Analyzer | [Telegram](https://t.me/ton_learn)     |                                               | [Twitter](https://twitter.com/roma_i_m)       | [Website](https://tonlearn.tools/)                  |
-| Kattana              | [Telegram](https://t.me/kattana_trade) | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)                  |
-| dTON Forum           | [Telegram](https://t.me/dtonforum)     |                                               |                                               |                                                     |
-| Tonk Analyser        | [Telegram](https://t.me/TonkAnalyser_bot) | [GitHub](https://github.com/TonkInu)    | [Twitter](https://twitter.com/tonkinubot)   | [Website](https://tonk.bot/)                  |
-| indicaton            | [Telegram](https://t.me/indicaton)        |                                         | [Twitter](https://twitter.com/indicaton)      | [Website](https://indicaton.io/)                    |
+| Name                 | Telegram                                  | GitHub                                        | Twitter                                       | Website                                             |
+| -------------------- | ----------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| DefiLlama            |                                           | [GitHub](https://github.com/DefiLlama)        | [Twitter](https://twitter.com/DefiLlama)      | [Website](https://defillama.com/)                   |
+| GeckoTerminal        | [Telegram](https://t.me/geckoterminal)    |                                               | [Twitter](https://twitter.com/GeckoTerminal)  | [Website](https://www.geckoterminal.com/ton/pools/) |
+| re:doubt             | [Telegram](https://t.me/re_doubt)         | [GitHub](https://github.com/re-doubt)         | [Twitter](https://twitter.com/redoubt_web3)   | [Website](https://redoubt.online/)                  |
+| TonStat              | [Telegram](https://t.me/tonstatcom)       |                                               |                                               | [Website](https://www.tonstat.com/)                 |
+| Tonscan Stats        |                                           | [GitHub](https://github.com/catchain/tonscan) |                                               | [Website](https://tonscan.org/stats)                |
+| Anton.tools          | [Telegram](https://t.me/tonindexer)       | [GitHub](https://github.com/tonindexer)       | [Twitter](https://twitter.com/apachesuperset) | [Website](https://anton.tools/)                     |
+| TON Radar            | [Telegram](https://t.me/tonradarapp)      | [GitHub](https://github.com/tonradar)         | [Twitter](https://twitter.com/tonradarapp)    | [Website](https://tonradar.app/)                    |
+| TON DEX PnL Analyzer | [Telegram](https://t.me/ton_learn)        |                                               | [Twitter](https://twitter.com/roma_i_m)       | [Website](https://tonlearn.tools/)                  |
+| Kattana              | [Telegram](https://t.me/kattana_trade)    | [GitHub](https://github.com/kattana-io)       | [Twitter](https://twitter.com/kattanatrade)   | [Website](https://app.kattana.io/)                  |
+| dTON Forum           | [Telegram](https://t.me/dtonforum)        |                                               |                                               |                                                     |
+| Tonk Analyser        | [Telegram](https://t.me/TonkAnalyser_bot) | [GitHub](https://github.com/TonkInu)          | [Twitter](https://twitter.com/tonkinubot)     | [Website](https://tonk.bot/)                        |
+| indicaton            | [Telegram](https://t.me/indicaton)        |                                               | [Twitter](https://twitter.com/indicaton)      | [Website](https://indicaton.io/)                    |
 
 ## API Providers
 
@@ -462,23 +474,23 @@
 
 ## App Store
 
-| Name                 | Telegram                              | GitHub | Twitter                                 | Website                             |
-|----------------------| ------------------------------------- | ------ | --------------------------------------- | ----------------------------------- |
-| TON App              | [Telegram](https://t.me/tonapp)       |        | [Twitter](https://twitter.com/apps_ton) | [Website](https://ton.app/)         |
-| Telegram Apps Center | [Telegram](https://t.me/trendingApps) |        |                                         | [Website](https://tapps.center/)    |
-| Tonscan Apps         | [Telegram](https://t.me/catchain)     |        |                                         | [Website](https://tonscan.org/apps) |
-| TON App Center       | [Telegram](https://t.me/TonAppCenterBot)     |        |                                         | [Website](https://tonappcenter.com) |
+| Name                 | Telegram                                 | GitHub | Twitter                                 | Website                             |
+| -------------------- | ---------------------------------------- | ------ | --------------------------------------- | ----------------------------------- |
+| TON App              | [Telegram](https://t.me/tonapp)          |        | [Twitter](https://twitter.com/apps_ton) | [Website](https://ton.app/)         |
+| Telegram Apps Center | [Telegram](https://t.me/trendingApps)    |        |                                         | [Website](https://tapps.center/)    |
+| Tonscan Apps         | [Telegram](https://t.me/catchain)        |        |                                         | [Website](https://tonscan.org/apps) |
+| TON App Center       | [Telegram](https://t.me/TonAppCenterBot) |        |                                         | [Website](https://tonappcenter.com) |
 
 ## SocialFi
 
-| Name                    | Telegram                                        | GitHub                                             | Twitter                                      | Website                           |
-| ----------------------- | ----------------------------------------------- | -------------------------------------------------- | -------------------------------------------- | --------------------------------- |
-| Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)       |
-| NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                   |
-| Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/) |
-| TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [GitHub](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)      |
-| Tonex                   | [Telegram](https://t.me/tonex_app)              |                                                    |                                              | [Website](https://tonex.app/)     |
-| Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/) |
+| Name                    | Telegram                                        | GitHub                                             | Twitter                                      | Website                              |
+| ----------------------- | ----------------------------------------------- | -------------------------------------------------- | -------------------------------------------- | ------------------------------------ |
+| Fanzee                  | [Telegram](https://t.me/fanzeechat)             |                                                    | [Twitter](https://twitter.com/fanzeelabs)    | [Website](https://fanz.ee/)          |
+| NFT Access Guardian Bot | [Telegram](https://t.me/access_ton_control_bot) |                                                    |                                              |                                      |
+| Oveit                   |                                                 |                                                    | [Twitter](https://twitter.com/oveitcom)      | [Website](https://cryptomus.com/)    |
+| TON Vote                | [Telegram](https://t.me/TONVoteSupportGroup)    | [GitHub](https://github.com/orbs-network/dao-vote) |                                              | [Website](https://ton.vote/)         |
+| Tonex                   | [Telegram](https://t.me/tonex_app)              |                                                    |                                              | [Website](https://tonex.app/)        |
+| Web3Events              | [Telegram](https://t.me/web3events_eng)         |                                                    | [Twitter](https://twitter.com/Web3Events_ai) | [Website](https://web3events.ai/)    |
 | Bounty Bay              | [Telegram](https://t.me/bountybay_bot)          |                                                    | [Twitter](https://x.com/0xBountyBay)         | [Website](https://www.bountybay.app) |
 | TON Map                 | [Telegram](https://t.me/tonmap)                 | [GitHub](https://github.com/OtherVerse)            | [Twitter](https://twitter.com/thetonmap)     | [Website](https://tonmap.app)  |
 
@@ -512,16 +524,15 @@
 
 ### Custodial Wallets
 
-| Name            | Telegram                                   | GitHub | Twitter                                  | Website                       |
-| --------------- | ------------------------------------------ | ------ | ---------------------------------------- | ----------------------------- |
-| @wallet         | [Telegram](https://t.me/wallet)            |        | [Twitter](https://twitter.com/wallet_tg) | [Website](https://wallet.tg/) |
-| Crypto Bot      | [Telegram](https://t.me/CryptoBot)         |        |                                          |                               |
+| Name            | Telegram                                   | GitHub | Twitter                                  | Website                          |
+| --------------- | ------------------------------------------ | ------ | ---------------------------------------- | -------------------------------- |
+| @wallet         | [Telegram](https://t.me/wallet)            |        | [Twitter](https://twitter.com/wallet_tg) | [Website](https://wallet.tg/)    |
+| Crypto Bot      | [Telegram](https://t.me/CryptoBot)         |        |                                          |                                  |
 | XRocket         | [Telegram](https://t.me/xrocket)           |        | [Twitter](https://x.com/xRocket_tg)      | [Website](https://xrocket.tg/en) |
-| Swapster        | [Telegram](https://t.me/swapsterbot)       |        |                                          |                               |
-| NFT Wallet      | [Telegram](https://t.me/NFTWalletBot)      |        |                                          |                               |
-| Wallet Explorer | [Telegram](https://t.me/WalletExplorerBot) |        |                                          |                               |
-| xJetSwap        | [Telegram](https://t.me/xjetswapbot)       |        |                                          |                               |
-
+| Swapster        | [Telegram](https://t.me/swapsterbot)       |        |                                          |                                  |
+| NFT Wallet      | [Telegram](https://t.me/NFTWalletBot)      |        |                                          |                                  |
+| Wallet Explorer | [Telegram](https://t.me/WalletExplorerBot) |        |                                          |                                  |
+| xJetSwap        | [Telegram](https://t.me/xjetswapbot)       |        |                                          |                                  |
 
 ### Multisig Wallets
 
@@ -552,26 +563,25 @@
 
 ## Gambling and Skill-based games
 
-| Name             | Telegram                                     | GitHub                               | Twitter                                      | Website                                   |
-| ---------------- | -------------------------------------------- | ------------------------------------ | -------------------------------------------- | ----------------------------------------- |
-| @Whale           | [Telegram](https://t.me/Whalegames_bot)      |                                      |                                              |                                           |
-| JetTon Games     | [Telegram](https://t.me/JetTon)              |                                      | [Twitter](https://twitter.com/kanalabs)      |                                           |
-| Classic TON      |                                              |                                      |                                              | [Website](https://classic.ton-game.com/)  |
-| Wins     | [Telegram](https://t.me/wins)  |                                      |                                              |                                           |
-| TON Lottery      | [Telegram](https://t.me/TonProject_bot)      |                                      |                                              |                                           |
-| Grand Casino TON | [Telegram](https://t.me/TG_grand_casino_bot) |                                      |                                              |                                           |
-| TON Casino       |                                              |                                      |                                              | [Website](https://toncasino.io/)          |
-| Bitsler          | [Telegram](https://t.me/bitsler_casino)      |                                      | [Twitter](https://twitter.com/Bitsler)       | [Website](https://www.bitsler.com/)       |
-| TON Games        | [Telegram](https://t.me/ton_games_and_more)  |                                      |                                              | [Website](https://ton-game.com/)          |
-| FAN TON          | [Telegram](https://t.me/FanTonGameBot)       |                                      | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)           |
-| Prophecy Pulse    [Telegram](https://t.me/prophecypulse_bot)   |                                      | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/) |
-| Wagmi 11         | [Telegram](https://t.me/wagmi11)             | [GitHub](https://github.com/wagmi11) | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)       |
-| Panda Loto       | [Telegram](https://t.me/PandaLotteryBot)     |                                      |                                              |                                           |
-| TonTogether      | [Telegram](https://t.me/ton_together)        |                                      | [Twitter](https://twitter.com/TogetherTON)   | [Website](https://tontogether.com)        |
-| Capton Play      | [Telegram](https://t.me/CaptonPlay)        |                                      |  | [Website](https://captonplay.com)        |
+| Name                                                      | Telegram                                     | GitHub                                       | Twitter                                      | Website                                  |
+| --------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- | ---------------------------------------- |
+| @Whale                                                    | [Telegram](https://t.me/Whalegames_bot)      |                                              |                                              |                                          |
+| JetTon Games                                              | [Telegram](https://t.me/JetTon)              |                                              | [Twitter](https://twitter.com/kanalabs)      |                                          |
+| Classic TON                                               |                                              |                                              |                                              | [Website](https://classic.ton-game.com/) |
+| Wins                                                      | [Telegram](https://t.me/wins)                |                                              |                                              |                                          |
+| TON Lottery                                               | [Telegram](https://t.me/TonProject_bot)      |                                              |                                              |                                          |
+| Grand Casino TON                                          | [Telegram](https://t.me/TG_grand_casino_bot) |                                              |                                              |                                          |
+| TON Casino                                                |                                              |                                              |                                              | [Website](https://toncasino.io/)         |
+| Bitsler                                                   | [Telegram](https://t.me/bitsler_casino)      |                                              | [Twitter](https://twitter.com/Bitsler)       | [Website](https://www.bitsler.com/)      |
+| TON Games                                                 | [Telegram](https://t.me/ton_games_and_more)  |                                              |                                              | [Website](https://ton-game.com/)         |
+| FAN TON                                                   | [Telegram](https://t.me/FanTonGameBot)       |                                              | [Twitter](https://twitter.com/FantasyFanton) | [Website](https://fan-ton.com/)          |
+| Prophecy Pulse [Telegram](https://t.me/prophecypulse_bot) |                                              | [Twitter](https://twitter.com/ProphecyPulse) | [Website](https://www.prophecypulse.xyz/)    |
+| Wagmi 11                                                  | [Telegram](https://t.me/wagmi11)             | [GitHub](https://github.com/wagmi11)         | [Twitter](https://twitter.com/wagmi_11)      | [Website](https://www.wagmi11.com/)      |
+| Panda Loto                                                | [Telegram](https://t.me/PandaLotteryBot)     |                                              |                                              |                                          |
+| TonTogether                                               | [Telegram](https://t.me/ton_together)        |                                              | [Twitter](https://twitter.com/TogetherTON)   | [Website](https://tontogether.com)       |
+| Capton Play                                               | [Telegram](https://t.me/CaptonPlay)          |                                              |                                              | [Website](https://captonplay.com)        |
 
 ## Memecoins
-
 
 | Name | Telegram                            | Jetton Address                                                                                                             | Twitter                                   | Website                           |
 | ---- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------- |
@@ -603,6 +613,7 @@
 | EMOB TON | [Telegram](https://t.me/EMOBTON) | [Channel](https://t.me/Emob_TON_News) | [`EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj`](https://tonviewer.com/EQAj85pzhrQCvkGWA6Pa06ifuAQbggMXw23Jk54XIBYJS3Pj) | [Twitter](https://twitter.com/emobton) | [Website](https://emobton.xyz/) | [Github](https://github.com/emobton) | [Website](https://emobton.xyz/) |
 | UnitonToken | [Telegram](https://t.me/official_uniton_token) | [`EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf`]([https://tonviewer.com/EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2](https://tonviewer.com/EQAPKqRFnQc-2m5Ogg0UUMNM0cZRdK4JUR2gN6wk8PX90_Wf)) | [Twitter](https://twitter.com/uniton_token) | [Website](https://unitontoken.com) |
 | Laika | [Telegram](https://t.me/LaikaOfficialStation) | [`EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw`](https://tonviewer.com/EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw) | [Twitter](https://twitter.com/LaikaOnTon) | [Website](https://www.laikaonton.com) |
+| Hydra | [Telegram](https://t.me/Ton_HYDRA_Community) | [`EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_`](https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_) | [Twitter](https://twitter.com/ton_hydra) | [Website](https://www.tonhydra.com) |
 
 ### Disclaimer for Jetton Inclusion Criteria
 
