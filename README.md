@@ -21,6 +21,7 @@
   - [Infra](#infra)
     - [Web3 Internet](#web3-internet)
     - [DeFi](#defi-1)
+    - [Portfolio tracker](#portfolio-tracker)
     - [Gaming](#gaming)
     - [Storage](#storage)
     - [Integrated Development Environment (IDE)](#integrated-development-environment-ide)
@@ -244,6 +245,13 @@
 | TON Locker |                                            | [GitHub](https://github.com/ton-blockchain/locker-contract) |                                               |                                    |
 | CRYPTON | [Telegram](https://t.me/cryptonportal) |  | [Twitter](https://twitter.com/thetonhub) | [Website](https://crypton.tools)
 | sTONks     | [Telegram](https://t.me/stonksonton)	      |                                                             | [Twitter](https://x.com/tonstonks)            | [Website](https://stonksbots.com)  |
+
+### Portfolio tracker
+
+| Name        | Telegram                             | GitHub | Twitter | Website                            |
+| ----------- | ------------------------------------ | ------ | ------- | ---------------------------------- |
+| TractionEye | [Telegram](https://t.me/TractionEye) |        |    [Twitter](https://x.com/TractionEye)     | |
+
 
 ### Gaming
 
