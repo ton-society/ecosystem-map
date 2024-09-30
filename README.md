@@ -97,7 +97,9 @@
 | Ston.fi         | [Telegram](https://t.me/stonfidex)             | [GitHub](https://github.com/ston-fi)     | [Twitter](https://twitter.com/ston_fi)         | [Website](https://ston.fi/)                      |
 | Storm           | [Telegram](https://t.me/storm_trade_fam)       |                                          | [Twitter](https://twitter.com/storm_trade_ton) | [Website](https://stormtrade.dev/trade/TON_USDT) |
 | Tradoor.io      | [Telegram](https://t.me/tradoor_io)            | [GitHub](https://github.com/TonTradoor)  | [Twitter](https://twitter.com/tradoor_io)      | [Website](https://tradoor.io/)                   |
+| Torch Finance   | [Telegram](https://t.me/oxcurdle)              | [GitHub](https://github.com/torch-core)  | [Twitter](https://x.com/TorchTon)              | [Website](https://torch.finance/)                |
 | TON Hedge       | [Telegram](https://t.me/ton_hedge)             |                                          | [Twitter](https://twitter.com/tonhedge)        |                                                  |
+
 
 ### Decentralized Exchanges for wTON
 
