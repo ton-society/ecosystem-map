@@ -227,6 +227,7 @@
 | Ton Potato              | [Telegram](https://t.me/ton_potato_bot)         |                                                              | [Twitter](https://twitter.com/TonPotato)      | [Website](https://clck.ru/3AQPSo)              |
 | Totemancer              | [Telegram](https://t.me/TotemancerBot)          | [GitHub](https://github.com/Totemancer)                      | [Twitter](https://x.com/Totemancer)           | [Website](https://totemancer.com)              |
 | Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
+| Dungeon of KITSU        | [Telegram](https://t.me/DungeonsOfKitsune_bot/game) |                                                          | [Twitter](https://x.com/kitsuneton)           |                                                |
 
 ## Infra
 
