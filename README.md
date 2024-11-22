@@ -545,6 +545,7 @@
 | Tonkey           | [Telegram](https://t.me/tonkeyapp) | [GitHub](https://github.com/tonkey-app)                   | [Twitter](https://twitter.com/TonkeyApp) | [Website](https://tonkey.app/)                             |
 | TON Web Multisig |                                    | [GitHub](https://github.com/ton-blockchain/multisig-dapp) |                                          | [Website](https://ton-blockchain.github.io/multisig-dapp/) |
 | TON CLI Multisig |                                    | [GitHub](https://github.com/akifoq/multisig)              |                                          |                                                            |
+| Tonkeeper PRO    | [Telegram](https://t.me/tonkeeper) | [GitHub](https://github.com/tonkeeper/tonkeeper-web)      | [Twitter](https://twitter.com/tonkeeper) | [Website](https://wallet.tonkeeper.com/)                   |
 
 ### Hardware Wallets
 
