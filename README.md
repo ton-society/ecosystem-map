@@ -100,6 +100,7 @@
 | Tradoor.io      | [Telegram](https://t.me/tradoor_io)            | [GitHub](https://github.com/TonTradoor)  | [Twitter](https://twitter.com/tradoor_io)      | [Website](https://tradoor.io/)                   |
 | Torch Finance   | [Telegram](https://t.me/oxcurdle)              | [GitHub](https://github.com/torch-core)  | [Twitter](https://x.com/TorchTon)              | [Website](https://torch.finance/)                |
 | TON Hedge       | [Telegram](https://t.me/ton_hedge)             |                                          | [Twitter](https://twitter.com/tonhedge)        |                                                  |
+| TONCO           | [Telegram](https://t.me/tonco_io)	             | [GitHub](https://github.com/cryptoalgebra/tonco-demo)  | [Twitter](https://x.com/Tonco_io)| [Website](https://tonco.io/)                     |
 
 
 ### Decentralized Exchanges for wTON
