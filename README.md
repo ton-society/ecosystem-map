@@ -167,6 +167,7 @@
 
 | Name         | Telegram                                   | GitHub                                    | Twitter                                       | Website                                                        |
 | ------------ | ------------------------------------------ | ----------------------------------------- | --------------------------------------------- | -------------------------------------------------------------- |
+| Onmeta | [Telegram](https://t.me/onmetatg)      |   [GitHub](https://github.com/onmetahq)   | [Twitter](https://x.com/onmetahq)  | [Website](https://onmeta.in/Buy) |
 | Mercuryo     | [Telegram](https://telegram.me/HRMercuryo) |                                           | [Twitter](https://twitter.com/Mercuryo_io)    | [Website](https://mercuryo.io/)                                |
 | NEOCRYPTO    |                                            |                                           |                                               | [Website](https://neocrypto.net/)                              |
 | Guardarian   |                                            |                                           | [Twitter](https://twitter.com/Guardarian_com) | [Website](https://guardarian.com/buy-ton)                      |
