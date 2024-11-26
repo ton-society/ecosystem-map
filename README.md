@@ -33,12 +33,12 @@
     - [Security Solutions](#security-solutions)
   - [Education](#education)
   - [YouTube Tutorials](#youtube-tutorials)
-  - [Shopping](#shopping)
-    - [TON Payments](#ton-payments)
-    - [Marketplaces](#marketplaces)
-  - [NFT](#nft)
-    - [NFT Services](#nft-services)
-    - [NFT Tooling](#nft-tooling)
+- [Shopping](#shopping)
+  - [TON Payments](#ton-payments)
+  - [Marketplaces](#marketplaces)
+- [NFT](#nft)
+  - [NFT Services](#nft-services)
+  - [NFT Tooling](#nft-tooling)
   - [Telegram Mini Apps Tooling](#telegram-mini-apps-tooling)
   - [Compliance](#compliance)
   - [Analytics](#analytics)
@@ -53,10 +53,11 @@
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [VPN](#vpn)
-  - [Gambling and Skill-based Games](#gambling-and-skill-based-games)
+  - [Gambling and Skill-based games](#gambling-and-skill-based-games)
   - [Memecoins](#memecoins)
+    - [Disclaimer for Jetton Inclusion Criteria](#disclaimer-for-jetton-inclusion-criteria)
   - [Inscriptions](#inscriptions)
-  - [POW](#POW)
+  - [POW](#pow)
 - [Disclaimer](#disclaimer)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating Your PR](#updating-your-pr)
@@ -342,6 +343,7 @@
 | Quantstamp    |                                               | [GitHub](https://github.com/quantstamp)    | [Twitter](https://twitter.com/Quantstamp)     | [Website](https://quantstamp.com/)                          |
 | ScaleBit      |                                               | [GitHub](https://github.com/ScaleBit)      | [Twitter](https://twitter.com/scalebit_)      | [Website](https://www.scalebit.xyz/)                        |
 | QuillAudits   | [Telegram](https://t.me/quillaudits_official) | [GitHub](https://github.com/Quillhash)     | [Twitter](https://twitter.com/QuillAudits_ai) | [Website](https://www.quillaudits.com/smart-contract-audit) |
+| PositiveWeb3   | [Telegram](https://t.me/PositiveWeb3) | [GitHub](https://github.com/PositiveSecurity)     | [Twitter](https://twitter.com/PositiveWeb3) | [Website](https://positive.com) |
 
 ## Education
 
