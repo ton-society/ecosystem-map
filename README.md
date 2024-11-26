@@ -33,12 +33,12 @@
     - [Security Solutions](#security-solutions)
   - [Education](#education)
   - [YouTube Tutorials](#youtube-tutorials)
-  - [Shopping](#shopping)
-    - [TON Payments](#ton-payments)
-    - [Marketplaces](#marketplaces)
-  - [NFT](#nft)
-    - [NFT Services](#nft-services)
-    - [NFT Tooling](#nft-tooling)
+- [Shopping](#shopping)
+  - [TON Payments](#ton-payments)
+  - [Marketplaces](#marketplaces)
+- [NFT](#nft)
+  - [NFT Services](#nft-services)
+  - [NFT Tooling](#nft-tooling)
   - [Telegram Mini Apps Tooling](#telegram-mini-apps-tooling)
   - [Compliance](#compliance)
   - [Analytics](#analytics)
@@ -53,10 +53,11 @@
     - [Multisig Wallets](#multisig-wallets)
     - [Hardware Wallets](#hardware-wallets)
   - [VPN](#vpn)
-  - [Gambling and Skill-based Games](#gambling-and-skill-based-games)
+  - [Gambling and Skill-based games](#gambling-and-skill-based-games)
   - [Memecoins](#memecoins)
+    - [Disclaimer for Jetton Inclusion Criteria](#disclaimer-for-jetton-inclusion-criteria)
   - [Inscriptions](#inscriptions)
-  - [POW](#POW)
+  - [POW](#pow)
 - [Disclaimer](#disclaimer)
 - [Contribution Guidelines](#contribution-guidelines)
   - [Updating Your PR](#updating-your-pr)
@@ -99,6 +100,7 @@
 | Tradoor.io      | [Telegram](https://t.me/tradoor_io)            | [GitHub](https://github.com/TonTradoor)  | [Twitter](https://twitter.com/tradoor_io)      | [Website](https://tradoor.io/)                   |
 | Torch Finance   | [Telegram](https://t.me/oxcurdle)              | [GitHub](https://github.com/torch-core)  | [Twitter](https://x.com/TorchTon)              | [Website](https://torch.finance/)                |
 | TON Hedge       | [Telegram](https://t.me/ton_hedge)             |                                          | [Twitter](https://twitter.com/tonhedge)        |                                                  |
+| TONCO           | [Telegram](https://t.me/tonco_io)	             | [GitHub](https://github.com/cryptoalgebra/tonco-demo)  | [Twitter](https://x.com/Tonco_io)| [Website](https://tonco.io/)                     |
 
 
 ### Decentralized Exchanges for wTON
@@ -167,6 +169,7 @@
 
 | Name         | Telegram                                   | GitHub                                    | Twitter                                       | Website                                                        |
 | ------------ | ------------------------------------------ | ----------------------------------------- | --------------------------------------------- | -------------------------------------------------------------- |
+| Onmeta | [Telegram](https://t.me/onmetatg)      |   [GitHub](https://github.com/onmetahq)   | [Twitter](https://x.com/onmetahq)  | [Website](https://onmeta.in/Buy) |
 | Mercuryo     | [Telegram](https://telegram.me/HRMercuryo) |                                           | [Twitter](https://twitter.com/Mercuryo_io)    | [Website](https://mercuryo.io/)                                |
 | NEOCRYPTO    |                                            |                                           |                                               | [Website](https://neocrypto.net/)                              |
 | Guardarian   |                                            |                                           | [Twitter](https://twitter.com/Guardarian_com) | [Website](https://guardarian.com/buy-ton)                      |
@@ -204,6 +207,7 @@
 | ----------------------- | ----------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ---------------------------------------------- |
 | Tonarchy                | [Telegram](https://t.me/Tonarchy)               |                                                              | [Twitter](https://twitter.com/tonarchy)       | [Website](https://tonarchy.online/)            |
 | TON Planets Mars        | [Telegram](https://t.me/TONPlanets)             |                                                              | [Twitter](https://twitter.com/TonPlanets)     | [Website](https://mars.tonplanets.com/en/)     |
+| TON Walk | [Telegram](https://t.me/tonwalk_news) | [GitHub](https://github.com/tonwalk) | [Twitter](https://x.com/tonwalk_app) | [Website](https://tonwalk.com)
 | PlayDeck                | [Telegram](https://t.me/playdeckbot)            | [GitHub](https://github.com/ton-play)                        | [Twitter](https://twitter.com/insider_ton)    | [Website](https://tonplay.io/games/DZmrVk1mJ5) |
 | Lifeblood               |                                                 |                                                              |                                               | [Website](https://lifeblood.ru/)               |
 | Tonrare                 | [Telegram](https://t.me/tonrare_games)          |                                                              |                                               | [Website](https://tonrare.com/explore)         |
@@ -226,7 +230,9 @@
 | Gatto Game              | [Telegram](https://t.me/gatto_gamebot)          |                                                              | [Twitter](https://x.com/Gatto_game)           |                                                |
 | Ton Potato              | [Telegram](https://t.me/ton_potato_bot)         |                                                              | [Twitter](https://twitter.com/TonPotato)      | [Website](https://clck.ru/3AQPSo)              |
 | Totemancer              | [Telegram](https://t.me/TotemancerBot)          | [GitHub](https://github.com/Totemancer)                      | [Twitter](https://x.com/Totemancer)           | [Website](https://totemancer.com)              |
+| TomTalk                 | [Telegram](https://t.me/TOMTALK_BOT)            | [GitHub](https://github.com/tomtalkofficial)                        | [Twitter](https://x.com/Tomtalkofficial)    | [Website](https://tomtalk.io/)
 | Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
+| Dungeon of KITSU        | [Telegram](https://t.me/DungeonsOfKitsune_bot/game) |                                                          | [Twitter](https://x.com/kitsuneton)           |                                                |
 
 ## Infra
 
@@ -256,6 +262,7 @@
 | Name        | Telegram                             | GitHub | Twitter | Website                            |
 | ----------- | ------------------------------------ | ------ | ------- | ---------------------------------- |
 | TractionEye | [Telegram](https://t.me/TractionEye) |        |    [Twitter](https://x.com/TractionEye)     | |
+| Portfel | [Telegram](https://t.me/portfel) |   [GitHub](https://github.com/portfel-ton)     |    [Twitter](https://x.com/PortfelTon)     | [Website](https://portfel.me)|
 
 
 ### Gaming
@@ -339,6 +346,7 @@
 | Quantstamp    |                                               | [GitHub](https://github.com/quantstamp)    | [Twitter](https://twitter.com/Quantstamp)     | [Website](https://quantstamp.com/)                          |
 | ScaleBit      |                                               | [GitHub](https://github.com/ScaleBit)      | [Twitter](https://twitter.com/scalebit_)      | [Website](https://www.scalebit.xyz/)                        |
 | QuillAudits   | [Telegram](https://t.me/quillaudits_official) | [GitHub](https://github.com/Quillhash)     | [Twitter](https://twitter.com/QuillAudits_ai) | [Website](https://www.quillaudits.com/smart-contract-audit) |
+| PositiveWeb3   | [Telegram](https://t.me/PositiveWeb3) | [GitHub](https://github.com/PositiveSecurity)     | [Twitter](https://twitter.com/PositiveWeb3) | [Website](https://positive.com) |
 
 ## Education
 
@@ -376,6 +384,7 @@
 | TonoGram    | [Telegram](https://t.me/tonogrampremiumbot) |        |         |                                    |
 | monomenu    | [Telegram](https://t.me/monodashboardbot)   |        |         |                                    |
 | Xtontracker | [Telegram](https://t.me/xtontracker)        |        |         | [Website](https://xtontracker.com) |
+| MugglePay   | [Telegram](https://t.me/mugglechatbot)      | [GitHub](https://github.com/mugglepay) | [Twitter](https://twitter.com/paymuggle)        | [Website](https://ton.mugglepay.com/)       |
 
 ## Marketplaces
 
@@ -476,6 +485,7 @@
 | @Tribute    | [Telegram](https://t.me/tribute)     |                                            |                                             | [Website](https://tribute.tg)       |
 | Xtontracker | [Telegram](https://t.me/xtontracker) |                                            |                                             | [Website](https://xtontracker.com)  |
 | Tonation.me | [Telegram](https://t.me/tonationme)     |                                            | [Twitter](https://twitter.com/tonationme) | [Website](https://tonation.me)      |
+| MugglePay   | [Telegram](https://t.me/mugglechatbot)      | [GitHub](https://github.com/mugglepay) | [Twitter](https://twitter.com/paymuggle)        | [Website](https://ton.mugglepay.com/)       |
 
 ## App Store
 
@@ -546,6 +556,7 @@
 | Tonkey           | [Telegram](https://t.me/tonkeyapp) | [GitHub](https://github.com/tonkey-app)                   | [Twitter](https://twitter.com/TonkeyApp) | [Website](https://tonkey.app/)                             |
 | TON Web Multisig |                                    | [GitHub](https://github.com/ton-blockchain/multisig-dapp) |                                          | [Website](https://ton-blockchain.github.io/multisig-dapp/) |
 | TON CLI Multisig |                                    | [GitHub](https://github.com/akifoq/multisig)              |                                          |                                                            |
+| Tonkeeper PRO    | [Telegram](https://t.me/tonkeeper) | [GitHub](https://github.com/tonkeeper/tonkeeper-web)      | [Twitter](https://twitter.com/tonkeeper) | [Website](https://wallet.tonkeeper.com/)                   |
 
 ### Hardware Wallets
 
