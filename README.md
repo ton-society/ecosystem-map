@@ -231,6 +231,7 @@
 | Totemancer              | [Telegram](https://t.me/TotemancerBot)          | [GitHub](https://github.com/Totemancer)                      | [Twitter](https://x.com/Totemancer)           | [Website](https://totemancer.com)              |
 | TomTalk                 | [Telegram](https://t.me/TOMTALK_BOT)            | [GitHub](https://github.com/tomtalkofficial)                        | [Twitter](https://x.com/Tomtalkofficial)    | [Website](https://tomtalk.io/)
 | Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
+| Dungeon of KITSU        | [Telegram](https://t.me/DungeonsOfKitsune_bot/game) |                                                          | [Twitter](https://x.com/kitsuneton)           |                                                |
 
 ## Infra
 
