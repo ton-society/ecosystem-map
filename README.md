@@ -117,6 +117,7 @@
 | Name          | Telegram | GitHub                              | Twitter                                     | Website                              |
 | ------------- | -------- | ----------------------------------- | ------------------------------------------- | ------------------------------------ |
 | Evaa Protocol |          | [GitHub](https://github.com/evaafi) | [Twitter](https://twitter.com/evaaprotocol) | [Website](https://app.evaa.finance/) |
+| TON Loan | [Telegram](https://t.me/TonLoan_bot) | [GitHub](https://github.com/ton-loan) |  | [Website](https://tonloan.com) |
 
 ### Staking
 
