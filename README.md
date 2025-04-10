@@ -310,6 +310,7 @@
 | TON Timer            |                                      | [GitHub](https://github.com/ProgramCrafter/ton-stable-timer/) |                                          | [Website](https://programcrafter.github.io/ton-stable-timer)                                   |
 | Rift                 |                                      |                                                               |                                          | [Website](https://rift.skyring.io)                                                             |
 | TON NoCode SDK       |                                      |                                                               |                                          | [Website](https://novabloq.com/plugin/ton-connect-nocode-sdk-1679505489636x562684572799117440) |
+| TON Graph VSCode ext.| [Telegram](https://t.me/PositiveWeb3)| [GitHub](https://github.com/PositiveSecurity/ton-graph)       |                                          | [Website](https://marketplace.visualstudio.com/items?itemName=PositiveWeb3.ton-graph) |
 
 ### Nodes
 
