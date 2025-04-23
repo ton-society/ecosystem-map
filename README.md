@@ -123,7 +123,7 @@
 | ----------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------------- | --------------------------------------- |
 | TON Whales        | [Telegram](https://t.me/WhalesSupportBot)   | [GitHub](https://github.com/tonwhales)   | [Twitter](https://twitter.com/whalescorp)   | [Website](https://tonwhales.com/)       |
 | TON Validators    | [Telegram](https://t.me/ton_validators_bot) |                                          |                                             | [Website](https://tonvalidators.org/)   |
-| TON Stake         | [Telegram](https://t.me/tonstake_en)        |                                          | [Twitter](https://twitter.com/tonstakecom)  | [Website](https://www.tonstake.com/#/)  |
+| KTON             | [Telegram](https://t.me/ktonio_bot)         | [GitHub](https://github.com/ton-blockchain/liquid-staking-contract/tree/v2) | [Twitter](https://x.com/kton_io)  | [Website](https://kton.io/)  |
 | TON Raffles       | [Telegram](https://t.me/tonraffles)         |                                          | [Twitter](https://x.com/TonRaffles)         | [Website](https://tonraffles.app)       |
 | Hipo Finance      | [Telegram](https://t.me/hipo_chat)          | [GitHub](https://github.com/HipoFinance) | [Twitter](https://twitter.com/hipofinance)  | [Website](https://app.hipo.finance/)    |
 | TON Stake Lottery | [Telegram](https://t.me/tonstakelottery)    |                                          |                                             | [Website](https://tonstakelottery.com/) |
