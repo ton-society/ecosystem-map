@@ -137,6 +137,7 @@
 | Name          | Telegram                                 | GitHub | Twitter                                        | Website                              |
 | ------------- | ---------------------------------------- | ------ | ---------------------------------------------- | ------------------------------------ |
 | Aqua Protocol | [Telegram](https://t.me/aquaprotocolxyz) |        | [Twitter](https://twitter.com/aquaprotocolxyz) | [Website](https://aquaprotocol.xyz/) |
+| Telegram USD (tgUSD) | [Telegram](https://t.me/tgusd_official_bot/app) |   [GitHub](https://github.com/torch-core)     | [Twitter](https://x.com/TorchTon) |  [Website](https://torch.finance) |
 
 ## Launchpad
 
