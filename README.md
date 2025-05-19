@@ -235,7 +235,8 @@
 | Partona.AI              | [Telegram](https://t.me/partona_bot)            |                                                              | [Twitter](https://x.com/partona_ai)           | [Website](https://partona.ai)                  |
 | Dungeon of KITSU        | [Telegram](https://t.me/DungeonsOfKitsune_bot/game) |                                                          | [Twitter](https://x.com/kitsuneton)           |                                                |
 | TonPrison        | [Telegram](https://t.me/TonPrisonNews) |                                                          | [Twitter](https://x.com/TonPrison)           |[Website](https://t.me/tonprison_bot/tonprison)                      |
-| Landrocker Miner        | [Telegram](https://t.me/landrocker_miner_bot)   | [GitHub](https://github.com/infinite8fze)                    | [Twitter](https://x.com/landrocker_io)        | [Website](https://landrocker.io/)              |
+| Landrocker Miner        | [Telegram](https://t.me/landrocker_miner_bot)   | [GitHub](https://github.com/infinite8fze)                    | [Twitter](https://x.com/landrocker_io)        | [Website](https://landrocker.io/)
+| MortalCoin       | [Telegram](https://t.me/themortalcoin_bot)             |                                                              | [Twitter](https://x.com/themortalcoin)        | [Website](https://mortalcoin.app/)             |
 ## Infra
 
 ### Web3 Internet
