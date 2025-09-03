@@ -2,8 +2,10 @@
 	<img width="100%" src="./assets/images/ecosystem.png" alt="TON Ecosystem" />
 </a>
 
+
 > [!WARNING]
 > This repository is archived and is more likely to be out of date.
+> 
 > Register your project on the [TON Builders Portal](https://builders.ton.org/) to unlock support programs, resources, and partner offers — everything you need to build and grow on TON.
 
 ## A collection of live projects within the TON Ecosystem
